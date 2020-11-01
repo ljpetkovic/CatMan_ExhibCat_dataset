@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>1875_02_LAC_N182_0001.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-03T23:17:16.631+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2108" WIDTH="1246">
+      <PrintSpace HEIGHT="2108" WIDTH="1246" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="1963" WIDTH="1183" VPOS="74" HPOS="42">
+          <TextLine ID="r1l1" BASELINE="124" HEIGHT="85" WIDTH="1179" VPOS="39" HPOS="43">
+            <String HEIGHT="85" WIDTH="750" VPOS="39" HPOS="-11" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="85" WIDTH="54" VPOS="39" HPOS="740"/>
+            <String HEIGHT="85" WIDTH="697" VPOS="39" HPOS="525" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT1"/>
+          </TextLine>
+          <TextLine ID="r1l2" BASELINE="218" HEIGHT="76" WIDTH="881" VPOS="142" HPOS="196">
+            <String HEIGHT="76" WIDTH="220" VPOS="142" HPOS="159" CONTENT="ET" ID="r1l2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="76" WIDTH="37" VPOS="142" HPOS="380"/>
+            <String HEIGHT="76" WIDTH="477" VPOS="142" HPOS="269" CONTENT="DOCUMENTS" ID="r1l2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="76" WIDTH="37" VPOS="142" HPOS="747"/>
+            <String HEIGHT="76" WIDTH="477" VPOS="142" HPOS="600" CONTENT="HISTORIQUES" ID="r1l2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l3" BASELINE="325" HEIGHT="63" WIDTH="1045" VPOS="262" HPOS="122">
+            <String HEIGHT="63" WIDTH="249" VPOS="262" HPOS="97" CONTENT="MAISON" ID="r1l3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="346"/>
+            <String HEIGHT="63" WIDTH="249" VPOS="262" HPOS="271" CONTENT="FONDÉE" ID="r1l3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="520"/>
+            <String HEIGHT="63" WIDTH="149" VPOS="262" HPOS="445" CONTENT="EN" ID="r1l3_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="595"/>
+            <String HEIGHT="63" WIDTH="199" VPOS="262" HPOS="520" CONTENT="1830" ID="r1l3_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="719"/>
+            <String HEIGHT="63" WIDTH="174" VPOS="262" HPOS="645" CONTENT="PAR" ID="r1l3_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="819"/>
+            <String HEIGHT="63" WIDTH="149" VPOS="262" HPOS="744" CONTENT="J." ID="r1l3_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="893"/>
+            <String HEIGHT="63" WIDTH="299" VPOS="262" HPOS="819" CONTENT="CHARAVAY" ID="r1l3_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="63" WIDTH="25" VPOS="262" HPOS="1117"/>
+            <String HEIGHT="63" WIDTH="149" VPOS="262" HPOS="1018" CONTENT="AINÉ" ID="r1l3_8" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l4" BASELINE="403" HEIGHT="64" WIDTH="244" VPOS="339" HPOS="517">
+            <String HEIGHT="64" WIDTH="105" VPOS="339" HPOS="500" CONTENT="et" ID="r1l4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="339" HPOS="604"/>
+            <String HEIGHT="64" WIDTH="192" VPOS="339" HPOS="552" CONTENT="dirigée" ID="r1l4_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="339" HPOS="744"/>
+            <String HEIGHT="64" WIDTH="87" VPOS="339" HPOS="674" CONTENT="par" ID="r1l4_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l5" BASELINE="480" HEIGHT="94" WIDTH="753" VPOS="386" HPOS="269">
+            <String HEIGHT="94" WIDTH="307" VPOS="386" HPOS="241" CONTENT="ÉTIENNE" ID="r1l5_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="94" WIDTH="28" VPOS="386" HPOS="548"/>
+            <String HEIGHT="94" WIDTH="335" VPOS="386" HPOS="464" CONTENT="CHARAVAY" ID="r1l5_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="94" WIDTH="28" VPOS="386" HPOS="799"/>
+            <String HEIGHT="94" WIDTH="223" VPOS="386" HPOS="715" CONTENT="FILS" ID="r1l5_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="94" WIDTH="28" VPOS="386" HPOS="938"/>
+            <String HEIGHT="94" WIDTH="167" VPOS="386" HPOS="855" CONTENT="ET" ID="r1l5_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="94" WIDTH="28" VPOS="386" HPOS="1022"/>
+            <String HEIGHT="94" WIDTH="112" VPOS="386" HPOS="910" CONTENT="Sr" ID="r1l5_5" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l6" BASELINE="532" HEIGHT="54" WIDTH="875" VPOS="478" HPOS="206">
+            <String HEIGHT="54" WIDTH="525" VPOS="478" HPOS="187" CONTENT="ARCHIVISTE-PALÉOGRAPHE," ID="r1l6_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="54" WIDTH="19" VPOS="478" HPOS="712"/>
+            <String HEIGHT="54" WIDTH="194" VPOS="478" HPOS="653" CONTENT="EXPERT" ID="r1l6_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="54" WIDTH="19" VPOS="478" HPOS="848"/>
+            <String HEIGHT="54" WIDTH="117" VPOS="478" HPOS="789" CONTENT="EN" ID="r1l6_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="54" WIDTH="19" VPOS="478" HPOS="906"/>
+            <String HEIGHT="54" WIDTH="253" VPOS="478" HPOS="828" CONTENT="AUTOGRAPHES" ID="r1l6_4" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l7" BASELINE="619" HEIGHT="84" WIDTH="555" VPOS="535" HPOS="361">
+            <String HEIGHT="84" WIDTH="121" VPOS="535" HPOS="337" CONTENT="A" ID="r1l7_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="24" VPOS="535" HPOS="458"/>
+            <String HEIGHT="84" WIDTH="217" VPOS="535" HPOS="385" CONTENT="Paris" ID="r1l7_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="24" VPOS="535" HPOS="602"/>
+            <String HEIGHT="84" WIDTH="169" VPOS="535" HPOS="530" CONTENT="rue" ID="r1l7_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="24" VPOS="535" HPOS="699"/>
+            <String HEIGHT="84" WIDTH="145" VPOS="535" HPOS="626" CONTENT="de" ID="r1l7_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="24" VPOS="535" HPOS="771"/>
+            <String HEIGHT="84" WIDTH="217" VPOS="535" HPOS="699" CONTENT="Seine" ID="r1l7_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="24" VPOS="535" HPOS="916"/>
+            <String HEIGHT="84" WIDTH="97" VPOS="535" HPOS="819" CONTENT="51" ID="r1l7_6" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l8" BASELINE="703" HEIGHT="96" WIDTH="664" VPOS="607" HPOS="310">
+            <String HEIGHT="96" WIDTH="233" VPOS="607" HPOS="292" CONTENT="ci-devant" ID="r1l8_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="18" VPOS="607" HPOS="525"/>
+            <String HEIGHT="96" WIDTH="126" VPOS="607" HPOS="472" CONTENT="rue" ID="r1l8_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="18" VPOS="607" HPOS="597"/>
+            <String HEIGHT="96" WIDTH="126" VPOS="607" HPOS="543" CONTENT="des" ID="r1l8_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="18" VPOS="607" HPOS="669"/>
+            <String HEIGHT="96" WIDTH="359" VPOS="607" HPOS="615" CONTENT="Grands-Augustins" ID="r1l8_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="18" VPOS="607" HPOS="974"/>
+            <String HEIGHT="96" WIDTH="72" VPOS="607" HPOS="902" CONTENT="26" ID="r1l8_5" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l9" BASELINE="797" HEIGHT="97" WIDTH="1052" VPOS="700" HPOS="118">
+            <String HEIGHT="97" WIDTH="416" VPOS="700" HPOS="94" CONTENT="CORRESPONDANT" ID="r1l9_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="509"/>
+            <String HEIGHT="97" WIDTH="269" VPOS="700" HPOS="436" CONTENT="SPÉCIAL" ID="r1l9_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="705"/>
+            <String HEIGHT="97" WIDTH="122" VPOS="700" HPOS="632" CONTENT="A" ID="r1l9_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="754"/>
+            <String HEIGHT="97" WIDTH="269" VPOS="700" HPOS="681" CONTENT="LONDRES" ID="r1l9_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="950"/>
+            <String HEIGHT="97" WIDTH="122" VPOS="700" HPOS="876" CONTENT=":" ID="r1l9_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="999"/>
+            <String HEIGHT="97" WIDTH="147" VPOS="700" HPOS="925" CONTENT="F." ID="r1l9_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="97" WIDTH="24" VPOS="700" HPOS="1072"/>
+            <String HEIGHT="97" WIDTH="196" VPOS="700" HPOS="974" CONTENT="NAYLOR" ID="r1l9_7" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l10" BASELINE="849" HEIGHT="57" WIDTH="440" VPOS="792" HPOS="419">
+            <String HEIGHT="57" WIDTH="88" VPOS="792" HPOS="404" CONTENT="4," ID="r1l10_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="15" VPOS="792" HPOS="492"/>
+            <String HEIGHT="57" WIDTH="161" VPOS="792" HPOS="448" CONTENT="Millman" ID="r1l10_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="15" VPOS="792" HPOS="610"/>
+            <String HEIGHT="57" WIDTH="161" VPOS="792" HPOS="566" CONTENT="street," ID="r1l10_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="15" VPOS="792" HPOS="727"/>
+            <String HEIGHT="57" WIDTH="161" VPOS="792" HPOS="683" CONTENT="Bedford" ID="r1l10_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="15" VPOS="792" HPOS="844"/>
+            <String HEIGHT="57" WIDTH="73" VPOS="792" HPOS="786" CONTENT="Row" ID="r1l10_5" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l11" BASELINE="919" HEIGHT="50" WIDTH="1026" VPOS="869" HPOS="126">
+            <String HEIGHT="50" WIDTH="134" VPOS="869" HPOS="111" CONTENT="ACHAT" ID="r1l11_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="245"/>
+            <String HEIGHT="50" WIDTH="89" VPOS="869" HPOS="200" CONTENT="DE" ID="r1l11_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="290"/>
+            <String HEIGHT="50" WIDTH="223" VPOS="869" HPOS="245" CONTENT="COLLECTIONS" ID="r1l11_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="468"/>
+            <String HEIGHT="50" WIDTH="253" VPOS="869" HPOS="423" CONTENT="D’AUTOGRAPHES" ID="r1l11_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="676"/>
+            <String HEIGHT="50" WIDTH="89" VPOS="869" HPOS="632" CONTENT="AU" ID="r1l11_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="721"/>
+            <String HEIGHT="50" WIDTH="193" VPOS="869" HPOS="676" CONTENT="COMPTANT;" ID="r1l11_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="869"/>
+            <String HEIGHT="50" WIDTH="193" VPOS="869" HPOS="825" CONTENT="ÉCHANGES;" ID="r1l11_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="50" WIDTH="15" VPOS="869" HPOS="1018"/>
+            <String HEIGHT="50" WIDTH="193" VPOS="869" HPOS="959" CONTENT="COMMISSIONS" ID="r1l11_8" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l12" BASELINE="960" HEIGHT="44" WIDTH="959" VPOS="916" HPOS="159">
+            <String HEIGHT="44" WIDTH="150" VPOS="916" HPOS="144" CONTENT="VENTES" ID="r1l12_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="294"/>
+            <String HEIGHT="44" WIDTH="195" VPOS="916" HPOS="249" CONTENT="PUBLIQUES" ID="r1l12_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="444"/>
+            <String HEIGHT="44" WIDTH="90" VPOS="916" HPOS="399" CONTENT="ET" ID="r1l12_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="489"/>
+            <String HEIGHT="44" WIDTH="75" VPOS="916" HPOS="444" CONTENT="A" ID="r1l12_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="519"/>
+            <String HEIGHT="44" WIDTH="210" VPOS="916" HPOS="474" CONTENT="L'AMIABLE;" ID="r1l12_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="683"/>
+            <String HEIGHT="44" WIDTH="195" VPOS="916" HPOS="639" CONTENT="RÉDACTION" ID="r1l12_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="833"/>
+            <String HEIGHT="44" WIDTH="90" VPOS="916" HPOS="788" CONTENT="DE" ID="r1l12_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="878"/>
+            <String HEIGHT="44" WIDTH="225" VPOS="916" HPOS="833" CONTENT="CATALOGUES;" ID="r1l12_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="916" HPOS="1058"/>
+            <String HEIGHT="44" WIDTH="120" VPOS="916" HPOS="998" CONTENT="COPIES" ID="r1l12_9" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l13" BASELINE="1004" HEIGHT="58" WIDTH="837" VPOS="946" HPOS="223">
+            <String HEIGHT="58" WIDTH="209" VPOS="946" HPOS="208" CONTENT="CERTIFIÉES" ID="r1l13_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="417"/>
+            <String HEIGHT="58" WIDTH="90" VPOS="946" HPOS="372" CONTENT="DE" ID="r1l13_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="462"/>
+            <String HEIGHT="58" WIDTH="179" VPOS="946" HPOS="417" CONTENT="CHARTES," ID="r1l13_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="597"/>
+            <String HEIGHT="58" WIDTH="194" VPOS="946" HPOS="552" CONTENT="DOCUMENTS" ID="r1l13_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="746"/>
+            <String HEIGHT="58" WIDTH="90" VPOS="946" HPOS="701" CONTENT="ET" ID="r1l13_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="791"/>
+            <String HEIGHT="58" WIDTH="239" VPOS="946" HPOS="746" CONTENT="AUTOGRAPHES;" ID="r1l13_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="946" HPOS="985"/>
+            <String HEIGHT="58" WIDTH="135" VPOS="946" HPOS="925" CONTENT="VÉRIFI" SUBS_TYPE="HypPart1" SUBS_CONTENT="VÉRIFICATION" ID="r1l13_7" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
+          </TextLine>
+          <TextLine ID="r1l14" BASELINE="1038" HEIGHT="58" WIDTH="695" VPOS="980" HPOS="292">
+            <String HEIGHT="58" WIDTH="148" VPOS="980" HPOS="277" CONTENT="CATION" SUBS_TYPE="HypPart2" SUBS_CONTENT="VÉRIFICATION" ID="r1l14_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="980" HPOS="425"/>
+            <String HEIGHT="58" WIDTH="89" VPOS="980" HPOS="381" CONTENT="DE" ID="r1l14_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="980" HPOS="469"/>
+            <String HEIGHT="58" WIDTH="148" VPOS="980" HPOS="425" CONTENT="PIÈCES" ID="r1l14_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="980" HPOS="573"/>
+            <String HEIGHT="58" WIDTH="89" VPOS="980" HPOS="529" CONTENT="ET" ID="r1l14_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="980" HPOS="617"/>
+            <String HEIGHT="58" WIDTH="222" VPOS="980" HPOS="573" CONTENT="CERTIFICATS" ID="r1l14_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="15" VPOS="980" HPOS="795"/>
+            <String HEIGHT="58" WIDTH="251" VPOS="980" HPOS="736" CONTENT="D’AUTHENTICITÉ;" ID="r1l14_6" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l15" BASELINE="1080" HEIGHT="61" WIDTH="571" VPOS="1019" HPOS="358">
+            <String HEIGHT="61" WIDTH="225" VPOS="1019" HPOS="343" CONTENT="PUBLICATION" ID="r1l15_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="15" VPOS="1019" HPOS="568"/>
+            <String HEIGHT="61" WIDTH="90" VPOS="1019" HPOS="523" CONTENT="DE" ID="r1l15_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="15" VPOS="1019" HPOS="613"/>
+            <String HEIGHT="61" WIDTH="195" VPOS="1019" HPOS="568" CONTENT="L’AMATEUR" ID="r1l15_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="15" VPOS="1019" HPOS="764"/>
+            <String HEIGHT="61" WIDTH="225" VPOS="1019" HPOS="704" CONTENT="D’AUTOGRAPHES" ID="r1l15_4" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l16" BASELINE="1106" HEIGHT="52" WIDTH="371" VPOS="1054" HPOS="452">
+            <String HEIGHT="52" WIDTH="89" VPOS="1054" HPOS="437" CONTENT="ET" ID="r1l16_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1054" HPOS="526"/>
+            <String HEIGHT="52" WIDTH="89" VPOS="1054" HPOS="482" CONTENT="DU" ID="r1l16_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1054" HPOS="571"/>
+            <String HEIGHT="52" WIDTH="208" VPOS="1054" HPOS="526" CONTENT="SUPPLÉMENT" ID="r1l16_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1054" HPOS="734"/>
+            <String HEIGHT="52" WIDTH="74" VPOS="1054" HPOS="689" CONTENT="A" ID="r1l16_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1054" HPOS="764"/>
+            <String HEIGHT="52" WIDTH="119" VPOS="1054" HPOS="704" CONTENT="L’ISO" SUBS_TYPE="HypPart1" SUBS_CONTENT="L’ISOGRAPHIE" ID="r1l16_5" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
+          </TextLine>
+          <TextLine ID="r1l17" BASELINE="1145" HEIGHT="57" WIDTH="293" VPOS="1088" HPOS="495">
+            <String HEIGHT="57" WIDTH="179" VPOS="1088" HPOS="479" CONTENT="GRAPHIE" SUBS_TYPE="HypPart2" SUBS_CONTENT="L’ISOGRAPHIE" ID="r1l17_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="16" VPOS="1088" HPOS="658"/>
+            <String HEIGHT="57" WIDTH="114" VPOS="1088" HPOS="609" CONTENT="DES" ID="r1l17_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="57" WIDTH="16" VPOS="1088" HPOS="723"/>
+            <String HEIGHT="57" WIDTH="130" VPOS="1088" HPOS="658" CONTENT="HOMMES" ID="r1l17_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l18" BASELINE="1177" HEIGHT="49" WIDTH="135" VPOS="1128" HPOS="570">
+            <String HEIGHT="49" WIDTH="169" VPOS="1128" HPOS="536" CONTENT="CÉLÈBRES" ID="r1l18_1" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l19" BASELINE="1180" HEIGHT="83" WIDTH="314" VPOS="1097" HPOS="71">
+            <String HEIGHT="83" WIDTH="314" VPOS="1097" HPOS="40" CONTENT="Numéro" ID="r1l19_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="83" WIDTH="31" VPOS="1097" HPOS="354"/>
+            <String HEIGHT="83" WIDTH="157" VPOS="1097" HPOS="228" CONTENT="182" ID="r1l19_2" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l20" BASELINE="1188" HEIGHT="88" WIDTH="303" VPOS="1100" HPOS="907">
+            <String HEIGHT="88" WIDTH="278" VPOS="1100" HPOS="882" CONTENT="Février" ID="r1l20_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="88" WIDTH="25" VPOS="1100" HPOS="1160"/>
+            <String HEIGHT="88" WIDTH="152" VPOS="1100" HPOS="1059" CONTENT="1875" ID="r1l20_2" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l22" BASELINE="1303" HEIGHT="75" WIDTH="1046" VPOS="1228" HPOS="187">
+            <String HEIGHT="75" WIDTH="163" VPOS="1228" HPOS="171" CONTENT="26676." ID="r1l22_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="334"/>
+            <String HEIGHT="75" WIDTH="163" VPOS="1228" HPOS="285" CONTENT="AGOULT" ID="r1l22_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="449"/>
+            <String HEIGHT="75" WIDTH="114" VPOS="1228" HPOS="399" CONTENT="(la" ID="r1l22_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="514"/>
+            <String HEIGHT="75" WIDTH="196" VPOS="1228" HPOS="465" CONTENT="comtesse" ID="r1l22_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="661"/>
+            <String HEIGHT="75" WIDTH="131" VPOS="1228" HPOS="612" CONTENT="d’)," ID="r1l22_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="743"/>
+            <String HEIGHT="75" WIDTH="180" VPOS="1228" HPOS="694" CONTENT="célèbre" ID="r1l22_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="873"/>
+            <String HEIGHT="75" WIDTH="245" VPOS="1228" HPOS="824" CONTENT="romancière." ID="r1l22_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="1070"/>
+            <String HEIGHT="75" WIDTH="82" VPOS="1228" HPOS="1021" CONTENT="—" ID="r1l22_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="1102"/>
+            <String HEIGHT="75" WIDTH="98" VPOS="1228" HPOS="1053" CONTENT="L." ID="r1l22_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="1151"/>
+            <String HEIGHT="75" WIDTH="98" VPOS="1228" HPOS="1102" CONTENT="a." ID="r1l22_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="1200"/>
+            <String HEIGHT="75" WIDTH="98" VPOS="1228" HPOS="1151" CONTENT="s." ID="r1l22_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1228" HPOS="1249"/>
+            <String HEIGHT="75" WIDTH="49" VPOS="1228" HPOS="1184" CONTENT="à" ID="r1l22_12" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l23" BASELINE="1360" HEIGHT="67" WIDTH="881" VPOS="1293" HPOS="183">
+            <String HEIGHT="67" WIDTH="304" VPOS="1293" HPOS="167" CONTENT="Thalès-Bernard;" ID="r1l23_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="471"/>
+            <String HEIGHT="67" WIDTH="144" VPOS="1293" HPOS="423" CONTENT="1867," ID="r1l23_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="567"/>
+            <String HEIGHT="67" WIDTH="80" VPOS="1293" HPOS="519" CONTENT="1" ID="r1l23_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="599"/>
+            <String HEIGHT="67" WIDTH="96" VPOS="1293" HPOS="551" CONTENT="p." ID="r1l23_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="648"/>
+            <String HEIGHT="67" WIDTH="112" VPOS="1293" HPOS="599" CONTENT="1/2" ID="r1l23_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="712"/>
+            <String HEIGHT="67" WIDTH="144" VPOS="1293" HPOS="664" CONTENT="in-8." ID="r1l23_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="808"/>
+            <String HEIGHT="67" WIDTH="272" VPOS="1293" HPOS="760" CONTENT="Intéressante." ID="r1l23_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="1032"/>
+            <String HEIGHT="67" WIDTH="80" VPOS="1293" HPOS="984" CONTENT="2" ID="r1l23_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="16" VPOS="1293" HPOS="1064"/>
+            <String HEIGHT="67" WIDTH="64" VPOS="1293" HPOS="1000" CONTENT="50" ID="r1l23_9" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l28" BASELINE="1406" HEIGHT="66" WIDTH="1042" VPOS="1340" HPOS="181">
+            <String HEIGHT="66" WIDTH="158" VPOS="1340" HPOS="165" CONTENT="26617." ID="r1l28_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="323"/>
+            <String HEIGHT="66" WIDTH="126" VPOS="1340" HPOS="276" CONTENT="ALBE" ID="r1l28_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="402"/>
+            <String HEIGHT="66" WIDTH="332" VPOS="1340" HPOS="355" CONTENT="(Fernando-Alvarès" ID="r1l28_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="686"/>
+            <String HEIGHT="66" WIDTH="95" VPOS="1340" HPOS="639" CONTENT="de" ID="r1l28_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="734"/>
+            <String HEIGHT="66" WIDTH="174" VPOS="1340" HPOS="686" CONTENT="Toledo," ID="r1l28_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="860"/>
+            <String HEIGHT="66" WIDTH="111" VPOS="1340" HPOS="813" CONTENT="duc" ID="r1l28_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="923"/>
+            <String HEIGHT="66" WIDTH="126" VPOS="1340" HPOS="876" CONTENT="d’)," ID="r1l28_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="1002"/>
+            <String HEIGHT="66" WIDTH="221" VPOS="1340" HPOS="955" CONTENT="l’illustre" ID="r1l28_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="16" VPOS="1340" HPOS="1176"/>
+            <String HEIGHT="66" WIDTH="111" VPOS="1340" HPOS="1112" CONTENT="capi" SUBS_TYPE="HypPart1" SUBS_CONTENT="capitaine" ID="r1l28_9" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
+          </TextLine>
+          <TextLine ID="r1l29" BASELINE="1451" HEIGHT="58" WIDTH="1044" VPOS="1393" HPOS="177">
+            <String HEIGHT="58" WIDTH="154" VPOS="1393" HPOS="160" CONTENT="taine" SUBS_TYPE="HypPart2" SUBS_CONTENT="capitaine" ID="r1l29_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="314"/>
+            <String HEIGHT="58" WIDTH="222" VPOS="1393" HPOS="263" CONTENT="espagnol." ID="r1l29_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="485"/>
+            <String HEIGHT="58" WIDTH="86" VPOS="1393" HPOS="434" CONTENT="—" ID="r1l29_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="519"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="468" CONTENT="L." ID="r1l29_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="571"/>
+            <String HEIGHT="58" WIDTH="120" VPOS="1393" HPOS="519" CONTENT="s.," ID="r1l29_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="639"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="588" CONTENT="en" ID="r1l29_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="690"/>
+            <String HEIGHT="58" WIDTH="222" VPOS="1393" HPOS="639" CONTENT="français," ID="r1l29_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="862"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="810" CONTENT="au" ID="r1l29_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="913"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="862" CONTENT="sr" ID="r1l29_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="964"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="913" CONTENT="de" ID="r1l29_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="1016"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="964" CONTENT="La" ID="r1l29_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="1067"/>
+            <String HEIGHT="58" WIDTH="171" VPOS="1393" HPOS="1016" CONTENT="Conte;" ID="r1l29_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="17" VPOS="1393" HPOS="1187"/>
+            <String HEIGHT="58" WIDTH="103" VPOS="1393" HPOS="1118" CONTENT="Bru" SUBS_TYPE="HypPart1" SUBS_CONTENT="Bruxelles," ID="r1l29_13" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
+          </TextLine>
+          <TextLine ID="r1l30" BASELINE="1493" HEIGHT="66" WIDTH="747" VPOS="1427" HPOS="178">
+            <String HEIGHT="66" WIDTH="161" VPOS="1427" HPOS="163" CONTENT="xelles," SUBS_TYPE="HypPart2" SUBS_CONTENT="Bruxelles," ID="r1l30_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="324"/>
+            <String HEIGHT="66" WIDTH="88" VPOS="1427" HPOS="281" CONTENT="30" ID="r1l30_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="368"/>
+            <String HEIGHT="66" WIDTH="132" VPOS="1427" HPOS="324" CONTENT="sept." ID="r1l30_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="456"/>
+            <String HEIGHT="66" WIDTH="132" VPOS="1427" HPOS="412" CONTENT="1579," ID="r1l30_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="544"/>
+            <String HEIGHT="66" WIDTH="103" VPOS="1427" HPOS="500" CONTENT="1/2" ID="r1l30_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="603"/>
+            <String HEIGHT="66" WIDTH="88" VPOS="1427" HPOS="559" CONTENT="p." ID="r1l30_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="647"/>
+            <String HEIGHT="66" WIDTH="176" VPOS="1427" HPOS="603" CONTENT="in-fol.," ID="r1l30_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="779"/>
+            <String HEIGHT="66" WIDTH="161" VPOS="1427" HPOS="735" CONTENT="cachet." ID="r1l30_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="896"/>
+            <String HEIGHT="66" WIDTH="88" VPOS="1427" HPOS="852" CONTENT="40" ID="r1l30_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="15" VPOS="1427" HPOS="940"/>
+            <String HEIGHT="66" WIDTH="44" VPOS="1427" HPOS="881" CONTENT="»" ID="r1l30_10" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l32" BASELINE="1527" HEIGHT="85" WIDTH="1002" VPOS="1442" HPOS="209">
+            <String HEIGHT="85" WIDTH="120" VPOS="1442" HPOS="196" CONTENT="Ordre" ID="r1l32_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="316"/>
+            <String HEIGHT="85" WIDTH="80" VPOS="1442" HPOS="276" CONTENT="de" ID="r1l32_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="356"/>
+            <String HEIGHT="85" WIDTH="200" VPOS="1442" HPOS="316" CONTENT="convocation" ID="r1l32_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="516"/>
+            <String HEIGHT="85" WIDTH="94" VPOS="1442" HPOS="476" CONTENT="des" ID="r1l32_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="570"/>
+            <String HEIGHT="85" WIDTH="120" VPOS="1442" HPOS="530" CONTENT="trois" ID="r1l32_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="650"/>
+            <String HEIGHT="85" WIDTH="120" VPOS="1442" HPOS="610" CONTENT="Etats" ID="r1l32_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="730"/>
+            <String HEIGHT="85" WIDTH="80" VPOS="1442" HPOS="690" CONTENT="du" ID="r1l32_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="770"/>
+            <String HEIGHT="85" WIDTH="107" VPOS="1442" HPOS="730" CONTENT="pays" ID="r1l32_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="837"/>
+            <String HEIGHT="85" WIDTH="160" VPOS="1442" HPOS="797" CONTENT="d’Artois" ID="r1l32_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="957"/>
+            <String HEIGHT="85" WIDTH="107" VPOS="1442" HPOS="917" CONTENT="dans" ID="r1l32_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="1024"/>
+            <String HEIGHT="85" WIDTH="80" VPOS="1442" HPOS="984" CONTENT="la" ID="r1l32_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="1064"/>
+            <String HEIGHT="85" WIDTH="120" VPOS="1442" HPOS="1024" CONTENT="ville" ID="r1l32_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="13" VPOS="1442" HPOS="1144"/>
+            <String HEIGHT="85" WIDTH="120" VPOS="1442" HPOS="1091" CONTENT="d’Arras" ID="r1l32_13" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l34" BASELINE="1568" HEIGHT="64" WIDTH="1042" VPOS="1504" HPOS="181">
+            <String HEIGHT="64" WIDTH="174" VPOS="1504" HPOS="164" CONTENT="26678." ID="r1l34_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="337"/>
+            <String HEIGHT="64" WIDTH="191" VPOS="1504" HPOS="285" CONTENT="ALIBERT" ID="r1l34_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="476"/>
+            <String HEIGHT="64" WIDTH="122" VPOS="1504" HPOS="424" CONTENT="(le" ID="r1l34_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="546"/>
+            <String HEIGHT="64" WIDTH="191" VPOS="1504" HPOS="494" CONTENT="baron)," ID="r1l34_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="685"/>
+            <String HEIGHT="64" WIDTH="191" VPOS="1504" HPOS="633" CONTENT="célèbre" ID="r1l34_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="824"/>
+            <String HEIGHT="64" WIDTH="208" VPOS="1504" HPOS="771" CONTENT="médecin." ID="r1l34_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="980"/>
+            <String HEIGHT="64" WIDTH="87" VPOS="1504" HPOS="928" CONTENT="—" ID="r1l34_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="1015"/>
+            <String HEIGHT="64" WIDTH="104" VPOS="1504" HPOS="963" CONTENT="L." ID="r1l34_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="1067"/>
+            <String HEIGHT="64" WIDTH="104" VPOS="1504" HPOS="1015" CONTENT="a." ID="r1l34_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="1119"/>
+            <String HEIGHT="64" WIDTH="122" VPOS="1504" HPOS="1067" CONTENT="s.," ID="r1l34_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="1188"/>
+            <String HEIGHT="64" WIDTH="87" VPOS="1504" HPOS="1136" CONTENT="1" ID="r1l34_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="64" WIDTH="17" VPOS="1504" HPOS="1223"/>
+            <String HEIGHT="64" WIDTH="69" VPOS="1504" HPOS="1154" CONTENT="p." ID="r1l34_12" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l35" BASELINE="1605" HEIGHT="44" WIDTH="86" VPOS="1561" HPOS="183">
+            <String HEIGHT="44" WIDTH="77" VPOS="1561" HPOS="174" CONTENT="in-4." ID="r1l35_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="9" VPOS="1561" HPOS="252"/>
+            <String HEIGHT="44" WIDTH="43" VPOS="1561" HPOS="226" CONTENT="1" ID="r1l35_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="9" VPOS="1561" HPOS="269"/>
+            <String HEIGHT="44" WIDTH="34" VPOS="1561" HPOS="235" CONTENT="50" ID="r1l35_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l38" BASELINE="1660" HEIGHT="74" WIDTH="1042" VPOS="1586" HPOS="178">
+            <String HEIGHT="74" WIDTH="158" VPOS="1586" HPOS="162" CONTENT="26679." ID="r1l38_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="320"/>
+            <String HEIGHT="74" WIDTH="142" VPOS="1586" HPOS="273" CONTENT="AMIOT" ID="r1l38_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="415"/>
+            <String HEIGHT="74" WIDTH="111" VPOS="1586" HPOS="367" CONTENT="(le" ID="r1l38_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="478"/>
+            <String HEIGHT="74" WIDTH="158" VPOS="1586" HPOS="431" CONTENT="père)," ID="r1l38_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="588"/>
+            <String HEIGHT="74" WIDTH="189" VPOS="1586" HPOS="541" CONTENT="jésuite," ID="r1l38_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="731"/>
+            <String HEIGHT="74" WIDTH="174" VPOS="1586" HPOS="683" CONTENT="célèbre" ID="r1l38_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="857"/>
+            <String HEIGHT="74" WIDTH="253" VPOS="1586" HPOS="810" CONTENT="missionnaire" ID="r1l38_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="1062"/>
+            <String HEIGHT="74" WIDTH="95" VPOS="1586" HPOS="1015" CONTENT="en" ID="r1l38_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="1109"/>
+            <String HEIGHT="74" WIDTH="158" VPOS="1586" HPOS="1062" CONTENT="Chine," ID="r1l38_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="16" VPOS="1586" HPOS="1220"/>
+            <String HEIGHT="74" WIDTH="63" VPOS="1586" HPOS="1157" CONTENT="né" ID="r1l38_10" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l39" BASELINE="1707" HEIGHT="53" WIDTH="1046" VPOS="1654" HPOS="173">
+            <String HEIGHT="53" WIDTH="92" VPOS="1654" HPOS="155" CONTENT="à" ID="r1l39_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="246"/>
+            <String HEIGHT="53" WIDTH="202" VPOS="1654" HPOS="191" CONTENT="Toulon." ID="r1l39_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="393"/>
+            <String HEIGHT="53" WIDTH="92" VPOS="1654" HPOS="338" CONTENT="—" ID="r1l39_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="430"/>
+            <String HEIGHT="53" WIDTH="110" VPOS="1654" HPOS="375" CONTENT="L." ID="r1l39_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="485"/>
+            <String HEIGHT="53" WIDTH="110" VPOS="1654" HPOS="430" CONTENT="a." ID="r1l39_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="540"/>
+            <String HEIGHT="53" WIDTH="110" VPOS="1654" HPOS="485" CONTENT="s." ID="r1l39_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="595"/>
+            <String HEIGHT="53" WIDTH="92" VPOS="1654" HPOS="540" CONTENT="à" ID="r1l39_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="632"/>
+            <String HEIGHT="53" WIDTH="110" VPOS="1654" HPOS="577" CONTENT="M." ID="r1l39_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="687"/>
+            <String HEIGHT="53" WIDTH="239" VPOS="1654" HPOS="632" CONTENT="Desvoyes;" ID="r1l39_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="870"/>
+            <String HEIGHT="53" WIDTH="202" VPOS="1654" HPOS="815" CONTENT="Péking." ID="r1l39_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="1017"/>
+            <String HEIGHT="53" WIDTH="110" VPOS="1654" HPOS="962" CONTENT="14" ID="r1l39_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="1072"/>
+            <String HEIGHT="53" WIDTH="147" VPOS="1654" HPOS="1017" CONTENT="août" ID="r1l39_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="18" VPOS="1654" HPOS="1164"/>
+            <String HEIGHT="53" WIDTH="128" VPOS="1654" HPOS="1091" CONTENT="1788," ID="r1l39_13" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l40" BASELINE="1750" HEIGHT="52" WIDTH="836" VPOS="1698" HPOS="205">
+            <String HEIGHT="52" WIDTH="75" VPOS="1698" HPOS="190" CONTENT="1" ID="r1l40_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="265"/>
+            <String HEIGHT="52" WIDTH="90" VPOS="1698" HPOS="220" CONTENT="p." ID="r1l40_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="310"/>
+            <String HEIGHT="52" WIDTH="134" VPOS="1698" HPOS="265" CONTENT="in-4." ID="r1l40_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="399"/>
+            <String HEIGHT="52" WIDTH="134" VPOS="1698" HPOS="354" CONTENT="Belle" ID="r1l40_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="489"/>
+            <String HEIGHT="52" WIDTH="164" VPOS="1698" HPOS="444" CONTENT="lettre," ID="r1l40_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="608"/>
+            <String HEIGHT="52" WIDTH="149" VPOS="1698" HPOS="563" CONTENT="écrite" ID="r1l40_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="713"/>
+            <String HEIGHT="52" WIDTH="105" VPOS="1698" HPOS="668" CONTENT="sur" ID="r1l40_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="772"/>
+            <String HEIGHT="52" WIDTH="149" VPOS="1698" HPOS="728" CONTENT="papier" ID="r1l40_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="877"/>
+            <String HEIGHT="52" WIDTH="90" VPOS="1698" HPOS="832" CONTENT="de" ID="r1l40_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="922"/>
+            <String HEIGHT="52" WIDTH="149" VPOS="1698" HPOS="877" CONTENT="Chine." ID="r1l40_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="1026"/>
+            <String HEIGHT="52" WIDTH="75" VPOS="1698" HPOS="981" CONTENT="6" ID="r1l40_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="15" VPOS="1698" HPOS="1056"/>
+            <String HEIGHT="52" WIDTH="45" VPOS="1698" HPOS="996" CONTENT="»" ID="r1l40_12" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l43" BASELINE="1802" HEIGHT="60" WIDTH="1039" VPOS="1742" HPOS="178">
+            <String HEIGHT="60" WIDTH="146" VPOS="1742" HPOS="163" CONTENT="26680." ID="r1l43_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="310"/>
+            <String HEIGHT="60" WIDTH="146" VPOS="1742" HPOS="266" CONTENT="AMPÈRE" ID="r1l43_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="412"/>
+            <String HEIGHT="60" WIDTH="176" VPOS="1742" HPOS="368" CONTENT="(J.-J.)," ID="r1l43_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="544"/>
+            <String HEIGHT="60" WIDTH="234" VPOS="1742" HPOS="500" CONTENT="littérateur," ID="r1l43_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="734"/>
+            <String HEIGHT="60" WIDTH="146" VPOS="1742" HPOS="690" CONTENT="auteur" ID="r1l43_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="837"/>
+            <String HEIGHT="60" WIDTH="88" VPOS="1742" HPOS="793" CONTENT="de" ID="r1l43_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="880"/>
+            <String HEIGHT="60" WIDTH="249" VPOS="1742" HPOS="837" CONTENT="l'Histoire" ID="r1l43_7" STYLEREFS="FONT2"/>
+            <SP HEIGHT="60" WIDTH="15" VPOS="1742" HPOS="1085"/>
+            <String HEIGHT="60" WIDTH="190" VPOS="1742" HPOS="1027" CONTENT="romaine" ID="r1l43_8" STYLEREFS="FONT2"/>
+          </TextLine>
+          <TextLine ID="r1l46" BASELINE="1846" HEIGHT="61" WIDTH="634" VPOS="1785" HPOS="583">
+            <String HEIGHT="61" WIDTH="74" VPOS="1785" HPOS="574" CONTENT="à" ID="r1l46_1" STYLEREFS="FONT2"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="647"/>
+            <String HEIGHT="61" WIDTH="147" VPOS="1785" HPOS="620" CONTENT="Rome" ID="r1l46_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="767"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="739" CONTENT="de" ID="r1l46_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="794"/>
+            <String HEIGHT="61" WIDTH="101" VPOS="1785" HPOS="767" CONTENT="l’Acad." ID="r1l46_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="868"/>
+            <String HEIGHT="61" WIDTH="64" VPOS="1785" HPOS="840" CONTENT="fr." ID="r1l46_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="905"/>
+            <String HEIGHT="61" WIDTH="46" VPOS="1785" HPOS="877" CONTENT="—" ID="r1l46_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="923"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="895" CONTENT="L." ID="r1l46_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="951"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="923" CONTENT="a." ID="r1l46_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="978"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="951" CONTENT="s." ID="r1l46_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="1006"/>
+            <String HEIGHT="61" WIDTH="46" VPOS="1785" HPOS="978" CONTENT="à" ID="r1l46_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="1024"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="996" CONTENT="la" ID="r1l46_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="1052"/>
+            <String HEIGHT="61" WIDTH="119" VPOS="1785" HPOS="1024" CONTENT="princesse" ID="r1l46_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="1143"/>
+            <String HEIGHT="61" WIDTH="55" VPOS="1785" HPOS="1116" CONTENT="de" ID="r1l46_13" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="9" VPOS="1785" HPOS="1171"/>
+            <String HEIGHT="61" WIDTH="83" VPOS="1785" HPOS="1134" CONTENT="Belgio" SUBS_TYPE="HypPart1" SUBS_CONTENT="Belgiojoso," ID="r1l46_14" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
+          </TextLine>
+          <TextLine ID="r1l47" BASELINE="1892" HEIGHT="62" WIDTH="249" VPOS="1830" HPOS="179">
+            <String HEIGHT="62" WIDTH="112" VPOS="1830" HPOS="167" CONTENT="joso," SUBS_TYPE="HypPart2" SUBS_CONTENT="Belgiojoso," ID="r1l47_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="12" VPOS="1830" HPOS="279"/>
+            <String HEIGHT="62" WIDTH="62" VPOS="1830" HPOS="241" CONTENT="3" ID="r1l47_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="12" VPOS="1830" HPOS="304"/>
+            <String HEIGHT="62" WIDTH="75" VPOS="1830" HPOS="266" CONTENT="p." ID="r1l47_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="12" VPOS="1830" HPOS="341"/>
+            <String HEIGHT="62" WIDTH="112" VPOS="1830" HPOS="304" CONTENT="in-8." ID="r1l47_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="12" VPOS="1830" HPOS="416"/>
+            <String HEIGHT="62" WIDTH="62" VPOS="1830" HPOS="378" CONTENT="4" ID="r1l47_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="12" VPOS="1830" HPOS="440"/>
+            <String HEIGHT="62" WIDTH="37" VPOS="1830" HPOS="391" CONTENT="»" ID="r1l47_6" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l50" BASELINE="1913" HEIGHT="74" WIDTH="994" VPOS="1839" HPOS="228">
+            <String HEIGHT="74" WIDTH="86" VPOS="1839" HPOS="214" CONTENT="Il" ID="r1l50_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="300"/>
+            <String HEIGHT="74" WIDTH="130" VPOS="1839" HPOS="257" CONTENT="mande" ID="r1l50_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="386"/>
+            <String HEIGHT="74" WIDTH="72" VPOS="1839" HPOS="343" CONTENT="à" ID="r1l50_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="415"/>
+            <String HEIGHT="74" WIDTH="86" VPOS="1839" HPOS="372" CONTENT="la" ID="r1l50_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="458"/>
+            <String HEIGHT="74" WIDTH="187" VPOS="1839" HPOS="415" CONTENT="princesse" ID="r1l50_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="603"/>
+            <String HEIGHT="74" WIDTH="101" VPOS="1839" HPOS="559" CONTENT="que" ID="r1l50_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="660"/>
+            <String HEIGHT="74" WIDTH="101" VPOS="1839" HPOS="617" CONTENT="Mme" ID="r1l50_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="718"/>
+            <String HEIGHT="74" WIDTH="173" VPOS="1839" HPOS="675" CONTENT="Récamier" ID="r1l50_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="847"/>
+            <String HEIGHT="74" WIDTH="86" VPOS="1839" HPOS="804" CONTENT="ne" ID="r1l50_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="891"/>
+            <String HEIGHT="74" WIDTH="115" VPOS="1839" HPOS="847" CONTENT="peut" ID="r1l50_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="963"/>
+            <String HEIGHT="74" WIDTH="158" VPOS="1839" HPOS="919" CONTENT="l’aller" ID="r1l50_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="1078"/>
+            <String HEIGHT="74" WIDTH="130" VPOS="1839" HPOS="1035" CONTENT="voir," ID="r1l50_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="1164"/>
+            <String HEIGHT="74" WIDTH="86" VPOS="1839" HPOS="1121" CONTENT="vu" ID="r1l50_13" STYLEREFS="FONT0"/>
+            <SP HEIGHT="74" WIDTH="14" VPOS="1839" HPOS="1208"/>
+            <String HEIGHT="74" WIDTH="72" VPOS="1839" HPOS="1150" CONTENT="que" ID="r1l50_14" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l51" BASELINE="1970" HEIGHT="70" WIDTH="1039" VPOS="1900" HPOS="178">
+            <String HEIGHT="70" WIDTH="78" VPOS="1900" HPOS="165" CONTENT="M." ID="r1l51_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="243"/>
+            <String HEIGHT="70" WIDTH="78" VPOS="1900" HPOS="204" CONTENT="de" ID="r1l51_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="282"/>
+            <String HEIGHT="70" WIDTH="221" VPOS="1900" HPOS="243" CONTENT="Chateauuriand" ID="r1l51_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="464"/>
+            <String HEIGHT="70" WIDTH="117" VPOS="1900" HPOS="425" CONTENT="vient" ID="r1l51_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="542"/>
+            <String HEIGHT="70" WIDTH="78" VPOS="1900" HPOS="503" CONTENT="de" ID="r1l51_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="581"/>
+            <String HEIGHT="70" WIDTH="130" VPOS="1900" HPOS="542" CONTENT="perdre" ID="r1l51_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="672"/>
+            <String HEIGHT="70" WIDTH="78" VPOS="1900" HPOS="633" CONTENT="un" ID="r1l51_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="710"/>
+            <String HEIGHT="70" WIDTH="208" VPOS="1900" HPOS="672" CONTENT="petit-neveu," ID="r1l51_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="879"/>
+            <String HEIGHT="70" WIDTH="91" VPOS="1900" HPOS="840" CONTENT="son" ID="r1l51_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="931"/>
+            <String HEIGHT="70" WIDTH="156" VPOS="1900" HPOS="892" CONTENT="filleul," ID="r1l51_10" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="1048"/>
+            <String HEIGHT="70" WIDTH="130" VPOS="1900" HPOS="1009" CONTENT="auquel" ID="r1l51_11" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="1139"/>
+            <String HEIGHT="70" WIDTH="78" VPOS="1900" HPOS="1100" CONTENT="il" ID="r1l51_12" STYLEREFS="FONT0"/>
+            <SP HEIGHT="70" WIDTH="13" VPOS="1900" HPOS="1178"/>
+            <String HEIGHT="70" WIDTH="91" VPOS="1900" HPOS="1126" CONTENT="éçait" ID="r1l51_13" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l52" BASELINE="1982" HEIGHT="45" WIDTH="157" VPOS="1937" HPOS="170">
+            <String HEIGHT="45" WIDTH="97" VPOS="1937" HPOS="158" CONTENT="fort" ID="r1l52_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="45" WIDTH="12" VPOS="1937" HPOS="255"/>
+            <String HEIGHT="45" WIDTH="121" VPOS="1937" HPOS="206" CONTENT="attaché." ID="r1l52_2" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l54" BASELINE="2046" HEIGHT="66" WIDTH="1049" VPOS="1980" HPOS="165">
+            <String HEIGHT="66" WIDTH="167" VPOS="1980" HPOS="148" CONTENT="26681." ID="r1l54_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="315"/>
+            <String HEIGHT="66" WIDTH="216" VPOS="1980" HPOS="265" CONTENT="ANDRIEUX," ID="r1l54_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="481"/>
+            <String HEIGHT="66" WIDTH="150" VPOS="1980" HPOS="431" CONTENT="poëte" ID="r1l54_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="581"/>
+            <String HEIGHT="66" WIDTH="100" VPOS="1980" HPOS="531" CONTENT="et" ID="r1l54_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="631"/>
+            <String HEIGHT="66" WIDTH="167" VPOS="1980" HPOS="581" CONTENT="auteur" ID="r1l54_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="748"/>
+            <String HEIGHT="66" WIDTH="250" VPOS="1980" HPOS="698" CONTENT="dramatique," ID="r1l54_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="948"/>
+            <String HEIGHT="66" WIDTH="100" VPOS="1980" HPOS="898" CONTENT="de" ID="r1l54_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="998"/>
+            <String HEIGHT="66" WIDTH="183" VPOS="1980" HPOS="948" CONTENT="l’Acad." ID="r1l54_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="1131"/>
+            <String HEIGHT="66" WIDTH="133" VPOS="1980" HPOS="1081" CONTENT="fr.," ID="r1l54_9" STYLEREFS="FONT0"/>
+            <SP HEIGHT="66" WIDTH="17" VPOS="1980" HPOS="1214"/>
+            <String HEIGHT="66" WIDTH="67" VPOS="1980" HPOS="1147" CONTENT="né" ID="r1l54_10" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
