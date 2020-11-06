@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:17:37.649+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:47:58.898+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -245,11 +245,11 @@
             <String HEIGHT="60" WIDTH="103" VPOS="522" HPOS="1006" CONTENT="in" ID="r1l20_12" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l24" BASELINE="630" HEIGHT="53" WIDTH="220" VPOS="577" HPOS="182">
-            <String HEIGHT="53" WIDTH="197" VPOS="577" HPOS="170" CONTENT="Intéressante." ID="r1l24_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="53" WIDTH="12" VPOS="577" HPOS="367"/>
-            <String HEIGHT="53" WIDTH="58" VPOS="577" HPOS="333" CONTENT="3" ID="r1l24_2" STYLEREFS="FONT0"/>
-            <SP HEIGHT="53" WIDTH="12" VPOS="577" HPOS="390"/>
-            <String HEIGHT="53" WIDTH="58" VPOS="577" HPOS="344" CONTENT="»" ID="r1l24_3" STYLEREFS="FONT2"/>
+            <String HEIGHT="53" WIDTH="220" VPOS="577" HPOS="169" CONTENT="Intéressante." ID="r1l24_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="13" VPOS="577" HPOS="389"/>
+            <String HEIGHT="53" WIDTH="65" VPOS="577" HPOS="350" CONTENT="3" ID="r1l24_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="53" WIDTH="13" VPOS="577" HPOS="415"/>
+            <String HEIGHT="53" WIDTH="39" VPOS="577" HPOS="363" CONTENT="»" ID="r1l24_3" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l27" BASELINE="671" HEIGHT="52" WIDTH="750" VPOS="619" HPOS="184">
             <String HEIGHT="52" WIDTH="139" VPOS="619" HPOS="170" CONTENT="27319." ID="r1l27_1" STYLEREFS="FONT0"/>
@@ -912,16 +912,11 @@
             <SP HEIGHT="61" WIDTH="5" VPOS="1545" HPOS="1180"/>
             <String HEIGHT="61" WIDTH="26" VPOS="1545" HPOS="1164" CONTENT="à" ID="r1l85_11" STYLEREFS="FONT0"/>
             <SP HEIGHT="61" WIDTH="5" VPOS="1545" HPOS="1190"/>
-            <String HEIGHT="61" WIDTH="52" VPOS="1545" HPOS="1169" CONTENT="l’archi" ID="r1l85_12" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l87" BASELINE="1612" HEIGHT="61" WIDTH="615" VPOS="1551" HPOS="193">
-            <String HEIGHT="61" WIDTH="0" VPOS="1551" HPOS="808" CONTENT="" ID="r1l87_1" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l88" BASELINE="1610" HEIGHT="67" WIDTH="108" VPOS="1543" HPOS="56">
-            <String HEIGHT="67" WIDTH="0" VPOS="1543" HPOS="164" CONTENT="" ID="r1l88_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="52" VPOS="1545" HPOS="1169" CONTENT="l’archi" SUBS_TYPE="HypPart1" SUBS_CONTENT="l’architecte" ID="r1l85_12" STYLEREFS="FONT0"/>
+            <HYP CONTENT="-"/>
           </TextLine>
           <TextLine ID="r1l89" BASELINE="1654" HEIGHT="68" WIDTH="1021" VPOS="1586" HPOS="195">
-            <String HEIGHT="68" WIDTH="164" VPOS="1586" HPOS="177" CONTENT="tecte" ID="r1l89_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="68" WIDTH="164" VPOS="1586" HPOS="177" CONTENT="tecte" SUBS_TYPE="HypPart2" SUBS_CONTENT="l’architecte" ID="r1l89_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="68" WIDTH="18" VPOS="1586" HPOS="341"/>
             <String HEIGHT="68" WIDTH="219" VPOS="1586" HPOS="286" CONTENT="Doussin;" ID="r1l89_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="68" WIDTH="18" VPOS="1586" HPOS="505"/>
@@ -1091,9 +1086,6 @@
             <String HEIGHT="60" WIDTH="38" VPOS="1801" HPOS="574" CONTENT="1" ID="r1l100_11" STYLEREFS="FONT0"/>
             <SP HEIGHT="60" WIDTH="8" VPOS="1801" HPOS="612"/>
             <String HEIGHT="60" WIDTH="31" VPOS="1801" HPOS="581" CONTENT="50" ID="r1l100_12" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l102" BASELINE="1875" HEIGHT="30" WIDTH="84" VPOS="1845" HPOS="60">
-            <String HEIGHT="30" WIDTH="126" VPOS="1845" HPOS="18" CONTENT="&gt;920" ID="r1l102_1" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l103" BASELINE="1882" HEIGHT="53" WIDTH="670" VPOS="1829" HPOS="556">
             <String HEIGHT="53" WIDTH="116" VPOS="1829" HPOS="544" CONTENT="27330." ID="r1l103_1" STYLEREFS="FONT0"/>

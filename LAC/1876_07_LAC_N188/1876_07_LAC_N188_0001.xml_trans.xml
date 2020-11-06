@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:17:47.493+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:48:03.962+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -27,12 +27,9 @@
       <PrintSpace HEIGHT="1990" WIDTH="1290" VPOS="0" HPOS="0">
         <TextBlock ID="r1" HEIGHT="1845" WIDTH="1189" VPOS="95" HPOS="44">
           <TextLine ID="r1l1" BASELINE="148" HEIGHT="143" WIDTH="1199" VPOS="5" HPOS="37">
-            <String HEIGHT="143" WIDTH="763" VPOS="5" HPOS="-17" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT1"/>
-            <SP HEIGHT="143" WIDTH="55" VPOS="5" HPOS="746"/>
-            <String HEIGHT="143" WIDTH="709" VPOS="5" HPOS="528" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT1"/>
-          </TextLine>
-          <TextLine ID="r1l2" BASELINE="191" HEIGHT="47" WIDTH="43" VPOS="144" HPOS="59">
-            <String HEIGHT="47" WIDTH="72" VPOS="144" HPOS="30" CONTENT=".8." ID="r1l2_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="143" WIDTH="694" VPOS="5" HPOS="-26" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="143" WIDTH="63" VPOS="5" HPOS="668"/>
+            <String HEIGHT="143" WIDTH="820" VPOS="5" HPOS="416" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l3" BASELINE="265" HEIGHT="111" WIDTH="883" VPOS="154" HPOS="192">
             <String HEIGHT="111" WIDTH="196" VPOS="154" HPOS="159" CONTENT="ET" ID="r1l3_1" STYLEREFS="FONT0"/>
@@ -42,9 +39,6 @@
             <String HEIGHT="111" WIDTH="491" VPOS="154" HPOS="584" CONTENT="HISTORIQUES" ID="r1l3_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="111" WIDTH="33" VPOS="154" HPOS="1075"/>
             <String HEIGHT="111" WIDTH="131" VPOS="154" HPOS="944" CONTENT="25" ID="r1l3_4" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l4" BASELINE="306" HEIGHT="101" WIDTH="68" VPOS="205" HPOS="84">
-            <String HEIGHT="101" WIDTH="136" VPOS="205" HPOS="16" CONTENT="2a" ID="r1l4_1" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l5" BASELINE="379" HEIGHT="90" WIDTH="1048" VPOS="289" HPOS="103">
             <String HEIGHT="90" WIDTH="250" VPOS="289" HPOS="78" CONTENT="MAISON" ID="r1l5_1" STYLEREFS="FONT0"/>
@@ -91,9 +85,6 @@
             <String HEIGHT="71" WIDTH="115" VPOS="504" HPOS="778" CONTENT="EN" ID="r1l8_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="71" WIDTH="19" VPOS="504" HPOS="893"/>
             <String HEIGHT="71" WIDTH="250" VPOS="504" HPOS="816" CONTENT="AUTOGRAPHES" ID="r1l8_4" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l9" BASELINE="613" HEIGHT="83" WIDTH="44" VPOS="530" HPOS="1073">
-            <String HEIGHT="83" WIDTH="132" VPOS="530" HPOS="985" CONTENT="2" ID="r1l9_1" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l10" BASELINE="660" HEIGHT="68" WIDTH="560" VPOS="592" HPOS="350">
             <String HEIGHT="68" WIDTH="122" VPOS="592" HPOS="326" CONTENT="A" ID="r1l10_1" STYLEREFS="FONT0"/>

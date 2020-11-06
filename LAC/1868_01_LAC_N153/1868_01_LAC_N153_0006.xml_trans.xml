@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-09-24T15:55:58.793+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:47:10.194+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -63,9 +63,9 @@
             <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="265"/>
             <String HEIGHT="52" WIDTH="108" VPOS="111" HPOS="229" CONTENT="L." ID="r1l4_2" STYLEREFS="FONT2"/>
             <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="337"/>
-            <String HEIGHT="52" WIDTH="120" VPOS="111" HPOS="301" CONTENT="a" ID="r1l4_3" STYLEREFS="FONT2"/>
-            <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="421"/>
-            <String HEIGHT="52" WIDTH="72" VPOS="111" HPOS="385" CONTENT="s." ID="r1l4_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="52" WIDTH="72" VPOS="111" HPOS="301" CONTENT="a." ID="r1l4_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="373"/>
+            <String HEIGHT="52" WIDTH="120" VPOS="111" HPOS="337" CONTENT="s." ID="r1l4_4" STYLEREFS="FONT2"/>
             <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="457"/>
             <String HEIGHT="52" WIDTH="72" VPOS="111" HPOS="421" CONTENT="au" ID="r1l4_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="52" WIDTH="12" VPOS="111" HPOS="493"/>
@@ -293,9 +293,9 @@
             <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="275"/>
             <String HEIGHT="45" WIDTH="113" VPOS="499" HPOS="237" CONTENT="L." ID="r1l23_2" STYLEREFS="FONT2"/>
             <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="351"/>
-            <String HEIGHT="45" WIDTH="126" VPOS="499" HPOS="313" CONTENT="a" ID="r1l23_3" STYLEREFS="FONT2"/>
-            <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="439"/>
-            <String HEIGHT="45" WIDTH="76" VPOS="499" HPOS="401" CONTENT="s." ID="r1l23_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="45" WIDTH="76" VPOS="499" HPOS="313" CONTENT="a." ID="r1l23_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="388"/>
+            <String HEIGHT="45" WIDTH="126" VPOS="499" HPOS="351" CONTENT="s." ID="r1l23_4" STYLEREFS="FONT2"/>
             <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="477"/>
             <String HEIGHT="45" WIDTH="76" VPOS="499" HPOS="439" CONTENT="au" ID="r1l23_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="45" WIDTH="13" VPOS="499" HPOS="514"/>
@@ -474,23 +474,25 @@
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="492"/>
             <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="457" CONTENT="L." ID="r1l33_5" STYLEREFS="FONT2"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="563"/>
-            <String HEIGHT="51" WIDTH="165" VPOS="749" HPOS="527" CONTENT="as&lt;.;" ID="r1l33_6" STYLEREFS="FONT2"/>
+            <String HEIGHT="51" WIDTH="71" VPOS="749" HPOS="527" CONTENT="a." ID="r1l33_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="598"/>
+            <String HEIGHT="51" WIDTH="130" VPOS="749" HPOS="563" CONTENT="s." ID="r1l33_7" STYLEREFS="FONT2"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="692"/>
-            <String HEIGHT="51" WIDTH="118" VPOS="749" HPOS="657" CONTENT="Paris," ID="r1l33_7" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="118" VPOS="749" HPOS="657" CONTENT="Paris," ID="r1l33_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="775"/>
-            <String HEIGHT="51" WIDTH="71" VPOS="749" HPOS="740" CONTENT="12" ID="r1l33_8" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="71" VPOS="749" HPOS="740" CONTENT="12" ID="r1l33_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="810"/>
-            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="775" CONTENT="avril" ID="r1l33_9" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="775" CONTENT="avril" ID="r1l33_10" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="881"/>
-            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="846" CONTENT="1632," ID="r1l33_10" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="846" CONTENT="1632," ID="r1l33_11" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="952"/>
-            <String HEIGHT="51" WIDTH="59" VPOS="749" HPOS="917" CONTENT="1" ID="r1l33_11" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="59" VPOS="749" HPOS="917" CONTENT="1" ID="r1l33_12" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="975"/>
-            <String HEIGHT="51" WIDTH="71" VPOS="749" HPOS="940" CONTENT="p." ID="r1l33_12" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="71" VPOS="749" HPOS="940" CONTENT="p." ID="r1l33_13" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="1011"/>
-            <String HEIGHT="51" WIDTH="83" VPOS="749" HPOS="975" CONTENT="pl." ID="r1l33_13" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="83" VPOS="749" HPOS="975" CONTENT="pl." ID="r1l33_14" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="749" HPOS="1058"/>
-            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="1011" CONTENT="in" ID="r1l33_14" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="106" VPOS="749" HPOS="1011" CONTENT="in" ID="r1l33_15" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l36" BASELINE="842" HEIGHT="59" WIDTH="273" VPOS="783" HPOS="153">
             <String HEIGHT="59" WIDTH="88" VPOS="783" HPOS="144" CONTENT="Légère" ID="r1l36_1" STYLEREFS="FONT0"/>
@@ -674,9 +676,9 @@
             <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="529"/>
             <String HEIGHT="51" WIDTH="120" VPOS="1101" HPOS="489" CONTENT="L." ID="r1l48_5" STYLEREFS="FONT2"/>
             <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="609"/>
-            <String HEIGHT="51" WIDTH="134" VPOS="1101" HPOS="569" CONTENT="a" ID="r1l48_6" STYLEREFS="FONT2"/>
-            <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="703"/>
-            <String HEIGHT="51" WIDTH="80" VPOS="1101" HPOS="663" CONTENT="s." ID="r1l48_7" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="80" VPOS="1101" HPOS="569" CONTENT="a." ID="r1l48_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="649"/>
+            <String HEIGHT="51" WIDTH="134" VPOS="1101" HPOS="609" CONTENT="s." ID="r1l48_7" STYLEREFS="FONT2"/>
             <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="743"/>
             <String HEIGHT="51" WIDTH="67" VPOS="1101" HPOS="703" CONTENT="à" ID="r1l48_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="13" VPOS="1101" HPOS="769"/>
@@ -928,9 +930,9 @@
             <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="275"/>
             <String HEIGHT="46" WIDTH="111" VPOS="1476" HPOS="238" CONTENT="L." ID="r1l63_2" STYLEREFS="FONT2"/>
             <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="348"/>
-            <String HEIGHT="46" WIDTH="123" VPOS="1476" HPOS="311" CONTENT="a" ID="r1l63_3" STYLEREFS="FONT2"/>
-            <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="434"/>
-            <String HEIGHT="46" WIDTH="74" VPOS="1476" HPOS="397" CONTENT="s." ID="r1l63_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="46" WIDTH="74" VPOS="1476" HPOS="311" CONTENT="a." ID="r1l63_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="385"/>
+            <String HEIGHT="46" WIDTH="123" VPOS="1476" HPOS="348" CONTENT="s." ID="r1l63_4" STYLEREFS="FONT2"/>
             <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="471"/>
             <String HEIGHT="46" WIDTH="61" VPOS="1476" HPOS="434" CONTENT="à" ID="r1l63_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="12" VPOS="1476" HPOS="496"/>
@@ -1193,7 +1195,9 @@
             <SP HEIGHT="58" WIDTH="12" VPOS="1822" HPOS="978"/>
             <String HEIGHT="58" WIDTH="108" VPOS="1822" HPOS="942" CONTENT="L." ID="r1l78_10" STYLEREFS="FONT2"/>
             <SP HEIGHT="58" WIDTH="12" VPOS="1822" HPOS="1050"/>
-            <String HEIGHT="58" WIDTH="132" VPOS="1822" HPOS="1002" CONTENT="ai.s" ID="r1l78_11" STYLEREFS="FONT2"/>
+            <String HEIGHT="58" WIDTH="72" VPOS="1822" HPOS="1014" CONTENT="a." ID="r1l78_11" STYLEREFS="FONT2"/>
+            <SP HEIGHT="58" WIDTH="12" VPOS="1822" HPOS="1086"/>
+            <String HEIGHT="58" WIDTH="96" VPOS="1822" HPOS="1038" CONTENT="s." ID="r1l78_12" STYLEREFS="FONT2"/>
           </TextLine>
           <TextLine ID="r1l80" BASELINE="1920" HEIGHT="48" WIDTH="878" VPOS="1872" HPOS="159">
             <String HEIGHT="48" WIDTH="67" VPOS="1872" HPOS="146" CONTENT="à" ID="r1l80_1" STYLEREFS="FONT0"/>

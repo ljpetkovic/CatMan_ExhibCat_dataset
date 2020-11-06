@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:18:07.34+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:48:15.573+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -52,18 +52,11 @@
             <SP HEIGHT="71" WIDTH="16" VPOS="74" HPOS="1072"/>
             <String HEIGHT="71" WIDTH="156" VPOS="74" HPOS="1025" CONTENT="d’État" ID="r2l2_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="71" WIDTH="16" VPOS="74" HPOS="1181"/>
-            <String HEIGHT="71" WIDTH="94" VPOS="74" HPOS="1118" CONTENT="ita" SUBS_TYPE="HypPart1" SUBS_CONTENT="ita5" ID="r2l2_10" STYLEREFS="FONT0"/>
+            <String HEIGHT="71" WIDTH="94" VPOS="74" HPOS="1118" CONTENT="ita" SUBS_TYPE="HypPart1" SUBS_CONTENT="italien." ID="r2l2_10" STYLEREFS="FONT0"/>
             <HYP CONTENT="-"/>
           </TextLine>
-          <TextLine ID="r2l3" BASELINE="168" HEIGHT="31" WIDTH="44" VPOS="137" HPOS="813">
-            <String HEIGHT="31" WIDTH="31" VPOS="137" HPOS="807" CONTENT="5" SUBS_TYPE="HypPart2" SUBS_CONTENT="ita5" ID="r2l3_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="31" WIDTH="6" VPOS="137" HPOS="838"/>
-            <String HEIGHT="31" WIDTH="44" VPOS="137" HPOS="819" CONTENT="9" ID="r2l3_2" STYLEREFS="FONT1"/>
-            <SP HEIGHT="31" WIDTH="6" VPOS="137" HPOS="863"/>
-            <String HEIGHT="31" WIDTH="19" VPOS="137" HPOS="838" CONTENT="C" ID="r2l3_3" STYLEREFS="FONT1"/>
-          </TextLine>
           <TextLine ID="r2l4" BASELINE="187" HEIGHT="51" WIDTH="1045" VPOS="136" HPOS="167">
-            <String HEIGHT="51" WIDTH="154" VPOS="136" HPOS="150" CONTENT="lien." ID="r2l4_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="51" WIDTH="154" VPOS="136" HPOS="150" CONTENT="lien." SUBS_TYPE="HypPart2" SUBS_CONTENT="italien." ID="r2l4_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="17" VPOS="136" HPOS="304"/>
             <String HEIGHT="51" WIDTH="86" VPOS="136" HPOS="253" CONTENT="—" ID="r2l4_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="17" VPOS="136" HPOS="338"/>

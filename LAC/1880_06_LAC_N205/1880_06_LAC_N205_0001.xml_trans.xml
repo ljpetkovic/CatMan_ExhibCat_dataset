@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:18:35.096+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:48:32.403+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -27,16 +27,16 @@
       <PrintSpace HEIGHT="2061" WIDTH="1244" VPOS="0" HPOS="0">
         <TextBlock ID="r1" HEIGHT="1952" WIDTH="1172" VPOS="81" HPOS="36">
           <TextLine ID="r1l1" BASELINE="134" HEIGHT="113" WIDTH="1163" VPOS="21" HPOS="44">
-            <String HEIGHT="113" WIDTH="740" VPOS="21" HPOS="-9" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT1"/>
-            <SP HEIGHT="113" WIDTH="53" VPOS="21" HPOS="731"/>
-            <String HEIGHT="113" WIDTH="687" VPOS="21" HPOS="520" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="673" VPOS="21" HPOS="-17" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="113" WIDTH="61" VPOS="21" HPOS="656"/>
+            <String HEIGHT="113" WIDTH="796" VPOS="21" HPOS="411" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l2" BASELINE="203" HEIGHT="69" WIDTH="709" VPOS="134" HPOS="267">
-            <String HEIGHT="69" WIDTH="236" VPOS="134" HPOS="241" CONTENT="ET" ID="r1l2_1" STYLEREFS="FONT1"/>
-            <SP HEIGHT="69" WIDTH="26" VPOS="134" HPOS="477"/>
-            <String HEIGHT="69" WIDTH="341" VPOS="134" HPOS="398" CONTENT="DOCUMENTS" ID="r1l2_2" STYLEREFS="FONT1"/>
-            <SP HEIGHT="69" WIDTH="26" VPOS="134" HPOS="740"/>
-            <String HEIGHT="69" WIDTH="341" VPOS="134" HPOS="635" CONTENT="HISTORIQUES" ID="r1l2_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="69" WIDTH="177" VPOS="134" HPOS="237" CONTENT="ET" ID="r1l2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="30" VPOS="134" HPOS="415"/>
+            <String HEIGHT="69" WIDTH="384" VPOS="134" HPOS="326" CONTENT="DOCUMENTS" ID="r1l2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="30" VPOS="134" HPOS="710"/>
+            <String HEIGHT="69" WIDTH="384" VPOS="134" HPOS="592" CONTENT="HISTORIQUES" ID="r1l2_3" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l3" BASELINE="287" HEIGHT="69" WIDTH="916" VPOS="218" HPOS="162">
             <String HEIGHT="69" WIDTH="218" VPOS="218" HPOS="140" CONTENT="MAISON" ID="r1l3_1" STYLEREFS="FONT0"/>
@@ -264,17 +264,17 @@
             <String HEIGHT="62" WIDTH="200" VPOS="1238" HPOS="1001" CONTENT="Cazes" ID="r1l21_12" STYLEREFS="FONT2"/>
           </TextLine>
           <TextLine ID="r1l22" BASELINE="1345" HEIGHT="62" WIDTH="993" VPOS="1283" HPOS="207">
-            <String HEIGHT="62" WIDTH="230" VPOS="1283" HPOS="193" CONTENT="Coustou," ID="r1l22_1" STYLEREFS="FONT2"/>
-            <SP HEIGHT="62" WIDTH="14" VPOS="1283" HPOS="423"/>
-            <String HEIGHT="62" WIDTH="201" VPOS="1283" HPOS="380" CONTENT="Coypel" ID="r1l22_2" STYLEREFS="FONT0"/>
-            <SP HEIGHT="62" WIDTH="14" VPOS="1283" HPOS="581"/>
-            <String HEIGHT="62" WIDTH="317" VPOS="1283" HPOS="538" CONTENT="(Charles-Antoine)," ID="r1l22_3" STYLEREFS="FONT0"/>
-            <SP HEIGHT="62" WIDTH="14" VPOS="1283" HPOS="855"/>
-            <String HEIGHT="62" WIDTH="245" VPOS="1283" HPOS="811" CONTENT="Dumont" ID="r1l22_4" STYLEREFS="FONT2"/>
-            <SP HEIGHT="62" WIDTH="14" VPOS="1283" HPOS="1056"/>
-            <String HEIGHT="62" WIDTH="101" VPOS="1283" HPOS="1013" CONTENT="(le" ID="r1l22_5" STYLEREFS="FONT0"/>
-            <SP HEIGHT="62" WIDTH="14" VPOS="1283" HPOS="1114"/>
-            <String HEIGHT="62" WIDTH="144" VPOS="1283" HPOS="1056" CONTENT="Romain)," ID="r1l22_6" STYLEREFS="FONT0"/>
+            <String HEIGHT="62" WIDTH="219" VPOS="1283" HPOS="192" CONTENT="Coustou," ID="r1l22_1" STYLEREFS="FONT2"/>
+            <SP HEIGHT="62" WIDTH="15" VPOS="1283" HPOS="411"/>
+            <String HEIGHT="62" WIDTH="204" VPOS="1283" HPOS="368" CONTENT="Coypel" ID="r1l22_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="62" WIDTH="15" VPOS="1283" HPOS="572"/>
+            <String HEIGHT="62" WIDTH="321" VPOS="1283" HPOS="528" CONTENT="(Charles-Antoine)," ID="r1l22_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="15" VPOS="1283" HPOS="850"/>
+            <String HEIGHT="62" WIDTH="248" VPOS="1283" HPOS="806" CONTENT="Dumont" ID="r1l22_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="62" WIDTH="15" VPOS="1283" HPOS="1054"/>
+            <String HEIGHT="62" WIDTH="102" VPOS="1283" HPOS="1010" CONTENT="(le" ID="r1l22_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="15" VPOS="1283" HPOS="1112"/>
+            <String HEIGHT="62" WIDTH="146" VPOS="1283" HPOS="1054" CONTENT="Romain)," ID="r1l22_6" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l23" BASELINE="1384" HEIGHT="58" WIDTH="998" VPOS="1326" HPOS="204">
             <String HEIGHT="58" WIDTH="230" VPOS="1326" HPOS="191" CONTENT="Natoire" ID="r1l23_1" STYLEREFS="FONT2"/>

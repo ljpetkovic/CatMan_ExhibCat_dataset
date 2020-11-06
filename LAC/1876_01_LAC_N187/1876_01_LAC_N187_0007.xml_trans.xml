@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:17:38.483+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:47:59.486+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -343,17 +343,16 @@
             <SP HEIGHT="42" WIDTH="14" VPOS="567" HPOS="1065"/>
             <String HEIGHT="42" WIDTH="197" VPOS="567" HPOS="1009" CONTENT="consolateur;" ID="r2l26_14" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="r2l27" BASELINE="633" HEIGHT="39" WIDTH="22" VPOS="594" HPOS="433">
-            <String HEIGHT="39" WIDTH="44" VPOS="594" HPOS="411" CONTENT="&gt;»" ID="r2l27_1" STYLEREFS="FONT0"/>
-          </TextLine>
           <TextLine ID="r2l28" BASELINE="642" HEIGHT="45" WIDTH="270" VPOS="597" HPOS="159">
-            <String HEIGHT="45" WIDTH="77" VPOS="597" HPOS="146" CONTENT="le" ID="r2l28_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="45" WIDTH="13" VPOS="597" HPOS="223"/>
-            <String HEIGHT="45" WIDTH="116" VPOS="597" HPOS="185" CONTENT="guide" ID="r2l28_2" STYLEREFS="FONT0"/>
-            <SP HEIGHT="45" WIDTH="13" VPOS="597" HPOS="300"/>
-            <String HEIGHT="45" WIDTH="77" VPOS="597" HPOS="262" CONTENT="et" ID="r2l28_3" STYLEREFS="FONT0"/>
-            <SP HEIGHT="45" WIDTH="13" VPOS="597" HPOS="339"/>
-            <String HEIGHT="45" WIDTH="141" VPOS="597" HPOS="288" CONTENT="l’organe." ID="r2l28_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="45" WIDTH="70" VPOS="597" HPOS="147" CONTENT="le" ID="r2l28_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="45" WIDTH="12" VPOS="597" HPOS="218"/>
+            <String HEIGHT="45" WIDTH="106" VPOS="597" HPOS="182" CONTENT="guide" ID="r2l28_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="45" WIDTH="12" VPOS="597" HPOS="288"/>
+            <String HEIGHT="45" WIDTH="70" VPOS="597" HPOS="253" CONTENT="et" ID="r2l28_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="45" WIDTH="12" VPOS="597" HPOS="323"/>
+            <String HEIGHT="45" WIDTH="153" VPOS="597" HPOS="288" CONTENT="l’organe." ID="r2l28_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="45" WIDTH="12" VPOS="597" HPOS="441"/>
+            <String HEIGHT="45" WIDTH="35" VPOS="597" HPOS="394" CONTENT="»" ID="r2l28_5" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r2l31" BASELINE="686" HEIGHT="67" WIDTH="619" VPOS="619" HPOS="441">
             <String HEIGHT="67" WIDTH="98" VPOS="619" HPOS="431" CONTENT="27356." ID="r2l31_1" STYLEREFS="FONT0"/>
@@ -775,23 +774,23 @@
             <String HEIGHT="48" WIDTH="53" VPOS="1361" HPOS="739" CONTENT="75" ID="r2l87_10" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r2l89" BASELINE="1449" HEIGHT="68" WIDTH="936" VPOS="1381" HPOS="172">
-            <String HEIGHT="68" WIDTH="123" VPOS="1381" HPOS="160" CONTENT="27368." ID="r2l89_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="283"/>
-            <String HEIGHT="68" WIDTH="197" VPOS="1381" HPOS="246" CONTENT="SAINT-PIERRE" ID="r2l89_2" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="443"/>
-            <String HEIGHT="68" WIDTH="172" VPOS="1381" HPOS="406" CONTENT="(Bernardin" ID="r2l89_3" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="578"/>
-            <String HEIGHT="68" WIDTH="99" VPOS="1381" HPOS="541" CONTENT="de)," ID="r2l89_4" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="640"/>
-            <String HEIGHT="68" WIDTH="148" VPOS="1381" HPOS="603" CONTENT="l’auteur" ID="r2l89_5" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="751"/>
-            <String HEIGHT="68" WIDTH="74" VPOS="1381" HPOS="714" CONTENT="de" ID="r2l89_6" STYLEREFS="FONT0"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="788"/>
-            <String HEIGHT="68" WIDTH="135" VPOS="1381" HPOS="751" CONTENT="Paul" ID="r2l89_7" STYLEREFS="FONT2"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="886"/>
-            <String HEIGHT="68" WIDTH="74" VPOS="1381" HPOS="849" CONTENT="et" ID="r2l89_8" STYLEREFS="FONT2"/>
-            <SP HEIGHT="68" WIDTH="12" VPOS="1381" HPOS="923"/>
-            <String HEIGHT="68" WIDTH="234" VPOS="1381" HPOS="874" CONTENT="Virginie" ID="r2l89_9" STYLEREFS="FONT2"/>
+            <String HEIGHT="68" WIDTH="130" VPOS="1381" HPOS="159" CONTENT="27368." ID="r2l89_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="289"/>
+            <String HEIGHT="68" WIDTH="208" VPOS="1381" HPOS="250" CONTENT="SAINT-PIERRE" ID="r2l89_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="458"/>
+            <String HEIGHT="68" WIDTH="182" VPOS="1381" HPOS="419" CONTENT="(Bernardin" ID="r2l89_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="601"/>
+            <String HEIGHT="68" WIDTH="104" VPOS="1381" HPOS="562" CONTENT="de)," ID="r2l89_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="666"/>
+            <String HEIGHT="68" WIDTH="156" VPOS="1381" HPOS="627" CONTENT="l’auteur" ID="r2l89_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="783"/>
+            <String HEIGHT="68" WIDTH="78" VPOS="1381" HPOS="744" CONTENT="de" ID="r2l89_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="822"/>
+            <String HEIGHT="68" WIDTH="143" VPOS="1381" HPOS="783" CONTENT="Paul" ID="r2l89_7" STYLEREFS="FONT2"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="926"/>
+            <String HEIGHT="68" WIDTH="78" VPOS="1381" HPOS="887" CONTENT="et" ID="r2l89_8" STYLEREFS="FONT2"/>
+            <SP HEIGHT="68" WIDTH="13" VPOS="1381" HPOS="965"/>
+            <String HEIGHT="68" WIDTH="195" VPOS="1381" HPOS="913" CONTENT="Virginie" ID="r2l89_9" STYLEREFS="FONT2"/>
           </TextLine>
           <TextLine ID="r2l93" BASELINE="1491" HEIGHT="61" WIDTH="709" VPOS="1430" HPOS="212">
             <String HEIGHT="61" WIDTH="71" VPOS="1430" HPOS="198" CONTENT="—" ID="r2l93_1" STYLEREFS="FONT0"/>

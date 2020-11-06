@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:18:27.309+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:48:27.336+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -51,27 +51,27 @@
             <HYP CONTENT="-"/>
           </TextLine>
           <TextLine ID="r1l2" BASELINE="121" HEIGHT="55" WIDTH="1184" VPOS="66" HPOS="24">
-            <String HEIGHT="55" WIDTH="157" VPOS="66" HPOS="10" CONTENT="gendes:" SUBS_TYPE="HypPart2" SUBS_CONTENT="légendes:" ID="r1l2_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="167"/>
-            <String HEIGHT="55" WIDTH="228" VPOS="66" HPOS="124" CONTENT="Christine" ID="r1l2_2" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="352"/>
-            <String HEIGHT="55" WIDTH="86" VPOS="66" HPOS="309" CONTENT="de" ID="r1l2_3" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="395"/>
-            <String HEIGHT="55" WIDTH="143" VPOS="66" HPOS="352" CONTENT="Suède;" ID="r1l2_4" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="495"/>
-            <String HEIGHT="55" WIDTH="71" VPOS="66" HPOS="452" CONTENT="—" ID="r1l2_5" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="523"/>
-            <String HEIGHT="55" WIDTH="171" VPOS="66" HPOS="480" CONTENT="L’ermite" ID="r1l2_6" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="652"/>
-            <String HEIGHT="55" WIDTH="86" VPOS="66" HPOS="609" CONTENT="de" ID="r1l2_7" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="694"/>
-            <String HEIGHT="55" WIDTH="257" VPOS="66" HPOS="652" CONTENT="Franchard;" ID="r1l2_8" STYLEREFS="FONT2"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="908"/>
-            <String HEIGHT="55" WIDTH="71" VPOS="66" HPOS="866" CONTENT="—" ID="r1l2_9" STYLEREFS="FONT0"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="937"/>
-            <String HEIGHT="55" WIDTH="214" VPOS="66" HPOS="894" CONTENT="Moretta" ID="r1l2_10" STYLEREFS="FONT0"/>
-            <SP HEIGHT="55" WIDTH="14" VPOS="66" HPOS="1108"/>
-            <String HEIGHT="55" WIDTH="157" VPOS="66" HPOS="1051" CONTENT="(histoire" ID="r1l2_11" STYLEREFS="FONT0"/>
+            <String HEIGHT="55" WIDTH="165" VPOS="66" HPOS="9" CONTENT="gendes:" SUBS_TYPE="HypPart2" SUBS_CONTENT="légendes:" ID="r1l2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="174"/>
+            <String HEIGHT="55" WIDTH="240" VPOS="66" HPOS="129" CONTENT="Christine" ID="r1l2_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="369"/>
+            <String HEIGHT="55" WIDTH="90" VPOS="66" HPOS="324" CONTENT="de" ID="r1l2_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="414"/>
+            <String HEIGHT="55" WIDTH="150" VPOS="66" HPOS="369" CONTENT="Suède;" ID="r1l2_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="519"/>
+            <String HEIGHT="55" WIDTH="75" VPOS="66" HPOS="474" CONTENT="—" ID="r1l2_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="549"/>
+            <String HEIGHT="55" WIDTH="180" VPOS="66" HPOS="504" CONTENT="L’ermite" ID="r1l2_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="683"/>
+            <String HEIGHT="55" WIDTH="90" VPOS="66" HPOS="638" CONTENT="de" ID="r1l2_7" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="728"/>
+            <String HEIGHT="55" WIDTH="210" VPOS="66" HPOS="683" CONTENT="Franchard;" ID="r1l2_8" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="893"/>
+            <String HEIGHT="55" WIDTH="75" VPOS="66" HPOS="848" CONTENT="—" ID="r1l2_9" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="923"/>
+            <String HEIGHT="55" WIDTH="225" VPOS="66" HPOS="878" CONTENT="Moretta" ID="r1l2_10" STYLEREFS="FONT2"/>
+            <SP HEIGHT="55" WIDTH="15" VPOS="66" HPOS="1103"/>
+            <String HEIGHT="55" WIDTH="165" VPOS="66" HPOS="1043" CONTENT="(histoire" ID="r1l2_11" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l3" BASELINE="154" HEIGHT="52" WIDTH="180" VPOS="102" HPOS="687">
             <String HEIGHT="52" WIDTH="200" VPOS="102" HPOS="667" CONTENT="Marjolaine" ID="r1l3_1" STYLEREFS="FONT2"/>
@@ -446,12 +446,6 @@
             <String HEIGHT="69" WIDTH="134" VPOS="1069" HPOS="1079" CONTENT="2" ID="r1l38_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="69" WIDTH="27" VPOS="1069" HPOS="1213"/>
             <String HEIGHT="69" WIDTH="107" VPOS="1069" HPOS="1106" CONTENT="50" ID="r1l38_2" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l39" BASELINE="1141" HEIGHT="86" WIDTH="90" VPOS="1055" HPOS="968">
-            <String HEIGHT="86" WIDTH="180" VPOS="1055" HPOS="878" CONTENT="?." ID="r1l39_1" STYLEREFS="FONT0"/>
-          </TextLine>
-          <TextLine ID="r1l40" BASELINE="1142" HEIGHT="64" WIDTH="91" VPOS="1078" HPOS="791">
-            <String HEIGHT="64" WIDTH="152" VPOS="1078" HPOS="730" CONTENT="★,0" ID="r1l40_1" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l41" BASELINE="1143" HEIGHT="79" WIDTH="631" VPOS="1064" HPOS="71">
             <String HEIGHT="79" WIDTH="118" VPOS="1064" HPOS="51" CONTENT="Le" ID="r1l41_1" STYLEREFS="FONT0"/>

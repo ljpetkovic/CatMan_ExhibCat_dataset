@@ -7,7 +7,7 @@
       </sourceImageInformation>
     <OCRProcessing ID="IdOcr">
       <ocrProcessingStep>
-        <processingDateTime>2020-10-03T23:18:30.269+02:00</processingDateTime>
+        <processingDateTime>2020-11-06T13:48:29.074+01:00</processingDateTime>
         <processingSoftware>
                <softwareCreator>CONTRIBUTORS</softwareCreator>
                <softwareName>pdfalto</softwareName>
@@ -27,9 +27,9 @@
       <PrintSpace HEIGHT="2048" WIDTH="1232" VPOS="0" HPOS="0">
         <TextBlock ID="r1" HEIGHT="1923" WIDTH="1174" VPOS="87" HPOS="22">
           <TextLine ID="r1l1" BASELINE="144" HEIGHT="102" WIDTH="1160" VPOS="42" HPOS="43">
-            <String HEIGHT="102" WIDTH="625" VPOS="42" HPOS="-2" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT1"/>
-            <SP HEIGHT="102" WIDTH="45" VPOS="42" HPOS="623"/>
-            <String HEIGHT="102" WIDTH="758" VPOS="42" HPOS="445" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="102" WIDTH="672" VPOS="42" HPOS="-18" CONTENT="LETTRES" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="102" WIDTH="61" VPOS="42" HPOS="654"/>
+            <String HEIGHT="102" WIDTH="794" VPOS="42" HPOS="409" CONTENT="AUTOGRAPHES" ID="r1l1_2" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l2" BASELINE="222" HEIGHT="94" WIDTH="711" VPOS="128" HPOS="265">
             <String HEIGHT="94" WIDTH="178" VPOS="128" HPOS="235" CONTENT="ET" ID="r1l2_1" STYLEREFS="FONT0"/>
