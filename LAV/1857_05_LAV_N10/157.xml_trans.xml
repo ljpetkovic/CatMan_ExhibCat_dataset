@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="2723" WIDTH="1432" VPOS="75" HPOS="48">
         <TextBlock ID="r_1_1" HEIGHT="76" WIDTH="455" VPOS="85" HPOS="528">
           <TextLine ID="tl_1" BASELINE="185" HEIGHT="132" WIDTH="472" VPOS="53" HPOS="519">
-            <String HEIGHT="132" WIDTH="531" VPOS="53" HPOS="460" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="132" WIDTH="531" VPOS="53" HPOS="460" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_2" HEIGHT="66" WIDTH="1334" VPOS="213" HPOS="85">
@@ -131,11 +131,11 @@
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="41" WIDTH="455" VPOS="1012" HPOS="531">
           <TextLine ID="tl_11" BASELINE="1061" HEIGHT="64" WIDTH="472" VPOS="997" HPOS="522">
-            <String HEIGHT="64" WIDTH="322" VPOS="997" HPOS="501" CONTENT="Manuscrits," ID="tl_11_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="64" WIDTH="322" VPOS="997" HPOS="501" CONTENT="Manuscrits," ID="tl_11_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="64" WIDTH="21" VPOS="997" HPOS="822"/>
-            <String HEIGHT="64" WIDTH="193" VPOS="997" HPOS="758" CONTENT="etc.," ID="tl_11_2" STYLEREFS="FONT0"/>
+            <String HEIGHT="64" WIDTH="193" VPOS="997" HPOS="758" CONTENT="etc.," ID="tl_11_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="64" WIDTH="21" VPOS="997" HPOS="951"/>
-            <String HEIGHT="64" WIDTH="129" VPOS="997" HPOS="865" CONTENT="etc." ID="tl_11_3" STYLEREFS="FONT0"/>
+            <String HEIGHT="64" WIDTH="129" VPOS="997" HPOS="865" CONTENT="etc." ID="tl_11_3" STYLEREFS="FONT1"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="53" WIDTH="1317" VPOS="1048" HPOS="102">

@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="3023" WIDTH="1746" VPOS="0" HPOS="0">
         <TextBlock ID="r1" HEIGHT="2672" WIDTH="1467" VPOS="167" HPOS="81">
           <TextLine ID="r1l1" BASELINE="225" HEIGHT="129" WIDTH="518" VPOS="96" HPOS="498">
-            <String HEIGHT="129" WIDTH="604" VPOS="96" HPOS="412" CONTENT="CATALOGUE" ID="r1l1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="129" WIDTH="604" VPOS="96" HPOS="412" CONTENT="CATALOGUE" ID="r1l1_1" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l2" BASELINE="331" HEIGHT="97" WIDTH="1381" VPOS="234" HPOS="71">
             <String HEIGHT="97" WIDTH="237" VPOS="234" HPOS="32" CONTENT="DE" ID="r1l2_1" STYLEREFS="FONT0"/>
@@ -39,11 +39,11 @@
             <String HEIGHT="97" WIDTH="513" VPOS="234" HPOS="939" CONTENT="MANUSCRITS," ID="r1l2_4" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l3" BASELINE="431" HEIGHT="94" WIDTH="660" VPOS="337" HPOS="432">
-            <String HEIGHT="94" WIDTH="302" VPOS="337" HPOS="413" CONTENT="DOCUMENTS" ID="r1l3_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="94" WIDTH="302" VPOS="337" HPOS="413" CONTENT="DOCUMENTS" ID="r1l3_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="94" WIDTH="19" VPOS="337" HPOS="715"/>
-            <String HEIGHT="94" WIDTH="302" VPOS="337" HPOS="658" CONTENT="HISTORIQUES," ID="r1l3_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="94" WIDTH="302" VPOS="337" HPOS="658" CONTENT="HISTORIQUES," ID="r1l3_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="94" WIDTH="19" VPOS="337" HPOS="960"/>
-            <String HEIGHT="94" WIDTH="207" VPOS="337" HPOS="885" CONTENT="ETC.&lt;/&gt;" ID="r1l3_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="94" WIDTH="207" VPOS="337" HPOS="885" CONTENT="ETC." ID="r1l3_3" STYLEREFS="FONT0"/>
           </TextLine>
           <TextLine ID="r1l4" BASELINE="571" HEIGHT="146" WIDTH="1221" VPOS="425" HPOS="159">
             <String HEIGHT="146" WIDTH="733" VPOS="425" HPOS="110" CONTENT="D’AUGUSTE" ID="r1l4_1" STYLEREFS="FONT1"/>
@@ -94,21 +94,21 @@
             <String HEIGHT="68" WIDTH="289" VPOS="992" HPOS="939" CONTENT="bulletin," ID="r1l9_6" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="r1l10" BASELINE="1100" HEIGHT="65" WIDTH="1232" VPOS="1035" HPOS="179">
-            <String HEIGHT="65" WIDTH="188" VPOS="1035" HPOS="158" CONTENT="bsoit" ID="r1l10_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="188" VPOS="1035" HPOS="158" CONTENT="soit" ID="r1l10_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="346"/>
-            <String HEIGHT="65" WIDTH="146" VPOS="1035" HPOS="283" CONTENT="aux" ID="r1l10_2" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="146" VPOS="1035" HPOS="283" CONTENT="aux" ID="r1l10_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="430"/>
-            <String HEIGHT="65" WIDTH="251" VPOS="1035" HPOS="367" CONTENT="enchères" ID="r1l10_3" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="251" VPOS="1035" HPOS="367" CONTENT="enchères" ID="r1l10_3" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="618"/>
-            <String HEIGHT="65" WIDTH="292" VPOS="1035" HPOS="555" CONTENT="publiques," ID="r1l10_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="292" VPOS="1035" HPOS="555" CONTENT="publiques," ID="r1l10_4" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="847"/>
-            <String HEIGHT="65" WIDTH="125" VPOS="1035" HPOS="785" CONTENT="de" ID="r1l10_5" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="125" VPOS="1035" HPOS="785" CONTENT="de" ID="r1l10_5" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="910"/>
-            <String HEIGHT="65" WIDTH="313" VPOS="1035" HPOS="847" CONTENT="Collections" ID="r1l10_6" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="313" VPOS="1035" HPOS="847" CONTENT="Collections" ID="r1l10_6" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="1160"/>
-            <String HEIGHT="65" WIDTH="125" VPOS="1035" HPOS="1098" CONTENT="ou" ID="r1l10_7" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="125" VPOS="1035" HPOS="1098" CONTENT="ou" ID="r1l10_7" STYLEREFS="FONT1"/>
             <SP HEIGHT="65" WIDTH="21" VPOS="1035" HPOS="1223"/>
-            <String HEIGHT="65" WIDTH="271" VPOS="1035" HPOS="1140" CONTENT="parties" ID="r1l10_8" STYLEREFS="FONT0"/>
+            <String HEIGHT="65" WIDTH="271" VPOS="1035" HPOS="1140" CONTENT="parties" ID="r1l10_8" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="r1l11" BASELINE="1162" HEIGHT="78" WIDTH="875" VPOS="1084" HPOS="361">
             <String HEIGHT="78" WIDTH="175" VPOS="1084" HPOS="342" CONTENT="de" ID="r1l11_1" STYLEREFS="FONT1"/>
@@ -127,7 +127,7 @@
             <String HEIGHT="60" WIDTH="351" VPOS="1130" HPOS="730" CONTENT="historiques," ID="r1l12_2" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="r1l13" BASELINE="1219" HEIGHT="49" WIDTH="471" VPOS="1170" HPOS="566">
-            <String HEIGHT="49" WIDTH="344" VPOS="1170" HPOS="548" CONTENT="DHanuscrits," ID="r1l13_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="49" WIDTH="344" VPOS="1170" HPOS="548" CONTENT="Manuscrits," ID="r1l13_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="49" WIDTH="18" VPOS="1170" HPOS="892"/>
             <String HEIGHT="49" WIDTH="163" VPOS="1170" HPOS="838" CONTENT="etc.," ID="r1l13_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="49" WIDTH="18" VPOS="1170" HPOS="1001"/>

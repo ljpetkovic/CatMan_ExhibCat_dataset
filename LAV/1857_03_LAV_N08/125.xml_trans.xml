@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="2717" WIDTH="1443" VPOS="105" HPOS="67">
         <TextBlock ID="r_1_1" HEIGHT="74" WIDTH="460" VPOS="112" HPOS="544">
           <TextLine ID="tl_1" BASELINE="219" HEIGHT="167" WIDTH="477" VPOS="52" HPOS="535">
-            <String HEIGHT="167" WIDTH="537" VPOS="52" HPOS="475" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="167" WIDTH="537" VPOS="52" HPOS="475" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="56" WIDTH="1348" VPOS="246" HPOS="96">
@@ -52,17 +52,17 @@
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="183" WIDTH="1202" VPOS="843" HPOS="177">
           <TextLine ID="tl_4" BASELINE="891" HEIGHT="61" WIDTH="868" VPOS="830" HPOS="345">
-            <String HEIGHT="61" WIDTH="182" VPOS="830" HPOS="325" CONTENT="bsoit" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="182" VPOS="830" HPOS="325" CONTENT="soit" ID="tl_4_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="61" WIDTH="20" VPOS="830" HPOS="506"/>
-            <String HEIGHT="61" WIDTH="141" VPOS="830" HPOS="446" CONTENT="par" ID="tl_4_2" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="141" VPOS="830" HPOS="446" CONTENT="par" ID="tl_4_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="61" WIDTH="20" VPOS="830" HPOS="587"/>
-            <String HEIGHT="61" WIDTH="303" VPOS="830" HPOS="527" CONTENT="l’insertion" ID="tl_4_3" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="303" VPOS="830" HPOS="527" CONTENT="l’insertion" ID="tl_4_3" STYLEREFS="FONT1"/>
             <SP HEIGHT="61" WIDTH="20" VPOS="830" HPOS="829"/>
-            <String HEIGHT="61" WIDTH="161" VPOS="830" HPOS="769" CONTENT="dans" ID="tl_4_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="161" VPOS="830" HPOS="769" CONTENT="dans" ID="tl_4_4" STYLEREFS="FONT1"/>
             <SP HEIGHT="61" WIDTH="20" VPOS="830" HPOS="930"/>
-            <String HEIGHT="61" WIDTH="121" VPOS="830" HPOS="870" CONTENT="le" ID="tl_4_5" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="121" VPOS="830" HPOS="870" CONTENT="le" ID="tl_4_5" STYLEREFS="FONT1"/>
             <SP HEIGHT="61" WIDTH="20" VPOS="830" HPOS="991"/>
-            <String HEIGHT="61" WIDTH="303" VPOS="830" HPOS="910" CONTENT="bulletin," ID="tl_4_6" STYLEREFS="FONT0"/>
+            <String HEIGHT="61" WIDTH="303" VPOS="830" HPOS="910" CONTENT="bulletin," ID="tl_4_6" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="tl_5" BASELINE="947" HEIGHT="70" WIDTH="1218" VPOS="877" HPOS="169">
             <String HEIGHT="70" WIDTH="220" VPOS="877" HPOS="149" CONTENT="soit" ID="tl_5_1" STYLEREFS="FONT1"/>

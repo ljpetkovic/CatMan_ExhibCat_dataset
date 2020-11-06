@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="2733" WIDTH="1437" VPOS="100" HPOS="51">
         <TextBlock ID="r_1_1" HEIGHT="75" WIDTH="461" VPOS="109" HPOS="547">
           <TextLine ID="tl_1" BASELINE="215" HEIGHT="146" WIDTH="478" VPOS="69" HPOS="538">
-            <String HEIGHT="146" WIDTH="538" VPOS="69" HPOS="478" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="146" WIDTH="538" VPOS="69" HPOS="478" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_2" HEIGHT="63" WIDTH="1350" VPOS="235" HPOS="99">
@@ -43,16 +43,16 @@
         </TextBlock>
         <TextBlock ID="r_1_3" HEIGHT="48" WIDTH="634" VPOS="334" HPOS="459">
           <TextLine ID="tl_3" BASELINE="414" HEIGHT="107" WIDTH="650" VPOS="307" HPOS="451">
-            <String HEIGHT="107" WIDTH="306" VPOS="307" HPOS="432" CONTENT="BOCUHENTS" ID="tl_3_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="107" WIDTH="306" VPOS="307" HPOS="432" CONTENT="DOCUMENTS" ID="tl_3_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="107" WIDTH="19" VPOS="307" HPOS="738"/>
-            <String HEIGHT="107" WIDTH="306" VPOS="307" HPOS="680" CONTENT="HISTORIQUES," ID="tl_3_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="107" WIDTH="306" VPOS="307" HPOS="680" CONTENT="HISTORIQUES," ID="tl_3_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="107" WIDTH="19" VPOS="307" HPOS="986"/>
-            <String HEIGHT="107" WIDTH="191" VPOS="307" HPOS="910" CONTENT="ETC." ID="tl_3_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="107" WIDTH="191" VPOS="307" HPOS="910" CONTENT="ETC." ID="tl_3_3" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_4" HEIGHT="99" WIDTH="941" VPOS="438" HPOS="306">
           <TextLine ID="tl_4" BASELINE="561" HEIGHT="157" WIDTH="960" VPOS="404" HPOS="297">
-            <String HEIGHT="157" WIDTH="262" VPOS="404" HPOS="253" CONTENT="DE" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="157" WIDTH="262" VPOS="404" HPOS="253" CONTENT="DE" ID="tl_4_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="157" WIDTH="44" VPOS="404" HPOS="515"/>
             <String HEIGHT="157" WIDTH="393" VPOS="404" HPOS="384" CONTENT="A." ID="tl_4_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="157" WIDTH="44" VPOS="404" HPOS="777"/>
@@ -61,15 +61,15 @@
         </TextBlock>
         <TextBlock ID="r_1_5" HEIGHT="58" WIDTH="797" VPOS="581" HPOS="376">
           <TextLine ID="tl_5" BASELINE="661" HEIGHT="113" WIDTH="813" VPOS="548" HPOS="368">
-            <String HEIGHT="113" WIDTH="163" VPOS="548" HPOS="345" CONTENT="A" ID="tl_5_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="163" VPOS="548" HPOS="345" CONTENT="A" ID="tl_5_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="113" WIDTH="23" VPOS="548" HPOS="507"/>
-            <String HEIGHT="113" WIDTH="232" VPOS="548" HPOS="438" CONTENT="Paris," ID="tl_5_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="232" VPOS="548" HPOS="438" CONTENT="Paris," ID="tl_5_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="113" WIDTH="23" VPOS="548" HPOS="670"/>
-            <String HEIGHT="113" WIDTH="163" VPOS="548" HPOS="600" CONTENT="rue" ID="tl_5_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="163" VPOS="548" HPOS="600" CONTENT="rue" ID="tl_5_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="113" WIDTH="23" VPOS="548" HPOS="763"/>
-            <String HEIGHT="113" WIDTH="395" VPOS="548" HPOS="693" CONTENT="Saint-Lazare," ID="tl_5_4" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="395" VPOS="548" HPOS="693" CONTENT="Saint-Lazare," ID="tl_5_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="113" WIDTH="23" VPOS="548" HPOS="1088"/>
-            <String HEIGHT="113" WIDTH="186" VPOS="548" HPOS="995" CONTENT="24" ID="tl_5_5" STYLEREFS="FONT1"/>
+            <String HEIGHT="113" WIDTH="186" VPOS="548" HPOS="995" CONTENT="24" ID="tl_5_5" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="40" WIDTH="415" VPOS="778" HPOS="567">

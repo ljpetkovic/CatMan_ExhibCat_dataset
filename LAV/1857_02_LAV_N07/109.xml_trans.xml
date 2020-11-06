@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="2746" WIDTH="1437" VPOS="69" HPOS="19">
         <TextBlock ID="r_1_1" HEIGHT="78" WIDTH="458" VPOS="76" HPOS="498">
           <TextLine ID="tl_1" BASELINE="185" HEIGHT="143" WIDTH="475" VPOS="42" HPOS="489">
-            <String HEIGHT="143" WIDTH="534" VPOS="42" HPOS="430" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="143" WIDTH="534" VPOS="42" HPOS="430" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_2" HEIGHT="56" WIDTH="1346" VPOS="212" HPOS="48">
@@ -96,21 +96,21 @@
             <String HEIGHT="75" WIDTH="294" VPOS="801" HPOS="870" CONTENT="bulletin," ID="tl_7_6" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="tl_8" BASELINE="921" HEIGHT="67" WIDTH="1215" VPOS="854" HPOS="125">
-            <String HEIGHT="67" WIDTH="168" VPOS="854" HPOS="104" CONTENT="soit" ID="tl_8_1" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="168" VPOS="854" HPOS="104" CONTENT="soit" ID="tl_8_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="272"/>
-            <String HEIGHT="67" WIDTH="147" VPOS="854" HPOS="209" CONTENT="aux" ID="tl_8_2" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="147" VPOS="854" HPOS="209" CONTENT="aux" ID="tl_8_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="355"/>
-            <String HEIGHT="67" WIDTH="251" VPOS="854" HPOS="293" CONTENT="enchères" ID="tl_8_3" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="251" VPOS="854" HPOS="293" CONTENT="enchères" ID="tl_8_3" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="544"/>
-            <String HEIGHT="67" WIDTH="293" VPOS="854" HPOS="481" CONTENT="publiques," ID="tl_8_4" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="293" VPOS="854" HPOS="481" CONTENT="publiques," ID="tl_8_4" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="774"/>
-            <String HEIGHT="67" WIDTH="126" VPOS="854" HPOS="712" CONTENT="de" ID="tl_8_5" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="126" VPOS="854" HPOS="712" CONTENT="de" ID="tl_8_5" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="837"/>
-            <String HEIGHT="67" WIDTH="314" VPOS="854" HPOS="774" CONTENT="Collections" ID="tl_8_6" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="314" VPOS="854" HPOS="774" CONTENT="Collections" ID="tl_8_6" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="1089"/>
-            <String HEIGHT="67" WIDTH="126" VPOS="854" HPOS="1026" CONTENT="ou" ID="tl_8_7" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="126" VPOS="854" HPOS="1026" CONTENT="ou" ID="tl_8_7" STYLEREFS="FONT1"/>
             <SP HEIGHT="67" WIDTH="21" VPOS="854" HPOS="1151"/>
-            <String HEIGHT="67" WIDTH="272" VPOS="854" HPOS="1068" CONTENT="partios" ID="tl_8_8" STYLEREFS="FONT0"/>
+            <String HEIGHT="67" WIDTH="272" VPOS="854" HPOS="1068" CONTENT="partios" ID="tl_8_8" STYLEREFS="FONT1"/>
           </TextLine>
           <TextLine ID="tl_9" BASELINE="955" HEIGHT="47" WIDTH="865" VPOS="908" HPOS="301">
             <String HEIGHT="47" WIDTH="173" VPOS="908" HPOS="282" CONTENT="de" ID="tl_9_1" STYLEREFS="FONT1"/>

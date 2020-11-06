@@ -27,7 +27,7 @@
       <PrintSpace HEIGHT="2672" WIDTH="1437" VPOS="120" HPOS="47">
         <TextBlock ID="r_1_1" HEIGHT="78" WIDTH="460" VPOS="124" HPOS="530">
           <TextLine ID="tl_1" BASELINE="213" HEIGHT="124" WIDTH="478" VPOS="89" HPOS="521">
-            <String HEIGHT="124" WIDTH="538" VPOS="89" HPOS="461" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="124" WIDTH="538" VPOS="89" HPOS="461" CONTENT="CATALOGUE" ID="tl_1_1" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_2" HEIGHT="56" WIDTH="1348" VPOS="262" HPOS="84">
@@ -43,11 +43,11 @@
         </TextBlock>
         <TextBlock ID="r_1_3" HEIGHT="46" WIDTH="633" VPOS="364" HPOS="441">
           <TextLine ID="tl_3" BASELINE="425" HEIGHT="84" WIDTH="648" VPOS="341" HPOS="434">
-            <String HEIGHT="84" WIDTH="314" VPOS="341" HPOS="414" CONTENT="DOCUMENTS" ID="tl_3_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="84" WIDTH="314" VPOS="341" HPOS="414" CONTENT="DOCUMENTS" ID="tl_3_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="84" WIDTH="20" VPOS="341" HPOS="729"/>
-            <String HEIGHT="84" WIDTH="314" VPOS="341" HPOS="670" CONTENT="HISTORIQUES," ID="tl_3_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="84" WIDTH="314" VPOS="341" HPOS="670" CONTENT="HISTORIQUES," ID="tl_3_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="84" WIDTH="20" VPOS="341" HPOS="984"/>
-            <String HEIGHT="84" WIDTH="177" VPOS="341" HPOS="905" CONTENT="ETC..&gt;" ID="tl_3_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="84" WIDTH="177" VPOS="341" HPOS="905" CONTENT="ETC." ID="tl_3_3" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_1_4" HEIGHT="102" WIDTH="938" VPOS="466" HPOS="292">
@@ -61,15 +61,15 @@
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="53" WIDTH="797" VPOS="614" HPOS="362">
           <TextLine ID="tl_5" BASELINE="688" HEIGHT="101" WIDTH="812" VPOS="587" HPOS="354">
-            <String HEIGHT="101" WIDTH="162" VPOS="587" HPOS="331" CONTENT="A" ID="tl_5_1" STYLEREFS="FONT1"/>
+            <String HEIGHT="101" WIDTH="162" VPOS="587" HPOS="331" CONTENT="A" ID="tl_5_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="101" WIDTH="23" VPOS="587" HPOS="493"/>
-            <String HEIGHT="101" WIDTH="232" VPOS="587" HPOS="424" CONTENT="Paris," ID="tl_5_2" STYLEREFS="FONT1"/>
+            <String HEIGHT="101" WIDTH="232" VPOS="587" HPOS="424" CONTENT="Paris," ID="tl_5_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="101" WIDTH="23" VPOS="587" HPOS="656"/>
-            <String HEIGHT="101" WIDTH="162" VPOS="587" HPOS="586" CONTENT="rue" ID="tl_5_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="101" WIDTH="162" VPOS="587" HPOS="586" CONTENT="rue" ID="tl_5_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="101" WIDTH="23" VPOS="587" HPOS="748"/>
-            <String HEIGHT="101" WIDTH="394" VPOS="587" HPOS="679" CONTENT="Saint-Lazare," ID="tl_5_4" STYLEREFS="FONT1"/>
+            <String HEIGHT="101" WIDTH="394" VPOS="587" HPOS="679" CONTENT="Saint-Lazare," ID="tl_5_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="101" WIDTH="23" VPOS="587" HPOS="1073"/>
-            <String HEIGHT="101" WIDTH="186" VPOS="587" HPOS="980" CONTENT="24" ID="tl_5_5" STYLEREFS="FONT1"/>
+            <String HEIGHT="101" WIDTH="186" VPOS="587" HPOS="980" CONTENT="24" ID="tl_5_5" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="39" WIDTH="414" VPOS="811" HPOS="554">
@@ -135,7 +135,7 @@
             <SP HEIGHT="66" WIDTH="17" VPOS="1025" HPOS="812"/>
             <String HEIGHT="66" WIDTH="152" VPOS="1025" HPOS="761" CONTENT="etc.," ID="tl_11_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="66" WIDTH="17" VPOS="1025" HPOS="913"/>
-            <String HEIGHT="66" WIDTH="152" VPOS="1025" HPOS="846" CONTENT="etcb." ID="tl_11_3" STYLEREFS="FONT1"/>
+            <String HEIGHT="66" WIDTH="152" VPOS="1025" HPOS="846" CONTENT="etc." ID="tl_11_3" STYLEREFS="FONT1"/>
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="37" WIDTH="1329" VPOS="1095" HPOS="98">
