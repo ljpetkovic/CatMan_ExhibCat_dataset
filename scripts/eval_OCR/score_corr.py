@@ -101,8 +101,8 @@ def correctionBalisesVides(ligne):
                         ligne_corr = ligne_corr[:-(N-a)] + '</i> ' + ligne[b:]
                     else:
                         corr_all = False
-            else:  # cas d'une balise a priori ouvrante vide
-                if i == len(L_balises)-1: # cas ou la dernière des balises serait vide mais ouvrante
+            else:  # case of one a priori empty open tag
+                if i == len(L_balises)-1: # case where the last tag would be empty but open
                     corr_all = False
                 else:
                     suiv_a,suiv_b = L_balises[i+1]
@@ -152,10 +152,10 @@ def affichage(ligne,parametres,max_taille):
                 print(l+' '*(max_taille-len(l))+' | '+'1'+' | ')
                 compte_1 += 1
             elif bonneBalise and bon_nombre_balise:
-                print(l+' '*(max_taille-len(l))+' | '+'2'+' | '+' PROBLEME ORDRE DES BALISES')
+                print(l+' '*(max_taille-len(l))+' | '+'2'+' | '+' WRONG TAG ORDER')
                 compte_2 += 1
             elif bonneBalise:
-                print(l+' '*(max_taille-len(l))+' | '+'3'+' | '+' BALISES MANQUANTES')
+                print(l+' '*(max_taille-len(l))+' | '+'3'+' | '+' MISSING TAGS')
                 compte_3 += 1
         else:
             ligne_corr = corr[1]

@@ -7,7 +7,7 @@ echo ""
 
 echo "The programme's output is shown in three columns:
 • the first one is the original text line;
-• the second one is the output code;
+• the second one is the output code (possible tag scenarios);
 • the third one is either the indication of error, either the suggestion for a correction;
 The possible output codes (corresponding to the situation after the possible correction):
 0 : line without tags
@@ -18,7 +18,7 @@ The possible output codes (corresponding to the situation after the possible cor
 
 echo "##########################################################################################"
 echo ""
-for f in /Users/carolinecorbieres/Desktop/OCR-cat/eval_txt/doc/Cat_Paris_1969.txt
+for f in /Volumes/LaCie/Toolkit/Mirror/CatMan_dataset/scripts/eval_OCR/doc/*
 do
 	python3 /Users/carolinecorbieres/Desktop/OCR-cat/eval_txt/scripts/score_corr.py $f
 
