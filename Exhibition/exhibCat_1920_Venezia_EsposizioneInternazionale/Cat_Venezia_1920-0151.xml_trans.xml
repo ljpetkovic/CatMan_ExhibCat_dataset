@@ -1,0 +1,95 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Venezia_1920-0151.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-25T13:02:08.75+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3299" WIDTH="2550">
+      <PrintSpace HEIGHT="2980" WIDTH="1892" VPOS="197" HPOS="391">
+        <TextBlock ID="r_1_1" HEIGHT="43" WIDTH="208" VPOS="204" HPOS="1354">
+          <TextLine ID="tl_1" BASELINE="250" HEIGHT="53" WIDTH="216" VPOS="197" HPOS="1350">
+            <String HEIGHT="53" WIDTH="278" VPOS="197" HPOS="1288" CONTENT="BELGIO." ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="73" WIDTH="575" VPOS="317" HPOS="829">
+          <TextLine ID="tl_2" BASELINE="395" HEIGHT="86" WIDTH="583" VPOS="309" HPOS="825">
+            <String HEIGHT="86" WIDTH="371" VPOS="309" HPOS="799" CONTENT="Wynants" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="86" WIDTH="27" VPOS="309" HPOS="1170"/>
+            <String HEIGHT="86" WIDTH="345" VPOS="309" HPOS="1064" CONTENT="Ernest" ID="tl_2_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_2" HEIGHT="74" WIDTH="711" VPOS="445" HPOS="669">
+          <TextLine ID="tl_3" BASELINE="506" HEIGHT="69" WIDTH="719" VPOS="437" HPOS="665">
+            <String HEIGHT="69" WIDTH="186" VPOS="437" HPOS="638" CONTENT="171" ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="27" VPOS="437" HPOS="825"/>
+            <String HEIGHT="69" WIDTH="479" VPOS="437" HPOS="745" CONTENT="Ragazza" ID="tl_3_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="69" WIDTH="27" VPOS="437" HPOS="1224"/>
+            <String HEIGHT="69" WIDTH="266" VPOS="437" HPOS="1118" CONTENT="(gesso)." ID="tl_3_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_3" HEIGHT="73" WIDTH="638" VPOS="531" HPOS="669">
+          <TextLine ID="tl_4" BASELINE="610" HEIGHT="85" WIDTH="646" VPOS="525" HPOS="665">
+            <String HEIGHT="85" WIDTH="215" VPOS="525" HPOS="634" CONTENT="172" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="31" VPOS="525" HPOS="850"/>
+            <String HEIGHT="85" WIDTH="584" VPOS="525" HPOS="757" CONTENT="Bagnante" ID="tl_4_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="85" WIDTH="31" VPOS="525" HPOS="1342"/>
+            <String HEIGHT="85" WIDTH="92" VPOS="525" HPOS="1219" CONTENT="»" ID="tl_4_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_4" HEIGHT="73" WIDTH="641" VPOS="610" HPOS="670">
+          <TextLine ID="tl_5" BASELINE="690" HEIGHT="85" WIDTH="649" VPOS="605" HPOS="666">
+            <String HEIGHT="85" WIDTH="182" VPOS="605" HPOS="640" CONTENT="173" ID="tl_5_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="85" WIDTH="26" VPOS="605" HPOS="822"/>
+            <String HEIGHT="85" WIDTH="363" VPOS="605" HPOS="744" CONTENT="Soldato" ID="tl_5_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="85" WIDTH="26" VPOS="605" HPOS="1107"/>
+            <String HEIGHT="85" WIDTH="312" VPOS="605" HPOS="1003" CONTENT="belga»" ID="tl_5_3" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="45" WIDTH="83" VPOS="3053" HPOS="1433">
+          <TextLine ID="tl_6" BASELINE="3106" HEIGHT="62" WIDTH="91" VPOS="3044" HPOS="1429">
+            <String HEIGHT="62" WIDTH="152" VPOS="3044" HPOS="1368" CONTENT="122" ID="tl_6_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_4_1" HEIGHT="36" WIDTH="183" VPOS="3104" HPOS="398">
+          <TextLine ID="tl_7" BASELINE="3146" HEIGHT="62" WIDTH="191" VPOS="3084" HPOS="395">
+            <String HEIGHT="62" WIDTH="207" VPOS="3084" HPOS="379" CONTENT="Digitized" ID="tl_7_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="16" VPOS="3084" HPOS="586"/>
+            <String HEIGHT="62" WIDTH="64" VPOS="3084" HPOS="522" CONTENT="by" ID="tl_7_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_6_1" HEIGHT="36" WIDTH="517" VPOS="3129" HPOS="1651">
+          <TextLine ID="tl_8" BASELINE="3170" HEIGHT="58" WIDTH="525" VPOS="3112" HPOS="1647">
+            <String HEIGHT="58" WIDTH="334" VPOS="3112" HPOS="1623" CONTENT="UNIVERSITY" ID="tl_8_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="24" VPOS="3112" HPOS="1957"/>
+            <String HEIGHT="58" WIDTH="143" VPOS="3112" HPOS="1886" CONTENT="OF" ID="tl_8_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="24" VPOS="3112" HPOS="2029"/>
+            <String HEIGHT="58" WIDTH="239" VPOS="3112" HPOS="1933" CONTENT="MICHIGAN" ID="tl_8_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_7" HEIGHT="9" WIDTH="424" VPOS="264" HPOS="1859"/>
+        <GraphicalElement ID="r_8" HEIGHT="11" WIDTH="530" VPOS="263" HPOS="613"/>
+        <GraphicalElement ID="r_9" HEIGHT="17" WIDTH="672" VPOS="3095" HPOS="1592"/>
+        <GraphicalElement ID="r_10" HEIGHT="14" WIDTH="798" VPOS="3095" HPOS="614"/>
+        <GraphicalElement ID="r_11" HEIGHT="2872" WIDTH="15" VPOS="265" HPOS="599"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

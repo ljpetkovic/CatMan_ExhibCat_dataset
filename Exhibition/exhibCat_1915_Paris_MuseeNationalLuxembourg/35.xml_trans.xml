@@ -1,0 +1,52 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>35.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:23.068+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2755" WIDTH="2059">
+      <PrintSpace HEIGHT="2247" WIDTH="1640" VPOS="241" HPOS="52">
+        <TextBlock ID="r_2_1" HEIGHT="63" WIDTH="687" VPOS="2419" HPOS="570">
+          <TextLine ID="tl_1" BASELINE="2536" HEIGHT="122" WIDTH="695" VPOS="2414" HPOS="565">
+            <String HEIGHT="122" WIDTH="188" VPOS="2414" HPOS="546" CONTENT="AUBREY" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="122" WIDTH="19" VPOS="2414" HPOS="734"/>
+            <String HEIGHT="122" WIDTH="263" VPOS="2414" HPOS="678" CONTENT="BEARDSLEY." ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="122" WIDTH="19" VPOS="2414" HPOS="941"/>
+            <String HEIGHT="122" WIDTH="94" VPOS="2414" HPOS="884" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="122" WIDTH="19" VPOS="2414" HPOS="978"/>
+            <String HEIGHT="122" WIDTH="357" VPOS="2414" HPOS="903" CONTENT="Siegfried" ID="tl_1_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="308" WIDTH="20" VPOS="1885" HPOS="52"/>
+        <GraphicalElement ID="r_4" HEIGHT="141" WIDTH="7" VPOS="412" HPOS="430"/>
+        <GraphicalElement ID="r_5" HEIGHT="523" WIDTH="20" VPOS="1081" HPOS="1489"/>
+        <GraphicalElement ID="r_6" HEIGHT="515" WIDTH="37" VPOS="1853" HPOS="1614"/>
+        <GraphicalElement ID="r_7" HEIGHT="343" WIDTH="14" VPOS="1164" HPOS="1638"/>
+        <GraphicalElement ID="r_8" HEIGHT="428" WIDTH="16" VPOS="357" HPOS="1653"/>
+        <GraphicalElement ID="r_9" HEIGHT="32" WIDTH="4" VPOS="262" HPOS="636"/>
+        <GraphicalElement ID="r_10" HEIGHT="60" WIDTH="5" VPOS="275" HPOS="775"/>
+        <GraphicalElement ID="r_11" HEIGHT="95" WIDTH="9" VPOS="1351" HPOS="772"/>
+        <Illustration ID="r_1" HEIGHT="2132" WIDTH="1516" VPOS="241" HPOS="176"/>
+        <Illustration ID="r_12" HEIGHT="2128" WIDTH="1500" VPOS="242" HPOS="192"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

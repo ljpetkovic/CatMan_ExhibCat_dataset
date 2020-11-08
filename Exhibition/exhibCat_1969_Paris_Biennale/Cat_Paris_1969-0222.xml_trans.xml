@@ -1,0 +1,64 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0222.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:53.088+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="164" WIDTH="899" VPOS="2066" HPOS="205">
+          <TextLine ID="r1l1" BASELINE="2188" HEIGHT="106" WIDTH="911" VPOS="2082" HPOS="199">
+            <String HEIGHT="106" WIDTH="149" VPOS="2082" HPOS="182" CONTENT="JOZEF" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="332"/>
+            <String HEIGHT="106" WIDTH="199" VPOS="2082" HPOS="282" CONTENT="JANKOVIC" ID="r1l1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="481"/>
+            <String HEIGHT="106" WIDTH="83" VPOS="2082" HPOS="431" CONTENT="J" ID="r1l1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="514"/>
+            <String HEIGHT="106" WIDTH="199" VPOS="2082" HPOS="464" CONTENT="L’ARCNBÉ" ID="r1l1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="663"/>
+            <String HEIGHT="106" WIDTH="199" VPOS="2082" HPOS="613" CONTENT="TRIOMPHE" ID="r1l1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="812"/>
+            <String HEIGHT="106" WIDTH="331" VPOS="2082" HPOS="762" CONTENT="(Tchécoslovaquie" ID="r1l1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="106" WIDTH="17" VPOS="2082" HPOS="1093"/>
+            <String HEIGHT="106" WIDTH="83" VPOS="2082" HPOS="1027" CONTENT="5)." ID="r1l1_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="8" WIDTH="518" VPOS="2317" HPOS="397"/>
+        <GraphicalElement ID="r_3" HEIGHT="4" WIDTH="261" VPOS="2321" HPOS="915"/>
+        <GraphicalElement ID="r_4" HEIGHT="279" WIDTH="11" VPOS="1144" HPOS="104"/>
+        <GraphicalElement ID="r_5" HEIGHT="816" WIDTH="29" VPOS="517" HPOS="451"/>
+        <GraphicalElement ID="r_6" HEIGHT="154" WIDTH="8" VPOS="1839" HPOS="486"/>
+        <GraphicalElement ID="r_7" HEIGHT="105" WIDTH="7" VPOS="1352" HPOS="476"/>
+        <GraphicalElement ID="r_8" HEIGHT="235" WIDTH="9" VPOS="1252" HPOS="807"/>
+        <GraphicalElement ID="r_9" HEIGHT="201" WIDTH="11" VPOS="1764" HPOS="820"/>
+        <GraphicalElement ID="r_10" HEIGHT="236" WIDTH="21" VPOS="831" HPOS="1094"/>
+        <GraphicalElement ID="r_11" HEIGHT="301" WIDTH="17" VPOS="713" HPOS="1170"/>
+        <GraphicalElement ID="r_12" HEIGHT="208" WIDTH="17" VPOS="70" HPOS="1157"/>
+        <GraphicalElement ID="r_13" HEIGHT="281" WIDTH="16" VPOS="315" HPOS="1163"/>
+        <GraphicalElement ID="r_14" HEIGHT="124" WIDTH="4" VPOS="840" HPOS="1187"/>
+        <GraphicalElement ID="r_15" HEIGHT="51" WIDTH="4" VPOS="1477" HPOS="116"/>
+        <GraphicalElement ID="r_16" HEIGHT="47" WIDTH="4" VPOS="1690" HPOS="483"/>
+        <Illustration ID="r_1" HEIGHT="2203" WIDTH="1191" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_17" HEIGHT="39" WIDTH="72" VPOS="888" HPOS="800"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

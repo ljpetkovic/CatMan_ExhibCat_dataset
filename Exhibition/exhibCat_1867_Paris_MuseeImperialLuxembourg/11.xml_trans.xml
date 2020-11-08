@@ -1,0 +1,56 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>11.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:20:06.367+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3131" WIDTH="1811">
+      <PrintSpace HEIGHT="3006" WIDTH="1713" VPOS="39" HPOS="0">
+        <TextBlock ID="r_1_1" HEIGHT="97" WIDTH="949" VPOS="1202" HPOS="270">
+          <TextLine ID="tl_1" BASELINE="1325" HEIGHT="132" WIDTH="959" VPOS="1193" HPOS="265">
+            <String HEIGHT="132" WIDTH="575" VPOS="1193" HPOS="217" CONTENT="MUSÉE" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="132" WIDTH="48" VPOS="1193" HPOS="792"/>
+            <String HEIGHT="132" WIDTH="623" VPOS="1193" HPOS="601" CONTENT="IMPÉRIAL" ID="tl_1_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="61" WIDTH="606" VPOS="1429" HPOS="439">
+          <TextLine ID="tl_2" BASELINE="1530" HEIGHT="112" WIDTH="617" VPOS="1418" HPOS="433">
+            <String HEIGHT="112" WIDTH="264" VPOS="1418" HPOS="389" CONTENT="DU" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="112" WIDTH="44" VPOS="1418" HPOS="653"/>
+            <String HEIGHT="112" WIDTH="573" VPOS="1418" HPOS="477" CONTENT="LUXEMBOURG." ID="tl_2_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="21" WIDTH="586" VPOS="41" HPOS="1117"/>
+        <GraphicalElement ID="r_4" HEIGHT="21" WIDTH="1112" VPOS="44" HPOS="0"/>
+        <GraphicalElement ID="r_5" HEIGHT="1261" WIDTH="5" VPOS="39" HPOS="0"/>
+        <GraphicalElement ID="r_6" HEIGHT="340" WIDTH="4" VPOS="1300" HPOS="0"/>
+        <GraphicalElement ID="r_7" HEIGHT="201" WIDTH="3" VPOS="1690" HPOS="0"/>
+        <GraphicalElement ID="r_8" HEIGHT="463" WIDTH="5" VPOS="1952" HPOS="0"/>
+        <GraphicalElement ID="r_9" HEIGHT="133" WIDTH="3" VPOS="2478" HPOS="0"/>
+        <GraphicalElement ID="r_10" HEIGHT="329" WIDTH="4" VPOS="2645" HPOS="0"/>
+        <GraphicalElement ID="r_11" HEIGHT="194" WIDTH="5" VPOS="53" HPOS="1703"/>
+        <GraphicalElement ID="r_12" HEIGHT="1818" WIDTH="9" VPOS="303" HPOS="1702"/>
+        <GraphicalElement ID="r_13" HEIGHT="600" WIDTH="6" VPOS="2103" HPOS="1706"/>
+        <GraphicalElement ID="r_14" HEIGHT="166" WIDTH="10" VPOS="2879" HPOS="1703"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

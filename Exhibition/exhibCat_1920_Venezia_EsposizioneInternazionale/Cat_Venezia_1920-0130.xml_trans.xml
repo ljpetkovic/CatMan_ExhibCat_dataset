@@ -1,0 +1,56 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Venezia_1920-0130.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-25T13:02:02.93+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3299" WIDTH="2550">
+      <PrintSpace HEIGHT="2932" WIDTH="1971" VPOS="256" HPOS="212">
+        <TextBlock ID="r_1_1" HEIGHT="100" WIDTH="1192" VPOS="344" HPOS="309">
+          <TextLine ID="tl_1" BASELINE="445" HEIGHT="99" WIDTH="1204" VPOS="346" HPOS="303">
+            <String HEIGHT="99" WIDTH="803" VPOS="346" HPOS="246" CONTENT="PADIGLIONI" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="99" WIDTH="57" VPOS="346" HPOS="1048"/>
+            <String HEIGHT="99" WIDTH="688" VPOS="346" HPOS="819" CONTENT="STRANIERI." ID="tl_1_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="46" WIDTH="83" VPOS="3065" HPOS="1064">
+          <TextLine ID="tl_2" BASELINE="3116" HEIGHT="58" WIDTH="97" VPOS="3058" HPOS="1057">
+            <String HEIGHT="58" WIDTH="162" VPOS="3058" HPOS="992" CONTENT="105" ID="tl_2_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_4_1" HEIGHT="42" WIDTH="517" VPOS="3126" HPOS="1651">
+          <TextLine ID="tl_3" BASELINE="3171" HEIGHT="52" WIDTH="530" VPOS="3119" HPOS="1645">
+            <String HEIGHT="52" WIDTH="337" VPOS="3119" HPOS="1621" CONTENT="UNIVERSITY" ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="24" VPOS="3119" HPOS="1958"/>
+            <String HEIGHT="52" WIDTH="145" VPOS="3119" HPOS="1886" CONTENT="OF" ID="tl_3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="24" VPOS="3119" HPOS="2030"/>
+            <String HEIGHT="52" WIDTH="241" VPOS="3119" HPOS="1934" CONTENT="MICHIGAN" ID="tl_3_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="22" WIDTH="1756" VPOS="256" HPOS="220"/>
+        <GraphicalElement ID="r_6" HEIGHT="27" WIDTH="808" VPOS="3080" HPOS="1191"/>
+        <GraphicalElement ID="r_7" HEIGHT="26" WIDTH="768" VPOS="3096" HPOS="243"/>
+        <GraphicalElement ID="r_8" HEIGHT="308" WIDTH="14" VPOS="274" HPOS="212"/>
+        <GraphicalElement ID="r_9" HEIGHT="2848" WIDTH="39" VPOS="260" HPOS="1964"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

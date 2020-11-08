@@ -1,0 +1,282 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Venezia_1920-0141.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-25T13:02:05.776+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3299" WIDTH="2550">
+      <PrintSpace HEIGHT="2919" WIDTH="1773" VPOS="263" HPOS="532">
+        <TextBlock ID="r_1_1" HEIGHT="37" WIDTH="234" VPOS="281" HPOS="1377">
+          <TextLine ID="tl_1" BASELINE="323" HEIGHT="49" WIDTH="249" VPOS="274" HPOS="1369">
+            <String HEIGHT="49" WIDTH="320" VPOS="274" HPOS="1298" CONTENT="OLANDA." ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="74" WIDTH="827" VPOS="384" HPOS="842">
+          <TextLine ID="tl_2" BASELINE="466" HEIGHT="88" WIDTH="841" VPOS="378" HPOS="834">
+            <String HEIGHT="88" WIDTH="561" VPOS="378" HPOS="803" CONTENT="Nieuwenkamp" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="88" WIDTH="31" VPOS="378" HPOS="1364"/>
+            <String HEIGHT="88" WIDTH="187" VPOS="378" HPOS="1270" CONTENT="W." ID="tl_2_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="88" WIDTH="31" VPOS="378" HPOS="1457"/>
+            <String HEIGHT="88" WIDTH="187" VPOS="378" HPOS="1364" CONTENT="O." ID="tl_2_3" STYLEREFS="FONT1"/>
+            <SP HEIGHT="88" WIDTH="31" VPOS="378" HPOS="1550"/>
+            <String HEIGHT="88" WIDTH="249" VPOS="378" HPOS="1426" CONTENT="J." ID="tl_2_4" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_2" HEIGHT="70" WIDTH="550" VPOS="511" HPOS="674">
+          <TextLine ID="tl_3" BASELINE="589" HEIGHT="82" WIDTH="565" VPOS="507" HPOS="667">
+            <String HEIGHT="82" WIDTH="130" VPOS="507" HPOS="645" CONTENT="56" ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="82" WIDTH="22" VPOS="507" HPOS="776"/>
+            <String HEIGHT="82" WIDTH="261" VPOS="507" HPOS="710" CONTENT="Verso" ID="tl_3_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="22" VPOS="507" HPOS="971"/>
+            <String HEIGHT="82" WIDTH="130" VPOS="507" HPOS="906" CONTENT="il" ID="tl_3_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="22" VPOS="507" HPOS="1036"/>
+            <String HEIGHT="82" WIDTH="283" VPOS="507" HPOS="950" CONTENT="tempio" ID="tl_3_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_3" HEIGHT="71" WIDTH="624" VPOS="593" HPOS="673">
+          <TextLine ID="tl_4" BASELINE="667" HEIGHT="81" WIDTH="640" VPOS="586" HPOS="665">
+            <String HEIGHT="81" WIDTH="132" VPOS="586" HPOS="643" CONTENT="57" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="81" WIDTH="22" VPOS="586" HPOS="775"/>
+            <String HEIGHT="81" WIDTH="309" VPOS="586" HPOS="709" CONTENT="Navigli" ID="tl_4_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="81" WIDTH="22" VPOS="586" HPOS="1018"/>
+            <String HEIGHT="81" WIDTH="110" VPOS="586" HPOS="952" CONTENT="-" ID="tl_4_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="81" WIDTH="22" VPOS="586" HPOS="1062"/>
+            <String HEIGHT="81" WIDTH="331" VPOS="586" HPOS="974" CONTENT="Benares" ID="tl_4_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_4" HEIGHT="73" WIDTH="770" VPOS="675" HPOS="672">
+          <TextLine ID="tl_5" BASELINE="755" HEIGHT="89" WIDTH="785" VPOS="666" HPOS="664">
+            <String HEIGHT="89" WIDTH="143" VPOS="666" HPOS="640" CONTENT="58" ID="tl_5_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="89" WIDTH="24" VPOS="666" HPOS="783"/>
+            <String HEIGHT="89" WIDTH="309" VPOS="666" HPOS="712" CONTENT="Ultimi" ID="tl_5_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="89" WIDTH="24" VPOS="666" HPOS="1021"/>
+            <String HEIGHT="89" WIDTH="214" VPOS="666" HPOS="949" CONTENT="raggi" ID="tl_5_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="89" WIDTH="24" VPOS="666" HPOS="1164"/>
+            <String HEIGHT="89" WIDTH="119" VPOS="666" HPOS="1092" CONTENT="-" ID="tl_5_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="89" WIDTH="24" VPOS="666" HPOS="1211"/>
+            <String HEIGHT="89" WIDTH="333" VPOS="666" HPOS="1116" CONTENT="Benares" ID="tl_5_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_5" HEIGHT="62" WIDTH="552" VPOS="862" HPOS="840">
+          <TextLine ID="tl_6" BASELINE="933" HEIGHT="82" WIDTH="568" VPOS="851" HPOS="832">
+            <String HEIGHT="82" WIDTH="439" VPOS="851" HPOS="806" CONTENT="Poortenaar" ID="tl_6_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="26" VPOS="851" HPOS="1245"/>
+            <String HEIGHT="82" WIDTH="258" VPOS="851" HPOS="1142" CONTENT="Jan." ID="tl_6_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_6" HEIGHT="75" WIDTH="903" VPOS="992" HPOS="670">
+          <TextLine ID="tl_7" BASELINE="1069" HEIGHT="83" WIDTH="918" VPOS="986" HPOS="663">
+            <String HEIGHT="83" WIDTH="153" VPOS="986" HPOS="638" CONTENT="59" ID="tl_7_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="83" WIDTH="26" VPOS="986" HPOS="791"/>
+            <String HEIGHT="83" WIDTH="408" VPOS="986" HPOS="714" CONTENT="Trafalgar" ID="tl_7_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="83" WIDTH="26" VPOS="986" HPOS="1122"/>
+            <String HEIGHT="83" WIDTH="255" VPOS="986" HPOS="1046" CONTENT="Square" ID="tl_7_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="83" WIDTH="26" VPOS="986" HPOS="1301"/>
+            <String HEIGHT="83" WIDTH="128" VPOS="986" HPOS="1224" CONTENT="-" ID="tl_7_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="83" WIDTH="26" VPOS="986" HPOS="1352"/>
+            <String HEIGHT="83" WIDTH="332" VPOS="986" HPOS="1250" CONTENT="Londra" ID="tl_7_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_7" HEIGHT="72" WIDTH="958" VPOS="1073" HPOS="668">
+          <TextLine ID="tl_8" BASELINE="1138" HEIGHT="72" WIDTH="974" VPOS="1066" HPOS="660">
+            <String HEIGHT="72" WIDTH="158" VPOS="1066" HPOS="634" CONTENT="60" ID="tl_8_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="72" WIDTH="26" VPOS="1066" HPOS="792"/>
+            <String HEIGHT="72" WIDTH="474" VPOS="1066" HPOS="713" CONTENT="Westminster" ID="tl_8_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="72" WIDTH="26" VPOS="1066" HPOS="1186"/>
+            <String HEIGHT="72" WIDTH="237" VPOS="1066" HPOS="1108" CONTENT="Abbey" ID="tl_8_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="72" WIDTH="26" VPOS="1066" HPOS="1344"/>
+            <String HEIGHT="72" WIDTH="132" VPOS="1066" HPOS="1265" CONTENT="-" ID="tl_8_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="72" WIDTH="26" VPOS="1066" HPOS="1397"/>
+            <String HEIGHT="72" WIDTH="342" VPOS="1066" HPOS="1292" CONTENT="Londra" ID="tl_8_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_8" HEIGHT="76" WIDTH="934" VPOS="1155" HPOS="671">
+          <TextLine ID="tl_9" BASELINE="1218" HEIGHT="71" WIDTH="950" VPOS="1147" HPOS="663">
+            <String HEIGHT="71" WIDTH="150" VPOS="1147" HPOS="638" CONTENT="61" ID="tl_9_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="71" WIDTH="25" VPOS="1147" HPOS="788"/>
+            <String HEIGHT="71" WIDTH="450" VPOS="1147" HPOS="713" CONTENT="Blackfriars" ID="tl_9_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="71" WIDTH="25" VPOS="1147" HPOS="1163"/>
+            <String HEIGHT="71" WIDTH="250" VPOS="1147" HPOS="1088" CONTENT="Bridge" ID="tl_9_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="71" WIDTH="25" VPOS="1147" HPOS="1338"/>
+            <String HEIGHT="71" WIDTH="125" VPOS="1147" HPOS="1263" CONTENT="-" ID="tl_9_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="71" WIDTH="25" VPOS="1147" HPOS="1388"/>
+            <String HEIGHT="71" WIDTH="325" VPOS="1147" HPOS="1288" CONTENT="Londra" ID="tl_9_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_9" HEIGHT="63" WIDTH="461" VPOS="1343" HPOS="839">
+          <TextLine ID="tl_10" BASELINE="1412" HEIGHT="75" WIDTH="476" VPOS="1337" HPOS="831">
+            <String HEIGHT="75" WIDTH="405" VPOS="1337" HPOS="807" CONTENT="Schelfhout" ID="tl_10_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="75" WIDTH="24" VPOS="1337" HPOS="1212"/>
+            <String HEIGHT="75" WIDTH="190" VPOS="1337" HPOS="1117" CONTENT="L." ID="tl_10_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_10" HEIGHT="74" WIDTH="1018" VPOS="1474" HPOS="672">
+          <TextLine ID="tl_11" BASELINE="1554" HEIGHT="88" WIDTH="1033" VPOS="1466" HPOS="664">
+            <String HEIGHT="88" WIDTH="144" VPOS="1466" HPOS="640" CONTENT="62" ID="tl_11_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="88" WIDTH="24" VPOS="1466" HPOS="784"/>
+            <String HEIGHT="88" WIDTH="384" VPOS="1466" HPOS="712" CONTENT="Suonatore" ID="tl_11_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="88" WIDTH="24" VPOS="1466" HPOS="1096"/>
+            <String HEIGHT="88" WIDTH="144" VPOS="1466" HPOS="1024" CONTENT="di" ID="tl_11_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="88" WIDTH="24" VPOS="1466" HPOS="1168"/>
+            <String HEIGHT="88" WIDTH="336" VPOS="1466" HPOS="1096" CONTENT="flauto" ID="tl_11_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="88" WIDTH="24" VPOS="1466" HPOS="1433"/>
+            <String HEIGHT="88" WIDTH="360" VPOS="1466" HPOS="1337" CONTENT="(puntasecca)." ID="tl_11_5" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_11" HEIGHT="74" WIDTH="503" VPOS="1663" HPOS="838">
+          <TextLine ID="tl_12" BASELINE="1731" HEIGHT="80" WIDTH="518" VPOS="1651" HPOS="830">
+            <String HEIGHT="80" WIDTH="330" VPOS="1651" HPOS="806" CONTENT="Zilcken" ID="tl_12_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="80" WIDTH="24" VPOS="1651" HPOS="1136"/>
+            <String HEIGHT="80" WIDTH="306" VPOS="1651" HPOS="1042" CONTENT="Philip." ID="tl_12_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_12" HEIGHT="73" WIDTH="521" VPOS="1793" HPOS="667">
+          <TextLine ID="tl_13" BASELINE="1875" HEIGHT="88" WIDTH="537" VPOS="1787" HPOS="659">
+            <String HEIGHT="88" WIDTH="140" VPOS="1787" HPOS="636" CONTENT="63" ID="tl_13_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="88" WIDTH="23" VPOS="1787" HPOS="776"/>
+            <String HEIGHT="88" WIDTH="374" VPOS="1787" HPOS="706" CONTENT="Parig" ID="tl_13_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="88" WIDTH="23" VPOS="1787" HPOS="1079"/>
+            <String HEIGHT="88" WIDTH="210" VPOS="1787" HPOS="986" CONTENT="(1914)." ID="tl_13_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_13" HEIGHT="61" WIDTH="519" VPOS="1874" HPOS="668">
+          <TextLine ID="tl_14" BASELINE="1940" HEIGHT="75" WIDTH="534" VPOS="1865" HPOS="661">
+            <String HEIGHT="75" WIDTH="134" VPOS="1865" HPOS="639" CONTENT="6A" ID="tl_14_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="22" VPOS="1865" HPOS="772"/>
+            <String HEIGHT="75" WIDTH="223" VPOS="1865" HPOS="706" CONTENT="Via" ID="tl_14_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="75" WIDTH="22" VPOS="1865" HPOS="928"/>
+            <String HEIGHT="75" WIDTH="156" VPOS="1865" HPOS="861" CONTENT="del" ID="tl_14_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="75" WIDTH="22" VPOS="1865" HPOS="1017"/>
+            <String HEIGHT="75" WIDTH="267" VPOS="1865" HPOS="928" CONTENT="Catro" ID="tl_14_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_14" HEIGHT="74" WIDTH="905" VPOS="1955" HPOS="664">
+          <TextLine ID="tl_15" BASELINE="2026" HEIGHT="79" WIDTH="920" VPOS="1947" HPOS="656">
+            <String HEIGHT="79" WIDTH="153" VPOS="1947" HPOS="630" CONTENT="65" ID="tl_15_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="79" WIDTH="26" VPOS="1947" HPOS="784"/>
+            <String HEIGHT="79" WIDTH="230" VPOS="1947" HPOS="707" CONTENT="La" ID="tl_15_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="79" WIDTH="26" VPOS="1947" HPOS="937"/>
+            <String HEIGHT="79" WIDTH="230" VPOS="1947" HPOS="860" CONTENT="tomba" ID="tl_15_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="79" WIDTH="26" VPOS="1947" HPOS="1090"/>
+            <String HEIGHT="79" WIDTH="179" VPOS="1947" HPOS="1014" CONTENT="del" ID="tl_15_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="79" WIDTH="26" VPOS="1947" HPOS="1193"/>
+            <String HEIGHT="79" WIDTH="256" VPOS="1947" HPOS="1116" CONTENT="Cheiki" ID="tl_15_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="79" WIDTH="26" VPOS="1947" HPOS="1372"/>
+            <String HEIGHT="79" WIDTH="307" VPOS="1947" HPOS="1269" CONTENT="Fariz" ID="tl_15_6" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_15" HEIGHT="61" WIDTH="626" VPOS="2038" HPOS="667">
+          <TextLine ID="tl_16" BASELINE="2107" HEIGHT="81" WIDTH="640" VPOS="2026" HPOS="660">
+            <String HEIGHT="81" WIDTH="142" VPOS="2026" HPOS="636" CONTENT="66" ID="tl_16_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="81" WIDTH="24" VPOS="2026" HPOS="779"/>
+            <String HEIGHT="81" WIDTH="284" VPOS="2026" HPOS="707" CONTENT="Porta" ID="tl_16_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="81" WIDTH="24" VPOS="2026" HPOS="992"/>
+            <String HEIGHT="81" WIDTH="142" VPOS="2026" HPOS="921" CONTENT="di" ID="tl_16_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="81" WIDTH="24" VPOS="2026" HPOS="1063"/>
+            <String HEIGHT="81" WIDTH="332" VPOS="2026" HPOS="968" CONTENT="Moschea" ID="tl_16_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_16" HEIGHT="70" WIDTH="397" VPOS="2231" HPOS="670">
+          <TextLine ID="tl_17" BASELINE="2309" HEIGHT="83" WIDTH="413" VPOS="2226" HPOS="662">
+            <String HEIGHT="83" WIDTH="496" VPOS="2226" HPOS="579" CONTENT="LITOGRAFE." ID="tl_17_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_17" HEIGHT="74" WIDTH="424" VPOS="2434" HPOS="839">
+          <TextLine ID="tl_18" BASELINE="2517" HEIGHT="91" WIDTH="441" VPOS="2426" HPOS="831">
+            <String HEIGHT="91" WIDTH="319" VPOS="2426" HPOS="807" CONTENT="Toorop" ID="tl_18_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="91" WIDTH="25" VPOS="2426" HPOS="1125"/>
+            <String HEIGHT="91" WIDTH="245" VPOS="2426" HPOS="1027" CONTENT="Jan." ID="tl_18_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_18" HEIGHT="59" WIDTH="430" VPOS="2565" HPOS="668">
+          <TextLine ID="tl_19" BASELINE="2629" HEIGHT="75" WIDTH="444" VPOS="2554" HPOS="661">
+            <String HEIGHT="75" WIDTH="121" VPOS="2554" HPOS="641" CONTENT="67" ID="tl_19_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="20" VPOS="2554" HPOS="762"/>
+            <String HEIGHT="75" WIDTH="182" VPOS="2554" HPOS="701" CONTENT="Il" ID="tl_19_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="75" WIDTH="20" VPOS="2554" HPOS="883"/>
+            <String HEIGHT="75" WIDTH="303" VPOS="2554" HPOS="802" CONTENT="minatore" ID="tl_19_3" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_19" HEIGHT="64" WIDTH="824" VPOS="2755" HPOS="838">
+          <TextLine ID="tl_20" BASELINE="2828" HEIGHT="82" WIDTH="839" VPOS="2746" HPOS="831">
+            <String HEIGHT="82" WIDTH="300" VPOS="2746" HPOS="801" CONTENT="Van" ID="tl_20_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="30" VPOS="2746" HPOS="1101"/>
+            <String HEIGHT="82" WIDTH="210" VPOS="2746" HPOS="1011" CONTENT="der" ID="tl_20_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="30" VPOS="2746" HPOS="1221"/>
+            <String HEIGHT="82" WIDTH="240" VPOS="2746" HPOS="1131" CONTENT="Stok" ID="tl_20_3" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="30" VPOS="2746" HPOS="1370"/>
+            <String HEIGHT="82" WIDTH="180" VPOS="2746" HPOS="1280" CONTENT="G." ID="tl_20_4" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="30" VPOS="2746" HPOS="1460"/>
+            <String HEIGHT="82" WIDTH="180" VPOS="2746" HPOS="1370" CONTENT="A." ID="tl_20_5" STYLEREFS="FONT1"/>
+            <SP HEIGHT="82" WIDTH="30" VPOS="2746" HPOS="1550"/>
+            <String HEIGHT="82" WIDTH="240" VPOS="2746" HPOS="1430" CONTENT="H." ID="tl_20_6" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_20" HEIGHT="79" WIDTH="1377" VPOS="2887" HPOS="667">
+          <TextLine ID="tl_21" BASELINE="2972" HEIGHT="91" WIDTH="1394" VPOS="2881" HPOS="659">
+            <String HEIGHT="91" WIDTH="147" VPOS="2881" HPOS="635" CONTENT="68" ID="tl_21_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="781"/>
+            <String HEIGHT="91" WIDTH="293" VPOS="2881" HPOS="708" CONTENT="Dalla" ID="tl_21_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="1001"/>
+            <String HEIGHT="91" WIDTH="220" VPOS="2881" HPOS="928" CONTENT="serie" ID="tl_21_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="1148"/>
+            <String HEIGHT="91" WIDTH="220" VPOS="2881" HPOS="1075" CONTENT="delle" ID="tl_21_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="1295"/>
+            <String HEIGHT="91" WIDTH="440" VPOS="2881" HPOS="1221" CONTENT="costellazioni-" ID="tl_21_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="1662"/>
+            <String HEIGHT="91" WIDTH="147" VPOS="2881" HPOS="1588" CONTENT="Il" ID="tl_21_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="91" WIDTH="24" VPOS="2881" HPOS="1735"/>
+            <String HEIGHT="91" WIDTH="416" VPOS="2881" HPOS="1637" CONTENT="sagittario" ID="tl_21_7" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_21" HEIGHT="80" WIDTH="1346" VPOS="2968" HPOS="668">
+          <TextLine ID="tl_22" BASELINE="3044" HEIGHT="82" WIDTH="1362" VPOS="2962" HPOS="660">
+            <String HEIGHT="82" WIDTH="149" VPOS="2962" HPOS="635" CONTENT="69" ID="tl_22_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="784"/>
+            <String HEIGHT="82" WIDTH="297" VPOS="2962" HPOS="710" CONTENT="Dalla" ID="tl_22_2" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1007"/>
+            <String HEIGHT="82" WIDTH="223" VPOS="2962" HPOS="932" CONTENT="serie" ID="tl_22_3" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1155"/>
+            <String HEIGHT="82" WIDTH="223" VPOS="2962" HPOS="1081" CONTENT="delle" ID="tl_22_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1304"/>
+            <String HEIGHT="82" WIDTH="421" VPOS="2962" HPOS="1230" CONTENT="costellazioni" ID="tl_22_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1651"/>
+            <String HEIGHT="82" WIDTH="124" VPOS="2962" HPOS="1576" CONTENT="-" ID="tl_22_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1700"/>
+            <String HEIGHT="82" WIDTH="149" VPOS="2962" HPOS="1626" CONTENT="La" ID="tl_22_7" STYLEREFS="FONT2"/>
+            <SP HEIGHT="82" WIDTH="25" VPOS="2962" HPOS="1774"/>
+            <String HEIGHT="82" WIDTH="347" VPOS="2962" HPOS="1675" CONTENT="vergine" ID="tl_22_8" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_4_1" HEIGHT="47" WIDTH="79" VPOS="3097" HPOS="1434">
+          <TextLine ID="tl_24" BASELINE="3148" HEIGHT="57" WIDTH="96" VPOS="3091" HPOS="1425">
+            <String HEIGHT="57" WIDTH="160" VPOS="3091" HPOS="1361" CONTENT="112" ID="tl_24_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_6" HEIGHT="9" WIDTH="462" VPOS="264" HPOS="1843"/>
+        <GraphicalElement ID="r_7" HEIGHT="13" WIDTH="542" VPOS="263" HPOS="589"/>
+        <GraphicalElement ID="r_8" HEIGHT="18" WIDTH="728" VPOS="3095" HPOS="1575"/>
+        <GraphicalElement ID="r_9" HEIGHT="14" WIDTH="810" VPOS="3097" HPOS="589"/>
+        <GraphicalElement ID="r_10" HEIGHT="2838" WIDTH="15" VPOS="267" HPOS="586"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

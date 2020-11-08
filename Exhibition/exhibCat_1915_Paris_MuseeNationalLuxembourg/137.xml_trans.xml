@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>137.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:49.97+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2761" WIDTH="2113">
+      <PrintSpace HEIGHT="2761" WIDTH="1780" VPOS="0" HPOS="0">
+        <TextBlock ID="region_1592485032838_1455" HEIGHT="54" WIDTH="865" VPOS="2266" HPOS="587">
+          <TextLine ID="line_1592485032856_1458" BASELINE="2458" HEIGHT="185" WIDTH="878" VPOS="2273" HPOS="580">
+            <String HEIGHT="185" WIDTH="180" VPOS="2273" HPOS="560" CONTENT="HENRY" ID="line_1592485032856_1458_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="740"/>
+            <String HEIGHT="185" WIDTH="200" VPOS="2273" HPOS="680" CONTENT="TONKS." ID="line_1592485032856_1458_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="879"/>
+            <String HEIGHT="185" WIDTH="100" VPOS="2273" HPOS="819" CONTENT="—" ID="line_1592485032856_1458_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="919"/>
+            <String HEIGHT="185" WIDTH="180" VPOS="2273" HPOS="859" CONTENT="Le" ID="line_1592485032856_1458_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="1039"/>
+            <String HEIGHT="185" WIDTH="239" VPOS="2273" HPOS="979" CONTENT="Marchand" ID="line_1592485032856_1458_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="1219"/>
+            <String HEIGHT="185" WIDTH="120" VPOS="2273" HPOS="1159" CONTENT="de" ID="line_1592485032856_1458_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="185" WIDTH="20" VPOS="2273" HPOS="1278"/>
+            <String HEIGHT="185" WIDTH="259" VPOS="2273" HPOS="1199" CONTENT="byjoux" ID="line_1592485032856_1458_7" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="57" WIDTH="9" VPOS="1530" HPOS="488"/>
+        <Illustration ID="r_2" HEIGHT="1839" WIDTH="1776" VPOS="397" HPOS="4"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,46 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>91.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:38.083+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2740" WIDTH="2080">
+      <PrintSpace HEIGHT="2740" WIDTH="1806" VPOS="0" HPOS="0">
+        <TextBlock ID="r_4_1" HEIGHT="714" WIDTH="39" VPOS="908" HPOS="1760">
+          <TextLine ID="tl_3" BASELINE="1636" HEIGHT="727" WIDTH="44" VPOS="909" HPOS="1755">
+            <String HEIGHT="727" WIDTH="7" VPOS="909" HPOS="1754" CONTENT="W." ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="727" WIDTH="1" VPOS="909" HPOS="1761"/>
+            <String HEIGHT="727" WIDTH="17" VPOS="909" HPOS="1757" CONTENT="NICHOLSON." ID="tl_3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="727" WIDTH="1" VPOS="909" HPOS="1775"/>
+            <String HEIGHT="727" WIDTH="6" VPOS="909" HPOS="1771" CONTENT="—" ID="tl_3_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="727" WIDTH="1" VPOS="909" HPOS="1777"/>
+            <String HEIGHT="727" WIDTH="16" VPOS="909" HPOS="1773" CONTENT="Nature" ID="tl_3_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="727" WIDTH="1" VPOS="909" HPOS="1789"/>
+            <String HEIGHT="727" WIDTH="15" VPOS="909" HPOS="1784" CONTENT="morte" ID="tl_3_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="2" WIDTH="127" VPOS="406" HPOS="894"/>
+        <Illustration ID="r_2" HEIGHT="1934" WIDTH="1548" VPOS="401" HPOS="161"/>
+        <Illustration ID="r_6" HEIGHT="1934" WIDTH="1548" VPOS="401" HPOS="161"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

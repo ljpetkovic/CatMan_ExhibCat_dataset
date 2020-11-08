@@ -1,0 +1,42 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>42.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:25.109+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2743" WIDTH="2072">
+      <PrintSpace HEIGHT="2743" WIDTH="2072" VPOS="0" HPOS="0">
+        <GraphicalElement ID="r_2" HEIGHT="10" WIDTH="332" VPOS="0" HPOS="576"/>
+        <GraphicalElement ID="r_3" HEIGHT="10" WIDTH="397" VPOS="7" HPOS="115"/>
+        <GraphicalElement ID="r_4" HEIGHT="2492" WIDTH="18" VPOS="68" HPOS="0"/>
+        <GraphicalElement ID="r_5" HEIGHT="157" WIDTH="7" VPOS="2499" HPOS="0"/>
+        <GraphicalElement ID="r_6" HEIGHT="153" WIDTH="10" VPOS="68" HPOS="37"/>
+        <GraphicalElement ID="r_7" HEIGHT="514" WIDTH="8" VPOS="68" HPOS="1991"/>
+        <GraphicalElement ID="r_8" HEIGHT="545" WIDTH="11" VPOS="95" HPOS="2009"/>
+        <GraphicalElement ID="r_9" HEIGHT="256" WIDTH="10" VPOS="704" HPOS="2028"/>
+        <GraphicalElement ID="r_10" HEIGHT="1" WIDTH="135" VPOS="62" HPOS="946"/>
+        <GraphicalElement ID="r_11" HEIGHT="47" WIDTH="5" VPOS="1377" HPOS="2017"/>
+        <GraphicalElement ID="r_12" HEIGHT="78" WIDTH="3" VPOS="1720" HPOS="2017"/>
+        <Illustration ID="r_1" HEIGHT="2743" WIDTH="2072" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

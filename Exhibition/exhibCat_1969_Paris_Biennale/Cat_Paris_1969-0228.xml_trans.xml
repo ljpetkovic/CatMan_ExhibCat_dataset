@@ -1,0 +1,59 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0228.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:54.598+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="153" WIDTH="556" VPOS="1363" HPOS="365">
+          <TextLine ID="r1l1" BASELINE="1498" HEIGHT="75" WIDTH="567" VPOS="1423" HPOS="360">
+            <String HEIGHT="75" WIDTH="162" VPOS="1423" HPOS="344" CONTENT="SERGIO" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1423" HPOS="506"/>
+            <String HEIGHT="75" WIDTH="194" VPOS="1423" HPOS="457" CONTENT="LOMBARDO" ID="r1l1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1423" HPOS="652"/>
+            <String HEIGHT="75" WIDTH="81" VPOS="1423" HPOS="603" CONTENT="T" ID="r1l1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1423" HPOS="684"/>
+            <String HEIGHT="75" WIDTH="146" VPOS="1423" HPOS="635" CONTENT="CUBES" ID="r1l1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1423" HPOS="781"/>
+            <String HEIGHT="75" WIDTH="178" VPOS="1423" HPOS="733" CONTENT="(Italie" ID="r1l1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="75" WIDTH="16" VPOS="1423" HPOS="911"/>
+            <String HEIGHT="75" WIDTH="81" VPOS="1423" HPOS="846" CONTENT="5)." ID="r1l1_6" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="11" WIDTH="116" VPOS="372" HPOS="300"/>
+        <GraphicalElement ID="r_5" HEIGHT="9" WIDTH="108" VPOS="379" HPOS="353"/>
+        <GraphicalElement ID="r_6" HEIGHT="11" WIDTH="203" VPOS="366" HPOS="738"/>
+        <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="153" VPOS="2321" HPOS="929"/>
+        <GraphicalElement ID="r_8" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+        <GraphicalElement ID="r_9" HEIGHT="75" WIDTH="6" VPOS="1103" HPOS="124"/>
+        <GraphicalElement ID="r_10" HEIGHT="120" WIDTH="11" VPOS="499" HPOS="356"/>
+        <GraphicalElement ID="r_11" HEIGHT="117" WIDTH="9" VPOS="631" HPOS="385"/>
+        <GraphicalElement ID="r_12" HEIGHT="51" WIDTH="3" VPOS="936" HPOS="1188"/>
+        <GraphicalElement ID="r_13" HEIGHT="254" WIDTH="8" VPOS="682" HPOS="1183"/>
+        <GraphicalElement ID="r_14" HEIGHT="11" WIDTH="112" VPOS="331" HPOS="820"/>
+        <Illustration ID="r_1" HEIGHT="1573" WIDTH="1191" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_2" HEIGHT="684" WIDTH="416" VPOS="1641" HPOS="96"/>
+        <Illustration ID="r_15" HEIGHT="95" WIDTH="291" VPOS="1560" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

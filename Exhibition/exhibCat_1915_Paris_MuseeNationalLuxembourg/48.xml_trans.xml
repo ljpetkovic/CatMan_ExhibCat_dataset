@@ -1,0 +1,37 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>48.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:26.63+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2740" WIDTH="2090">
+      <PrintSpace HEIGHT="2740" WIDTH="2090" VPOS="0" HPOS="0">
+        <GraphicalElement ID="r_2" HEIGHT="2042" WIDTH="11" VPOS="266" HPOS="0"/>
+        <GraphicalElement ID="r_3" HEIGHT="2038" WIDTH="13" VPOS="270" HPOS="9"/>
+        <GraphicalElement ID="r_4" HEIGHT="151" WIDTH="10" VPOS="2503" HPOS="15"/>
+        <GraphicalElement ID="r_5" HEIGHT="273" WIDTH="17" VPOS="1183" HPOS="1967"/>
+        <GraphicalElement ID="r_6" HEIGHT="640" WIDTH="6" VPOS="1152" HPOS="2042"/>
+        <GraphicalElement ID="r_7" HEIGHT="142" WIDTH="6" VPOS="1570" HPOS="2042"/>
+        <Illustration ID="r_1" HEIGHT="2740" WIDTH="2090" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

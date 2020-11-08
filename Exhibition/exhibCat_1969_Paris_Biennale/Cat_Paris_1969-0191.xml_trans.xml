@@ -1,0 +1,55 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0191.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:45.639+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1062">
+      <PrintSpace HEIGHT="2325" WIDTH="1062" VPOS="0" HPOS="0">
+        <TextBlock ID="r_8_1" HEIGHT="30" WIDTH="568" VPOS="1663" HPOS="274">
+          <TextLine ID="tl_4" BASELINE="1706" HEIGHT="49" WIDTH="577" VPOS="1657" HPOS="270">
+            <String HEIGHT="49" WIDTH="140" VPOS="1657" HPOS="253" CONTENT="ALEX" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="392"/>
+            <String HEIGHT="49" WIDTH="140" VPOS="1657" HPOS="340" CONTENT="AGOR" ID="tl_4_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="480"/>
+            <String HEIGHT="49" WIDTH="87" VPOS="1657" HPOS="427" CONTENT="/" ID="tl_4_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="515"/>
+            <String HEIGHT="49" WIDTH="192" VPOS="1657" HPOS="462" CONTENT="CHARADE" ID="tl_4_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="655"/>
+            <String HEIGHT="49" WIDTH="87" VPOS="1657" HPOS="602" CONTENT="4" ID="tl_4_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="690"/>
+            <String HEIGHT="49" WIDTH="192" VPOS="1657" HPOS="637" CONTENT="(Israël" ID="tl_4_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1657" HPOS="830"/>
+            <String HEIGHT="49" WIDTH="87" VPOS="1657" HPOS="760" CONTENT="13)" ID="tl_4_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_9" HEIGHT="1" WIDTH="1062" VPOS="2324" HPOS="0"/>
+        <GraphicalElement ID="r_10" HEIGHT="1116" WIDTH="3" VPOS="0" HPOS="0"/>
+        <GraphicalElement ID="r_11" HEIGHT="366" WIDTH="4" VPOS="1150" HPOS="0"/>
+        <GraphicalElement ID="r_12" HEIGHT="741" WIDTH="4" VPOS="1584" HPOS="0"/>
+        <Illustration ID="r_1" HEIGHT="1254" WIDTH="1052" VPOS="40" HPOS="10"/>
+        <Illustration ID="r_13" HEIGHT="26" WIDTH="73" VPOS="281" HPOS="377"/>
+        <Illustration ID="r_14" HEIGHT="28" WIDTH="212" VPOS="494" HPOS="17"/>
+        <Illustration ID="r_15" HEIGHT="42" WIDTH="75" VPOS="231" HPOS="377"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

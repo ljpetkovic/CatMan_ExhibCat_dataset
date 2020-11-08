@@ -1,0 +1,64 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0256.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:50:01.088+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="45" WIDTH="873" VPOS="735" HPOS="197">
+          <TextLine ID="tl_1" BASELINE="782" HEIGHT="61" WIDTH="882" VPOS="721" HPOS="193">
+            <String HEIGHT="61" WIDTH="163" VPOS="721" HPOS="177" CONTENT="MANUEL" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="340"/>
+            <String HEIGHT="61" WIDTH="131" VPOS="721" HPOS="291" CONTENT="ADAN" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="422"/>
+            <String HEIGHT="61" WIDTH="180" VPOS="721" HPOS="373" CONTENT="VASQUEZ" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="552"/>
+            <String HEIGHT="61" WIDTH="82" VPOS="721" HPOS="503" CONTENT="J" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="585"/>
+            <String HEIGHT="61" WIDTH="245" VPOS="721" HPOS="536" CONTENT="COMPOSITION" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="781"/>
+            <String HEIGHT="61" WIDTH="98" VPOS="721" HPOS="732" CONTENT="EN" ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="830"/>
+            <String HEIGHT="61" WIDTH="147" VPOS="721" HPOS="781" CONTENT="ROUGE" ID="tl_1_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="928"/>
+            <String HEIGHT="61" WIDTH="180" VPOS="721" HPOS="879" CONTENT="(Panama" ID="tl_1_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="61" WIDTH="16" VPOS="721" HPOS="1059"/>
+            <String HEIGHT="61" WIDTH="82" VPOS="721" HPOS="993" CONTENT="3)." ID="tl_1_9" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="15" WIDTH="261" VPOS="0" HPOS="560"/>
+        <GraphicalElement ID="r_5" HEIGHT="4" WIDTH="81" VPOS="0" HPOS="821"/>
+        <GraphicalElement ID="r_6" HEIGHT="4" WIDTH="288" VPOS="0" HPOS="902"/>
+        <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="64" VPOS="2321" HPOS="61"/>
+        <GraphicalElement ID="r_8" HEIGHT="232" WIDTH="18" VPOS="2046" HPOS="100"/>
+        <GraphicalElement ID="r_9" HEIGHT="125" WIDTH="7" VPOS="40" HPOS="1119"/>
+        <GraphicalElement ID="r_10" HEIGHT="136" WIDTH="8" VPOS="551" HPOS="1132"/>
+        <GraphicalElement ID="r_11" HEIGHT="291" WIDTH="9" VPOS="888" HPOS="1180"/>
+        <GraphicalElement ID="r_12" HEIGHT="858" WIDTH="21" VPOS="0" HPOS="1161"/>
+        <GraphicalElement ID="r_13" HEIGHT="98" WIDTH="3" VPOS="1035" HPOS="1188"/>
+        <GraphicalElement ID="r_14" HEIGHT="62" WIDTH="4" VPOS="596" HPOS="1179"/>
+        <Illustration ID="r_1" HEIGHT="751" WIDTH="1190" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_3" HEIGHT="1343" WIDTH="1166" VPOS="982" HPOS="25"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

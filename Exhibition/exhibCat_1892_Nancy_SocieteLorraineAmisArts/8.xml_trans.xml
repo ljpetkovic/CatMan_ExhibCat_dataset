@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>8.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:35:54.745+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3205" WIDTH="2101">
+      <PrintSpace HEIGHT="3098" WIDTH="1802" VPOS="58" HPOS="53">
+        <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="784" VPOS="1437" HPOS="696">
+          <TextLine ID="tl_1" BASELINE="1513" HEIGHT="131" WIDTH="793" VPOS="1382" HPOS="692">
+            <String HEIGHT="131" WIDTH="248" VPOS="1382" HPOS="667" CONTENT="NANCY," ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="131" WIDTH="25" VPOS="1382" HPOS="915"/>
+            <String HEIGHT="131" WIDTH="347" VPOS="1382" HPOS="841" CONTENT="IMPRIMERIE" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="131" WIDTH="25" VPOS="1382" HPOS="1188"/>
+            <String HEIGHT="131" WIDTH="149" VPOS="1382" HPOS="1113" CONTENT="DE" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="131" WIDTH="25" VPOS="1382" HPOS="1262"/>
+            <String HEIGHT="131" WIDTH="198" VPOS="1382" HPOS="1188" CONTENT="RENÉ" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="131" WIDTH="25" VPOS="1382" HPOS="1386"/>
+            <String HEIGHT="131" WIDTH="198" VPOS="1382" HPOS="1287" CONTENT="VAGNER" ID="tl_1_5" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="51" WIDTH="1797" VPOS="58" HPOS="58"/>
+        <GraphicalElement ID="r_3" HEIGHT="6" WIDTH="286" VPOS="1352" HPOS="946"/>
+        <GraphicalElement ID="r_4" HEIGHT="8" WIDTH="276" VPOS="1563" HPOS="946"/>
+        <GraphicalElement ID="r_5" HEIGHT="11" WIDTH="366" VPOS="3129" HPOS="183"/>
+        <GraphicalElement ID="r_6" HEIGHT="9" WIDTH="213" VPOS="3147" HPOS="182"/>
+        <GraphicalElement ID="r_7" HEIGHT="1343" WIDTH="22" VPOS="200" HPOS="53"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,64 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0200.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:47.803+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r_4_1" HEIGHT="41" WIDTH="620" VPOS="1721" HPOS="369">
+          <TextLine ID="tl_2" BASELINE="1782" HEIGHT="68" WIDTH="628" VPOS="1714" HPOS="364">
+            <String HEIGHT="68" WIDTH="187" VPOS="1714" HPOS="347" CONTENT="GEORGES" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="17" VPOS="1714" HPOS="534"/>
+            <String HEIGHT="68" WIDTH="221" VPOS="1714" HPOS="483" CONTENT="CALACALAS" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="17" VPOS="1714" HPOS="703"/>
+            <String HEIGHT="68" WIDTH="85" VPOS="1714" HPOS="653" CONTENT="/" ID="tl_2_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="17" VPOS="1714" HPOS="737"/>
+            <String HEIGHT="68" WIDTH="170" VPOS="1714" HPOS="686" CONTENT="GUERRE" ID="tl_2_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="17" VPOS="1714" HPOS="856"/>
+            <String HEIGHT="68" WIDTH="170" VPOS="1714" HPOS="805" CONTENT="(Grèce" ID="tl_2_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="68" WIDTH="17" VPOS="1714" HPOS="975"/>
+            <String HEIGHT="68" WIDTH="85" VPOS="1714" HPOS="907" CONTENT="4)." ID="tl_2_6" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="10" WIDTH="188" VPOS="0" HPOS="713"/>
+        <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="290" VPOS="0" HPOS="901"/>
+        <GraphicalElement ID="r_7" HEIGHT="5" WIDTH="119" VPOS="2307" HPOS="1072"/>
+        <GraphicalElement ID="r_8" HEIGHT="6" WIDTH="104" VPOS="2311" HPOS="968"/>
+        <GraphicalElement ID="r_9" HEIGHT="1" WIDTH="38" VPOS="2312" HPOS="1132"/>
+        <GraphicalElement ID="r_10" HEIGHT="11" WIDTH="299" VPOS="2314" HPOS="892"/>
+        <GraphicalElement ID="r_11" HEIGHT="8" WIDTH="185" VPOS="2315" HPOS="783"/>
+        <GraphicalElement ID="r_12" HEIGHT="4" WIDTH="783" VPOS="2321" HPOS="0"/>
+        <GraphicalElement ID="r_13" HEIGHT="3" WIDTH="114" VPOS="2322" HPOS="778"/>
+        <GraphicalElement ID="r_14" HEIGHT="45" WIDTH="2" VPOS="395" HPOS="126"/>
+        <GraphicalElement ID="r_15" HEIGHT="65" WIDTH="2" VPOS="643" HPOS="127"/>
+        <GraphicalElement ID="r_16" HEIGHT="127" WIDTH="6" VPOS="41" HPOS="1185"/>
+        <GraphicalElement ID="r_17" HEIGHT="1130" WIDTH="2" VPOS="168" HPOS="1189"/>
+        <GraphicalElement ID="r_18" HEIGHT="826" WIDTH="2" VPOS="1499" HPOS="1189"/>
+        <GraphicalElement ID="r_19" HEIGHT="41" WIDTH="1" VPOS="0" HPOS="1190"/>
+        <Illustration ID="r_1" HEIGHT="2115" WIDTH="1191" VPOS="207" HPOS="0"/>
+        <Illustration ID="r_20" HEIGHT="20" WIDTH="40" VPOS="558" HPOS="349"/>
+        <Illustration ID="r_21" HEIGHT="16" WIDTH="101" VPOS="1328" HPOS="569"/>
+        <Illustration ID="r_22" HEIGHT="27" WIDTH="71" VPOS="1515" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

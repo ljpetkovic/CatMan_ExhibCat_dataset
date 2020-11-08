@@ -1,0 +1,56 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0190.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:45.272+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1120">
+      <PrintSpace HEIGHT="2325" WIDTH="1120" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="164" WIDTH="730" VPOS="1328" HPOS="261">
+          <TextLine ID="r1l1" BASELINE="1463" HEIGHT="120" WIDTH="741" VPOS="1343" HPOS="255">
+            <String HEIGHT="120" WIDTH="185" VPOS="1343" HPOS="238" CONTENT="JUSTINO" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="423"/>
+            <String HEIGHT="120" WIDTH="152" VPOS="1343" HPOS="373" CONTENT="ALVES" ID="r1l1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="524"/>
+            <String HEIGHT="120" WIDTH="84" VPOS="1343" HPOS="474" CONTENT="/" ID="r1l1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="558"/>
+            <String HEIGHT="120" WIDTH="202" VPOS="1343" HPOS="508" CONTENT="PEINTURE" ID="r1l1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="710"/>
+            <String HEIGHT="120" WIDTH="152" VPOS="1343" HPOS="659" CONTENT="OBJET" ID="r1l1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="811"/>
+            <String HEIGHT="120" WIDTH="219" VPOS="1343" HPOS="760" CONTENT="(Portugal" ID="r1l1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="120" WIDTH="17" VPOS="1343" HPOS="979"/>
+            <String HEIGHT="120" WIDTH="84" VPOS="1343" HPOS="912" CONTENT="1)." ID="r1l1_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="8" WIDTH="99" VPOS="1279" HPOS="695"/>
+        <GraphicalElement ID="r_3" HEIGHT="7" WIDTH="141" VPOS="2318" HPOS="979"/>
+        <GraphicalElement ID="r_4" HEIGHT="2" WIDTH="979" VPOS="2323" HPOS="0"/>
+        <GraphicalElement ID="r_5" HEIGHT="193" WIDTH="9" VPOS="1158" HPOS="66"/>
+        <GraphicalElement ID="r_6" HEIGHT="129" WIDTH="4" VPOS="1604" HPOS="67"/>
+        <GraphicalElement ID="r_7" HEIGHT="72" WIDTH="4" VPOS="1514" HPOS="68"/>
+        <GraphicalElement ID="r_8" HEIGHT="90" WIDTH="4" VPOS="2023" HPOS="72"/>
+        <GraphicalElement ID="r_9" HEIGHT="2201" WIDTH="2" VPOS="124" HPOS="1118"/>
+        <Illustration ID="r_1" HEIGHT="1451" WIDTH="1120" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,56 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0207.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:49.483+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1062">
+      <PrintSpace HEIGHT="2325" WIDTH="1062" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="25" WIDTH="673" VPOS="1506" HPOS="234">
+          <TextLine ID="tl_1" BASELINE="1559" HEIGHT="62" WIDTH="681" VPOS="1497" HPOS="230">
+            <String HEIGHT="62" WIDTH="149" VPOS="1497" HPOS="213" CONTENT="KROUM" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="363"/>
+            <String HEIGHT="62" WIDTH="199" VPOS="1497" HPOS="313" CONTENT="DAMIANOV" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="512"/>
+            <String HEIGHT="62" WIDTH="83" VPOS="1497" HPOS="463" CONTENT="J" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="546"/>
+            <String HEIGHT="62" WIDTH="149" VPOS="1497" HPOS="496" CONTENT="JEUNE" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="645"/>
+            <String HEIGHT="62" WIDTH="149" VPOS="1497" HPOS="595" CONTENT="FILLE" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="745"/>
+            <String HEIGHT="62" WIDTH="216" VPOS="1497" HPOS="695" CONTENT="(Bulgarie" ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="62" WIDTH="17" VPOS="1497" HPOS="911"/>
+            <String HEIGHT="62" WIDTH="66" VPOS="1497" HPOS="845" CONTENT="6)" ID="tl_1_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="1" WIDTH="1062" VPOS="2324" HPOS="0"/>
+        <GraphicalElement ID="r_4" HEIGHT="1306" WIDTH="3" VPOS="28" HPOS="0"/>
+        <GraphicalElement ID="r_5" HEIGHT="971" WIDTH="4" VPOS="1354" HPOS="0"/>
+        <GraphicalElement ID="r_6" HEIGHT="958" WIDTH="5" VPOS="85" HPOS="10"/>
+        <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="40" VPOS="116" HPOS="898"/>
+        <GraphicalElement ID="r_8" HEIGHT="120" WIDTH="14" VPOS="206" HPOS="369"/>
+        <GraphicalElement ID="r_9" HEIGHT="51" WIDTH="6" VPOS="221" HPOS="950"/>
+        <GraphicalElement ID="r_10" HEIGHT="32" WIDTH="3" VPOS="606" HPOS="1010"/>
+        <Illustration ID="r_1" HEIGHT="1466" WIDTH="1062" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

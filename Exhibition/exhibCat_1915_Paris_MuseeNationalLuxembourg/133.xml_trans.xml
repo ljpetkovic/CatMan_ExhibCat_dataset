@@ -1,0 +1,48 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>133.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:48.781+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2740" WIDTH="2080">
+      <PrintSpace HEIGHT="2736" WIDTH="1451" VPOS="1" HPOS="0">
+        <TextBlock ID="r_3_1" HEIGHT="50" WIDTH="878" VPOS="2483" HPOS="566">
+          <TextLine ID="tl_1" BASELINE="2594" HEIGHT="118" WIDTH="888" VPOS="2476" HPOS="561">
+            <String HEIGHT="118" WIDTH="161" VPOS="2476" HPOS="541" CONTENT="MRS." ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="118" WIDTH="20" VPOS="2476" HPOS="702"/>
+            <String HEIGHT="118" WIDTH="303" VPOS="2476" HPOS="642" CONTENT="SWYNNERTON." ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="118" WIDTH="20" VPOS="2476" HPOS="944"/>
+            <String HEIGHT="118" WIDTH="101" VPOS="2476" HPOS="884" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="118" WIDTH="20" VPOS="2476" HPOS="985"/>
+            <String HEIGHT="118" WIDTH="242" VPOS="2476" HPOS="924" CONTENT="Maler" ID="tl_1_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="118" WIDTH="20" VPOS="2476" HPOS="1166"/>
+            <String HEIGHT="118" WIDTH="363" VPOS="2476" HPOS="1086" CONTENT="triumpbalis" ID="tl_1_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="11" WIDTH="195" VPOS="2153" HPOS="1177"/>
+        <GraphicalElement ID="r_6" HEIGHT="171" WIDTH="8" VPOS="328" HPOS="1433"/>
+        <Illustration ID="r_1" HEIGHT="90" WIDTH="114" VPOS="1" HPOS="0"/>
+        <Illustration ID="r_2" HEIGHT="2184" WIDTH="894" VPOS="254" HPOS="557"/>
+        <Illustration ID="r_7" HEIGHT="2184" WIDTH="894" VPOS="254" HPOS="557"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

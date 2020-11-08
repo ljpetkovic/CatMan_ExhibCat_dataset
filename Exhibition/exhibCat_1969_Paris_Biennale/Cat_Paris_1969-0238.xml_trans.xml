@@ -1,0 +1,62 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0238.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:56.94+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r2" HEIGHT="809" WIDTH="585" VPOS="925" HPOS="222">
+          <TextLine ID="r2l3" BASELINE="1715" HEIGHT="84" WIDTH="560" VPOS="1631" HPOS="252">
+            <String HEIGHT="84" WIDTH="143" VPOS="1631" HPOS="240" CONTENT="PEINTURE" ID="r2l3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="383"/>
+            <String HEIGHT="84" WIDTH="167" VPOS="1631" HPOS="347" CONTENT="COLLECTIVE" ID="r2l3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="514"/>
+            <String HEIGHT="84" WIDTH="71" VPOS="1631" HPOS="478" CONTENT="EN" ID="r2l3_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="550"/>
+            <String HEIGHT="84" WIDTH="107" VPOS="1631" HPOS="514" CONTENT="REGIE" ID="r2l3_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="621"/>
+            <String HEIGHT="84" WIDTH="60" VPOS="1631" HPOS="586" CONTENT="/" ID="r2l3_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="645"/>
+            <String HEIGHT="84" WIDTH="119" VPOS="1631" HPOS="609" CONTENT="GROUPE" ID="r2l3_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="729"/>
+            <String HEIGHT="84" WIDTH="95" VPOS="1631" HPOS="693" CONTENT="MARK" ID="r2l3_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="84" WIDTH="12" VPOS="1631" HPOS="788"/>
+            <String HEIGHT="84" WIDTH="71" VPOS="1631" HPOS="741" CONTENT="KUHN" ID="r2l3_8" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r2l4" BASELINE="1735" HEIGHT="40" WIDTH="161" VPOS="1695" HPOS="605">
+            <String HEIGHT="40" WIDTH="148" VPOS="1695" HPOS="592" CONTENT="(Suisse" ID="r2l4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="40" WIDTH="13" VPOS="1695" HPOS="739"/>
+            <String HEIGHT="40" WIDTH="81" VPOS="1695" HPOS="686" CONTENT="15)." ID="r2l4_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="10" WIDTH="125" VPOS="0" HPOS="1035"/>
+        <GraphicalElement ID="r_3" HEIGHT="12" WIDTH="197" VPOS="354" HPOS="656"/>
+        <GraphicalElement ID="r_4" HEIGHT="11" WIDTH="112" VPOS="1232" HPOS="951"/>
+        <GraphicalElement ID="r_5" HEIGHT="777" WIDTH="26" VPOS="863" HPOS="194"/>
+        <GraphicalElement ID="r_6" HEIGHT="430" WIDTH="27" VPOS="191" HPOS="186"/>
+        <GraphicalElement ID="r_7" HEIGHT="256" WIDTH="19" VPOS="619" HPOS="418"/>
+        <GraphicalElement ID="r_8" HEIGHT="56" WIDTH="3" VPOS="1289" HPOS="1188"/>
+        <Illustration ID="r_1" HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

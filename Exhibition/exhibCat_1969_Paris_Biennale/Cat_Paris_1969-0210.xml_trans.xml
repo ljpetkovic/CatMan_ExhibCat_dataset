@@ -1,0 +1,72 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0210.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:50.195+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2291" WIDTH="1191" VPOS="34" HPOS="0">
+        <TextBlock ID="r_1_1" HEIGHT="60" WIDTH="839" VPOS="1701" HPOS="287">
+          <TextLine ID="tl_1" BASELINE="1812" HEIGHT="105" WIDTH="849" VPOS="1707" HPOS="282">
+            <String HEIGHT="105" WIDTH="150" VPOS="1707" HPOS="265" CONTENT="TIERS" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="415"/>
+            <String HEIGHT="105" WIDTH="150" VPOS="1707" HPOS="365" CONTENT="MONDE" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="515"/>
+            <String HEIGHT="105" WIDTH="83" VPOS="1707" HPOS="465" CONTENT="J" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="548"/>
+            <String HEIGHT="105" WIDTH="166" VPOS="1707" HPOS="498" CONTENT="EQUIPÉ" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="665"/>
+            <String HEIGHT="105" WIDTH="200" VPOS="1707" HPOS="615" CONTENT="FERNANDO" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="815"/>
+            <String HEIGHT="105" WIDTH="100" VPOS="1707" HPOS="765" CONTENT="E." ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="865"/>
+            <String HEIGHT="105" WIDTH="200" VPOS="1707" HPOS="815" CONTENT="O’REILLY" ID="tl_1_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="1014"/>
+            <String HEIGHT="105" WIDTH="150" VPOS="1707" HPOS="965" CONTENT="(Cuba" ID="tl_1_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="105" WIDTH="17" VPOS="1707" HPOS="1114"/>
+            <String HEIGHT="105" WIDTH="83" VPOS="1707" HPOS="1048" CONTENT="7)." ID="tl_1_9" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="9" WIDTH="130" VPOS="34" HPOS="213"/>
+        <GraphicalElement ID="r_3" HEIGHT="24" WIDTH="455" VPOS="1007" HPOS="0"/>
+        <GraphicalElement ID="r_4" HEIGHT="24" WIDTH="327" VPOS="1022" HPOS="128"/>
+        <GraphicalElement ID="r_5" HEIGHT="16" WIDTH="325" VPOS="1037" HPOS="130"/>
+        <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="1190" VPOS="2322" HPOS="1"/>
+        <GraphicalElement ID="r_7" HEIGHT="161" WIDTH="15" VPOS="475" HPOS="84"/>
+        <GraphicalElement ID="r_8" HEIGHT="211" WIDTH="17" VPOS="754" HPOS="81"/>
+        <GraphicalElement ID="r_9" HEIGHT="167" WIDTH="8" VPOS="694" HPOS="97"/>
+        <GraphicalElement ID="r_10" HEIGHT="103" WIDTH="7" VPOS="861" HPOS="100"/>
+        <GraphicalElement ID="r_11" HEIGHT="255" WIDTH="10" VPOS="1026" HPOS="98"/>
+        <GraphicalElement ID="r_12" HEIGHT="237" WIDTH="21" VPOS="508" HPOS="168"/>
+        <GraphicalElement ID="r_13" HEIGHT="237" WIDTH="20" VPOS="778" HPOS="166"/>
+        <GraphicalElement ID="r_14" HEIGHT="209" WIDTH="20" VPOS="1054" HPOS="600"/>
+        <GraphicalElement ID="r_15" HEIGHT="169" WIDTH="18" VPOS="687" HPOS="1152"/>
+        <GraphicalElement ID="r_16" HEIGHT="181" WIDTH="15" VPOS="869" HPOS="1151"/>
+        <GraphicalElement ID="r_17" HEIGHT="168" WIDTH="16" VPOS="1073" HPOS="1148"/>
+        <GraphicalElement ID="r_18" HEIGHT="469" WIDTH="5" VPOS="1664" HPOS="1186"/>
+        <GraphicalElement ID="r_19" HEIGHT="191" WIDTH="3" VPOS="2134" HPOS="1188"/>
+        <Illustration ID="r_20" HEIGHT="63" WIDTH="45" VPOS="918" HPOS="0"/>
+        <Illustration ID="r_21" HEIGHT="468" WIDTH="76" VPOS="1196" HPOS="1049"/>
+        <Illustration ID="r_22" HEIGHT="25" WIDTH="67" VPOS="830" HPOS="881"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

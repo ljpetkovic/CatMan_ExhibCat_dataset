@@ -1,0 +1,38 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0020.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:48:56.048+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2385" WIDTH="1030">
+      <PrintSpace HEIGHT="2385" WIDTH="1030" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="31" VPOS="2295" HPOS="930">
+          <TextLine ID="tl_1" BASELINE="2330" HEIGHT="44" WIDTH="41" VPOS="2286" HPOS="926">
+            <String HEIGHT="44" WIDTH="82" VPOS="2286" HPOS="885" CONTENT="19" ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="31" WIDTH="1030" VPOS="2354" HPOS="0"/>
+        <GraphicalElement ID="r_4" HEIGHT="2320" WIDTH="2" VPOS="34" HPOS="1028"/>
+        <Illustration ID="r_1" HEIGHT="2385" WIDTH="1030" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

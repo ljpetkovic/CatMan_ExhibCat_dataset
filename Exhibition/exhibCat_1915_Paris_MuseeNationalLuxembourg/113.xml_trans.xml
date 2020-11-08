@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>113.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:43.726+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2746" WIDTH="2071">
+      <PrintSpace HEIGHT="2746" WIDTH="2071" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="681" WIDTH="42" VPOS="1021" HPOS="1759">
+          <TextLine ID="tl_1" BASELINE="1709" HEIGHT="688" WIDTH="104" VPOS="1021" HPOS="1755">
+            <String HEIGHT="688" WIDTH="33" VPOS="1021" HPOS="1752" CONTENT="CHARLES" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="688" WIDTH="3" VPOS="1021" HPOS="1785"/>
+            <String HEIGHT="688" WIDTH="39" VPOS="1021" HPOS="1776" CONTENT="RICKETTS." ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="688" WIDTH="3" VPOS="1021" HPOS="1814"/>
+            <String HEIGHT="688" WIDTH="15" VPOS="1021" HPOS="1806" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="688" WIDTH="3" VPOS="1021" HPOS="1820"/>
+            <String HEIGHT="688" WIDTH="27" VPOS="1021" HPOS="1811" CONTENT="La" ID="tl_1_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="688" WIDTH="3" VPOS="1021" HPOS="1838"/>
+            <String HEIGHT="688" WIDTH="33" VPOS="1021" HPOS="1826" CONTENT="Peste" ID="tl_1_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="3" WIDTH="2005" VPOS="0" HPOS="66"/>
+        <GraphicalElement ID="r_4" HEIGHT="3" WIDTH="1886" VPOS="2743" HPOS="116"/>
+        <GraphicalElement ID="r_5" HEIGHT="2746" WIDTH="3" VPOS="0" HPOS="0"/>
+        <GraphicalElement ID="r_6" HEIGHT="211" WIDTH="4" VPOS="573" HPOS="1679"/>
+        <GraphicalElement ID="r_7" HEIGHT="2580" WIDTH="3" VPOS="0" HPOS="2068"/>
+        <Illustration ID="r_1" HEIGHT="2746" WIDTH="2071" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>12.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:20:06.774+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3127" WIDTH="1808">
+      <PrintSpace HEIGHT="3085" WIDTH="1783" VPOS="2" HPOS="25">
+        <TextBlock ID="r1" HEIGHT="236" WIDTH="358" VPOS="1197" HPOS="799">
+          <TextLine ID="r1l2" BASELINE="1415" HEIGHT="77" WIDTH="369" VPOS="1338" HPOS="794">
+            <String HEIGHT="77" WIDTH="302" VPOS="1338" HPOS="760" CONTENT="PRIX;" ID="r1l2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="77" WIDTH="34" VPOS="1338" HPOS="1062"/>
+            <String HEIGHT="77" WIDTH="201" VPOS="1338" HPOS="962" CONTENT="75" ID="r1l2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="77" WIDTH="34" VPOS="1338" HPOS="1163"/>
+            <String HEIGHT="77" WIDTH="134" VPOS="1338" HPOS="1029" CONTENT="c." ID="r1l2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="14" WIDTH="1214" VPOS="44" HPOS="594"/>
+        <GraphicalElement ID="r_3" HEIGHT="13" WIDTH="240" VPOS="1256" HPOS="878"/>
+        <GraphicalElement ID="r_4" HEIGHT="977" WIDTH="37" VPOS="72" HPOS="25"/>
+        <GraphicalElement ID="r_5" HEIGHT="457" WIDTH="14" VPOS="1384" HPOS="45"/>
+        <GraphicalElement ID="r_6" HEIGHT="503" WIDTH="20" VPOS="1425" HPOS="52"/>
+        <GraphicalElement ID="r_7" HEIGHT="1021" WIDTH="28" VPOS="1931" HPOS="53"/>
+        <GraphicalElement ID="r_8" HEIGHT="764" WIDTH="25" VPOS="1377" HPOS="1768"/>
+        <GraphicalElement ID="r_9" HEIGHT="1332" WIDTH="35" VPOS="45" HPOS="1772"/>
+        <GraphicalElement ID="r_10" HEIGHT="3" WIDTH="59" VPOS="3067" HPOS="676"/>
+        <Illustration ID="r_1" HEIGHT="3085" WIDTH="1783" VPOS="2" HPOS="25"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

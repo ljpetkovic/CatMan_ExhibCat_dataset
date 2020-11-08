@@ -1,0 +1,45 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>41.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:24.851+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2764" WIDTH="2056">
+      <PrintSpace HEIGHT="2764" WIDTH="1754" VPOS="0" HPOS="0">
+        <TextBlock ID="r_3_1" HEIGHT="51" WIDTH="739" VPOS="2479" HPOS="587">
+          <TextLine ID="tl_2" BASELINE="2595" HEIGHT="123" WIDTH="747" VPOS="2472" HPOS="583">
+            <String HEIGHT="123" WIDTH="197" VPOS="2472" HPOS="563" CONTENT="ROBERT" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="123" WIDTH="20" VPOS="2472" HPOS="760"/>
+            <String HEIGHT="123" WIDTH="197" VPOS="2472" HPOS="701" CONTENT="ANNING" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="123" WIDTH="20" VPOS="2472" HPOS="898"/>
+            <String HEIGHT="123" WIDTH="177" VPOS="2472" HPOS="839" CONTENT="BELL." ID="tl_2_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="123" WIDTH="20" VPOS="2472" HPOS="1015"/>
+            <String HEIGHT="123" WIDTH="98" VPOS="2472" HPOS="956" CONTENT="—" ID="tl_2_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="123" WIDTH="20" VPOS="2472" HPOS="1055"/>
+            <String HEIGHT="123" WIDTH="354" VPOS="2472" HPOS="976" CONTENT="L’oracle" ID="tl_2_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_2" HEIGHT="2434" WIDTH="1754" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_5" HEIGHT="2107" WIDTH="1577" VPOS="327" HPOS="171"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

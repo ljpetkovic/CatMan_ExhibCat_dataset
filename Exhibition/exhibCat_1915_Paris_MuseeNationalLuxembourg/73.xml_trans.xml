@@ -1,0 +1,47 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>73.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:33.388+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2749" WIDTH="2068">
+      <PrintSpace HEIGHT="2749" WIDTH="1740" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="38" WIDTH="855" VPOS="2214" HPOS="544">
+          <TextLine ID="tl_1" BASELINE="2330" HEIGHT="124" WIDTH="863" VPOS="2206" HPOS="540">
+            <String HEIGHT="124" WIDTH="157" VPOS="2206" HPOS="520" CONTENT="ERIC" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="124" WIDTH="20" VPOS="2206" HPOS="677"/>
+            <String HEIGHT="124" WIDTH="294" VPOS="2206" HPOS="618" CONTENT="KENNINGTON." ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="124" WIDTH="20" VPOS="2206" HPOS="913"/>
+            <String HEIGHT="124" WIDTH="98" VPOS="2206" HPOS="854" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="124" WIDTH="20" VPOS="2206" HPOS="952"/>
+            <String HEIGHT="124" WIDTH="275" VPOS="2206" HPOS="893" CONTENT="Cuisine" ID="tl_1_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="124" WIDTH="20" VPOS="2206" HPOS="1168"/>
+            <String HEIGHT="124" WIDTH="314" VPOS="2206" HPOS="1089" CONTENT="ambulante" ID="tl_1_5" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="615" WIDTH="9" VPOS="1983" HPOS="60"/>
+        <GraphicalElement ID="r_5" HEIGHT="626" WIDTH="7" VPOS="1984" HPOS="71"/>
+        <GraphicalElement ID="r_6" HEIGHT="237" WIDTH="17" VPOS="511" HPOS="1486"/>
+        <Illustration ID="r_1" HEIGHT="2151" WIDTH="1740" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

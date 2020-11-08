@@ -1,0 +1,76 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0232.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:49:55.476+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="52" WIDTH="882" VPOS="841" HPOS="210">
+          <TextLine ID="tl_1" BASELINE="922" HEIGHT="96" WIDTH="892" VPOS="826" HPOS="204">
+            <String HEIGHT="96" WIDTH="210" VPOS="826" HPOS="187" CONTENT="FRANÇOIS" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="396"/>
+            <String HEIGHT="96" WIDTH="175" VPOS="826" HPOS="344" CONTENT="LUNVEN" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="519"/>
+            <String HEIGHT="96" WIDTH="87" VPOS="826" HPOS="466" CONTENT="J" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="554"/>
+            <String HEIGHT="96" WIDTH="140" VPOS="826" HPOS="501" CONTENT="D’UN" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="641"/>
+            <String HEIGHT="96" WIDTH="175" VPOS="826" HPOS="589" CONTENT="MOMENT" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="764"/>
+            <String HEIGHT="96" WIDTH="87" VPOS="826" HPOS="711" CONTENT="A" ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="799"/>
+            <String HEIGHT="96" WIDTH="192" VPOS="826" HPOS="746" CONTENT="L’AUTRE" ID="tl_1_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="939"/>
+            <String HEIGHT="96" WIDTH="192" VPOS="826" HPOS="886" CONTENT="(France" ID="tl_1_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="96" WIDTH="17" VPOS="826" HPOS="1079"/>
+            <String HEIGHT="96" WIDTH="87" VPOS="826" HPOS="1009" CONTENT="8)." ID="tl_1_9" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_2" HEIGHT="48" WIDTH="832" VPOS="1187" HPOS="243">
+          <TextLine ID="tl_3" BASELINE="1238" HEIGHT="69" WIDTH="841" VPOS="1169" HPOS="237">
+            <String HEIGHT="69" WIDTH="168" VPOS="1169" HPOS="220" CONTENT="RAFAEL" ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="388"/>
+            <String HEIGHT="69" WIDTH="202" VPOS="1169" HPOS="338" CONTENT="MARTINEZ" ID="tl_3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="540"/>
+            <String HEIGHT="69" WIDTH="84" VPOS="1169" HPOS="489" CONTENT="J" ID="tl_3_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="573"/>
+            <String HEIGHT="69" WIDTH="168" VPOS="1169" HPOS="523" CONTENT="VOLUME" ID="tl_3_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="691"/>
+            <String HEIGHT="69" WIDTH="235" VPOS="1169" HPOS="641" CONTENT="IMMATERIEL" ID="tl_3_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="876"/>
+            <String HEIGHT="69" WIDTH="235" VPOS="1169" HPOS="826" CONTENT="(Venezuela" ID="tl_3_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="69" WIDTH="17" VPOS="1169" HPOS="1061"/>
+            <String HEIGHT="69" WIDTH="84" VPOS="1169" HPOS="994" CONTENT="1)." ID="tl_3_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="32" WIDTH="550" VPOS="0" HPOS="640"/>
+        <GraphicalElement ID="r_6" HEIGHT="7" WIDTH="107" VPOS="1275" HPOS="1"/>
+        <GraphicalElement ID="r_7" HEIGHT="8" WIDTH="101" VPOS="1303" HPOS="0"/>
+        <GraphicalElement ID="r_8" HEIGHT="6" WIDTH="110" VPOS="1648" HPOS="1"/>
+        <GraphicalElement ID="r_9" HEIGHT="308" WIDTH="12" VPOS="1105" HPOS="99"/>
+        <GraphicalElement ID="r_10" HEIGHT="249" WIDTH="9" VPOS="709" HPOS="101"/>
+        <Illustration ID="r_1" HEIGHT="768" WIDTH="1191" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_4" HEIGHT="1074" WIDTH="1061" VPOS="1251" HPOS="130"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

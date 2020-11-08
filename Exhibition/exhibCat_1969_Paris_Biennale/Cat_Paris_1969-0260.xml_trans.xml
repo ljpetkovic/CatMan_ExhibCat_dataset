@@ -1,0 +1,66 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1969-0260.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:50:01.926+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1191">
+      <PrintSpace HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="171" WIDTH="728" VPOS="1505" HPOS="316">
+          <TextLine ID="r1l1" BASELINE="1569" HEIGHT="46" WIDTH="738" VPOS="1523" HPOS="311">
+            <String HEIGHT="46" WIDTH="168" VPOS="1523" HPOS="294" CONTENT="PIERRE" ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="46" WIDTH="17" VPOS="1523" HPOS="462"/>
+            <String HEIGHT="46" WIDTH="185" VPOS="1523" HPOS="412" CONTENT="ZISAIRE" ID="r1l1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="46" WIDTH="17" VPOS="1523" HPOS="596"/>
+            <String HEIGHT="46" WIDTH="84" VPOS="1523" HPOS="546" CONTENT="/" ID="r1l1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="46" WIDTH="17" VPOS="1523" HPOS="630"/>
+            <String HEIGHT="46" WIDTH="252" VPOS="1523" HPOS="579" CONTENT="COMPOSITION" ID="r1l1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="46" WIDTH="17" VPOS="1523" HPOS="831"/>
+            <String HEIGHT="46" WIDTH="252" VPOS="1523" HPOS="781" CONTENT="(Luxembourg" ID="r1l1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="46" WIDTH="17" VPOS="1523" HPOS="1032"/>
+            <String HEIGHT="46" WIDTH="84" VPOS="1523" HPOS="965" CONTENT="2)." ID="r1l1_6" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="15" WIDTH="213" VPOS="0" HPOS="641"/>
+        <GraphicalElement ID="r_3" HEIGHT="6" WIDTH="283" VPOS="0" HPOS="908"/>
+        <GraphicalElement ID="r_4" HEIGHT="9" WIDTH="175" VPOS="11" HPOS="512"/>
+        <GraphicalElement ID="r_5" HEIGHT="2" WIDTH="78" VPOS="2323" HPOS="340"/>
+        <GraphicalElement ID="r_6" HEIGHT="2" WIDTH="80" VPOS="2323" HPOS="445"/>
+        <GraphicalElement ID="r_7" HEIGHT="2" WIDTH="74" VPOS="2323" HPOS="550"/>
+        <GraphicalElement ID="r_8" HEIGHT="2" WIDTH="81" VPOS="2323" HPOS="655"/>
+        <GraphicalElement ID="r_9" HEIGHT="2" WIDTH="88" VPOS="2323" HPOS="760"/>
+        <GraphicalElement ID="r_10" HEIGHT="2" WIDTH="87" VPOS="2323" HPOS="970"/>
+        <GraphicalElement ID="r_11" HEIGHT="2" WIDTH="85" VPOS="2323" HPOS="1074"/>
+        <GraphicalElement ID="r_12" HEIGHT="422" WIDTH="16" VPOS="1003" HPOS="153"/>
+        <GraphicalElement ID="r_13" HEIGHT="59" WIDTH="2" VPOS="2255" HPOS="1189"/>
+        <GraphicalElement ID="r_14" HEIGHT="78" WIDTH="2" VPOS="2131" HPOS="1189"/>
+        <GraphicalElement ID="r_15" HEIGHT="283" WIDTH="8" VPOS="346" HPOS="1173"/>
+        <GraphicalElement ID="r_16" HEIGHT="63" WIDTH="2" VPOS="2041" HPOS="1189"/>
+        <GraphicalElement ID="r_17" HEIGHT="51" WIDTH="1" VPOS="1633" HPOS="1190"/>
+        <GraphicalElement ID="r_18" HEIGHT="53" WIDTH="1" VPOS="1526" HPOS="1190"/>
+        <GraphicalElement ID="r_19" HEIGHT="608" WIDTH="12" VPOS="153" HPOS="1177"/>
+        <GraphicalElement ID="r_20" HEIGHT="64" WIDTH="3" VPOS="990" HPOS="1188"/>
+        <GraphicalElement ID="r_21" HEIGHT="42" WIDTH="2" VPOS="566" HPOS="1179"/>
+        <Illustration ID="r_1" HEIGHT="2325" WIDTH="1191" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

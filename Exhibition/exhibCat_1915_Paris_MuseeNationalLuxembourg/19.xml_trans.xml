@@ -1,0 +1,45 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>19.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:17.583+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2749" WIDTH="2068">
+      <PrintSpace HEIGHT="1664" WIDTH="1478" VPOS="1008" HPOS="59">
+        <TextBlock ID="r_1_1" HEIGHT="71" WIDTH="213" VPOS="1016" HPOS="854">
+          <TextLine ID="tl_1" BASELINE="1109" HEIGHT="128" WIDTH="227" VPOS="981" HPOS="848">
+            <String HEIGHT="128" WIDTH="378" VPOS="981" HPOS="697" CONTENT="DON" ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="116" WIDTH="1156" VPOS="1226" HPOS="373">
+          <TextLine ID="tl_2" BASELINE="1422" HEIGHT="223" WIDTH="1171" VPOS="1199" HPOS="366">
+            <String HEIGHT="223" WIDTH="976" VPOS="1199" HPOS="268" CONTENT="EDMUND" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="223" WIDTH="98" VPOS="1199" HPOS="1244"/>
+            <String HEIGHT="223" WIDTH="683" VPOS="1199" HPOS="854" CONTENT="DAVIS" ID="tl_2_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="621" WIDTH="17" VPOS="2051" HPOS="59"/>
+        <GraphicalElement ID="r_4" HEIGHT="243" WIDTH="12" VPOS="2023" HPOS="65"/>
+        <GraphicalElement ID="r_5" HEIGHT="198" WIDTH="7" VPOS="1474" HPOS="73"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

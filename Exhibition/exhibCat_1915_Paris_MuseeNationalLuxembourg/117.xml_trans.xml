@@ -1,0 +1,48 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>117.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:44.782+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2743" WIDTH="2071">
+      <PrintSpace HEIGHT="2743" WIDTH="1746" VPOS="0" HPOS="0">
+        <TextBlock ID="region_1592484808402_1345" HEIGHT="52" WIDTH="758" VPOS="2443" HPOS="605">
+          <TextLine ID="line_1592484808417_1348" BASELINE="2574" HEIGHT="136" WIDTH="768" VPOS="2438" HPOS="600">
+            <String HEIGHT="136" WIDTH="202" VPOS="2438" HPOS="580" CONTENT="CAYLEY" ID="line_1592484808417_1348_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="136" WIDTH="20" VPOS="2438" HPOS="782"/>
+            <String HEIGHT="136" WIDTH="263" VPOS="2438" HPOS="721" CONTENT="ROBINSON." ID="line_1592484808417_1348_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="136" WIDTH="20" VPOS="2438" HPOS="984"/>
+            <String HEIGHT="136" WIDTH="101" VPOS="2438" HPOS="923" CONTENT="—" ID="line_1592484808417_1348_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="136" WIDTH="20" VPOS="2438" HPOS="1024"/>
+            <String HEIGHT="136" WIDTH="222" VPOS="2438" HPOS="964" CONTENT="Cain" ID="line_1592484808417_1348_4" STYLEREFS="FONT2"/>
+            <SP HEIGHT="136" WIDTH="20" VPOS="2438" HPOS="1186"/>
+            <String HEIGHT="136" WIDTH="121" VPOS="2438" HPOS="1125" CONTENT="et" ID="line_1592484808417_1348_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="136" WIDTH="20" VPOS="2438" HPOS="1247"/>
+            <String HEIGHT="136" WIDTH="202" VPOS="2438" HPOS="1166" CONTENT="Abel" ID="line_1592484808417_1348_6" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="279" WIDTH="17" VPOS="2091" HPOS="1647"/>
+        <GraphicalElement ID="r_4" HEIGHT="81" WIDTH="1" VPOS="1791" HPOS="61"/>
+        <Illustration ID="r_5" HEIGHT="2117" WIDTH="1529" VPOS="256" HPOS="217"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

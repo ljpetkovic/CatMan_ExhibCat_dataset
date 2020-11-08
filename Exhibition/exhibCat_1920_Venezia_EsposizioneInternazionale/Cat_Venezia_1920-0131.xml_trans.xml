@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Venezia_1920-0131.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-25T13:02:03.147+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3299" WIDTH="2550">
+      <PrintSpace HEIGHT="2927" WIDTH="1886" VPOS="249" HPOS="394">
+        <TextBlock ID="r_3_1" HEIGHT="46" WIDTH="82" VPOS="3051" HPOS="1431">
+          <TextLine ID="tl_2" BASELINE="3098" HEIGHT="59" WIDTH="90" VPOS="3039" HPOS="1427">
+            <String HEIGHT="59" WIDTH="150" VPOS="3039" HPOS="1367" CONTENT="106" ID="tl_2_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_5" HEIGHT="15" WIDTH="1119" VPOS="249" HPOS="610"/>
+        <GraphicalElement ID="r_6" HEIGHT="12" WIDTH="546" VPOS="257" HPOS="1734"/>
+        <GraphicalElement ID="r_7" HEIGHT="19" WIDTH="800" VPOS="3077" HPOS="581"/>
+        <GraphicalElement ID="r_8" HEIGHT="16" WIDTH="713" VPOS="3090" HPOS="1567"/>
+        <GraphicalElement ID="r_9" HEIGHT="2831" WIDTH="38" VPOS="253" HPOS="570"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

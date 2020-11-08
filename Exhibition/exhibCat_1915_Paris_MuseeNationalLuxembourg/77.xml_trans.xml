@@ -1,0 +1,51 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>77.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:34.374+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2737" WIDTH="2065">
+      <PrintSpace HEIGHT="2417" WIDTH="1691" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="40" WIDTH="805" VPOS="2371" HPOS="519">
+          <TextLine ID="tl_1" BASELINE="2521" HEIGHT="156" WIDTH="814" VPOS="2365" HPOS="515">
+            <String HEIGHT="156" WIDTH="242" VPOS="2365" HPOS="493" CONTENT="AMBROSE" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="156" WIDTH="22" VPOS="2365" HPOS="735"/>
+            <String HEIGHT="156" WIDTH="154" VPOS="2365" HPOS="669" CONTENT="MAC" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="156" WIDTH="22" VPOS="2365" HPOS="823"/>
+            <String HEIGHT="156" WIDTH="198" VPOS="2365" HPOS="757" CONTENT="EVOY." ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="156" WIDTH="22" VPOS="2365" HPOS="955"/>
+            <String HEIGHT="156" WIDTH="110" VPOS="2365" HPOS="889" CONTENT="—" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="156" WIDTH="22" VPOS="2365" HPOS="999"/>
+            <String HEIGHT="156" WIDTH="110" VPOS="2365" HPOS="933" CONTENT="«" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="156" WIDTH="22" VPOS="2365" HPOS="1043"/>
+            <String HEIGHT="156" WIDTH="374" VPOS="2365" HPOS="955" CONTENT="Madame»." ID="tl_1_6" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="324" WIDTH="21" VPOS="60" HPOS="74"/>
+        <GraphicalElement ID="r_5" HEIGHT="370" WIDTH="23" VPOS="511" HPOS="516"/>
+        <GraphicalElement ID="r_6" HEIGHT="733" WIDTH="35" VPOS="536" HPOS="1457"/>
+        <GraphicalElement ID="r_7" HEIGHT="239" WIDTH="5" VPOS="375" HPOS="1670"/>
+        <GraphicalElement ID="r_8" HEIGHT="314" WIDTH="4" VPOS="663" HPOS="1674"/>
+        <Illustration ID="r_1" HEIGHT="2307" WIDTH="1691" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

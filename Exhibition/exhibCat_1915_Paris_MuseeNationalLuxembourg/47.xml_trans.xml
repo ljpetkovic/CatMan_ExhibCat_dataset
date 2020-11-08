@@ -1,0 +1,51 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>47.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:26.434+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2758" WIDTH="2062">
+      <PrintSpace HEIGHT="2758" WIDTH="1600" VPOS="0" HPOS="0">
+        <TextBlock ID="r_2_1" HEIGHT="56" WIDTH="980" VPOS="2483" HPOS="398">
+          <TextLine ID="tl_1" BASELINE="2639" HEIGHT="159" WIDTH="992" VPOS="2480" HPOS="392">
+            <String HEIGHT="159" WIDTH="142" VPOS="2480" HPOS="372" CONTENT="SIR" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="513"/>
+            <String HEIGHT="159" WIDTH="202" VPOS="2480" HPOS="453" CONTENT="EDWARD" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="655"/>
+            <String HEIGHT="159" WIDTH="324" VPOS="2480" HPOS="594" CONTENT="BURNE-JONES." ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="918"/>
+            <String HEIGHT="159" WIDTH="101" VPOS="2480" HPOS="858" CONTENT="—" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="959"/>
+            <String HEIGHT="159" WIDTH="182" VPOS="2480" HPOS="898" CONTENT="La" ID="tl_1_5" STYLEREFS="FONT2"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="1080"/>
+            <String HEIGHT="159" WIDTH="182" VPOS="2480" HPOS="1020" CONTENT="Fille" ID="tl_1_6" STYLEREFS="FONT2"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="1202"/>
+            <String HEIGHT="159" WIDTH="121" VPOS="2480" HPOS="1141" CONTENT="du" ID="tl_1_7" STYLEREFS="FONT2"/>
+            <SP HEIGHT="159" WIDTH="20" VPOS="2480" HPOS="1263"/>
+            <String HEIGHT="159" WIDTH="202" VPOS="2480" HPOS="1182" CONTENT="ro." ID="tl_1_8" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_1" HEIGHT="2429" WIDTH="1600" VPOS="0" HPOS="0"/>
+        <Illustration ID="r_4" HEIGHT="2201" WIDTH="1319" VPOS="228" HPOS="280"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

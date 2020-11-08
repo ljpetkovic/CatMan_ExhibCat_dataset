@@ -1,0 +1,47 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>63.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:30.509+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2749" WIDTH="2059">
+      <PrintSpace HEIGHT="2573" WIDTH="1726" VPOS="176" HPOS="21">
+        <TextBlock ID="r_3_1" HEIGHT="568" WIDTH="60" VPOS="1106" HPOS="1680">
+          <TextLine ID="tl_1" BASELINE="1684" HEIGHT="576" WIDTH="102" VPOS="1108" HPOS="1675">
+            <String HEIGHT="576" WIDTH="35" VPOS="1108" HPOS="1671" CONTENT="OLIVER" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="576" WIDTH="4" VPOS="1108" HPOS="1707"/>
+            <String HEIGHT="576" WIDTH="32" VPOS="1108" HPOS="1696" CONTENT="HALL." ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="576" WIDTH="4" VPOS="1108" HPOS="1728"/>
+            <String HEIGHT="576" WIDTH="18" VPOS="1108" HPOS="1717" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="576" WIDTH="4" VPOS="1108" HPOS="1735"/>
+            <String HEIGHT="576" WIDTH="56" VPOS="1108" HPOS="1721" CONTENT="Paysage" ID="tl_1_4" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="704" WIDTH="16" VPOS="738" HPOS="53"/>
+        <GraphicalElement ID="r_5" HEIGHT="101" WIDTH="4" VPOS="1535" HPOS="51"/>
+        <GraphicalElement ID="r_6" HEIGHT="130" WIDTH="6" VPOS="2016" HPOS="46"/>
+        <GraphicalElement ID="r_7" HEIGHT="78" WIDTH="7" VPOS="2060" HPOS="58"/>
+        <Illustration ID="r_1" HEIGHT="2259" WIDTH="1621" VPOS="176" HPOS="27"/>
+        <Illustration ID="r_2" HEIGHT="91" WIDTH="106" VPOS="2658" HPOS="21"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
