@@ -86,7 +86,7 @@ if [ "${option_help}" == "h" ]; then
 
 	-h 	Get help/text description of the flags.
 
-For the detailed explanation of the script, go to https://github.com/ljpetkovic/OCR-cat/tree/master/ALTO_XML_trans.
+For the detailed explanation of the script, go to https://github.com/ljpetkovic/CatMan_ExhibCat_dataset/tree/main/scripts/trans_ALTO.
 
 			"
 	exit 0

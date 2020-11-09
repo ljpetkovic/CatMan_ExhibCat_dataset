@@ -1,13 +1,14 @@
 import lxml.etree as etree
 import sys, argparse
-import re
+import re, os
 
 
 ########### Getting the file path #######################
 
 fichier = sys.argv[1]
 #fichier = 'test.xml'
-# base=os.path.basename(fichier) # getting the file name without the extension
+#base=os.path.basename(fichier) # getting the file name without the extension
+#print('Processing ', os.path.splitext(base)[0], '.xml...\nDone.')
 
 ########### Getting the dpi #######################
 
@@ -235,5 +236,5 @@ for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
 
 tree.write(fichier + '_trans.xml', encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
 
-#print('Processing ', os.path.splitext(base)[0], '.xml...\nDone.')
+
 
