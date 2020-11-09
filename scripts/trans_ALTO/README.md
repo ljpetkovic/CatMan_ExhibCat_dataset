@@ -128,8 +128,6 @@ To create your Python virtual environment (optional):
 </Styles>
 ```
 
-- <!-- no need to register the namespace (unlike with the previously used `etree` command `ET.register_namespace`);-->
-- <!--preserving the `xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"` namespace from the original ALTO-XML files;-->
 - Displaying the `-h` (help) description text of the Bash script: `./corr_trans_ALTO.sh -h`
 
 ```
@@ -157,8 +155,6 @@ When in `trans_ALTO` folder, in order to transform only one file, run:<br>
 ```bash
 python3 corr_trans_alto.py test.xml 
 ```
-
-<!--The above command runs the Python transforming script `corr_XML_dpi_test.py` on the input file `../test/1871_08_RDA_N028-1.xml`, while performing the mm10 to pixels conversion using the `imagemagick` library with the command `$(convert ../test/1871_08_RDA_N028-1.jpg -format "%x" info:)` (the `"%x"` indicates the horizontal resolution).-->
 
 If you uncomment
 
