@@ -2,9 +2,7 @@
 
 ## Description
 
-Exhibition catalogues from the [Visual contagion project](https://gitlab.unige.ch/Beatrice.Joyeux-Prunel/visual-contagions) in the formats ALTO and JPEG. 
-
-Manuscript sales catalogues from the [Katabase project](https://github.com/katabase) in the formats ALTO and JPEG.
+Exhibition catalogues from the [Visual contagion project](https://gitlab.unige.ch/Beatrice.Joyeux-Prunel/visual-contagions) and manuscript sales catalogues from the [Katabase project](https://github.com/katabase) in the formats ALTO and JPEG. 
 
 The ALTO training set contains typographical information marked by the attributes `FONT{0,1,2}`, corresponding to the normal, bold and italicised text, respectively. 
 
@@ -12,7 +10,7 @@ The ALTO training set contains typographical information marked by the attribute
 
 ## Cite this dataset
 
-Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition catalogues (ALTO and JPEG)_, 2020, https://github.com/carolinecorbieres/ExhibCat_Dataset.
+Caroline Corbières, Ljudmila Petkovic, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition and manuscript sales catalogues (ALTO and JPEG)_, 2020, https://github.com/ljpetkovic/CatMan_ExhibCat_dataset.
 
 ## Licence
 
