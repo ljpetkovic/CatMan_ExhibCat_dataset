@@ -244,3 +244,4 @@ fichier_mod = fichier + '_trans.xml'
 tree.write(fichier_mod, encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
 
 subprocess.call(["sed", "-i", '', 's/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ http\:\/\/www\.loc\.gov\/standards\/alto\/alto\.xsd"/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ alto\_v3\_schema\.xml\"/g', fichier_mod])
+subprocess.call(["sed", "-i", '', 's/pixel/mm10/g', fichier_mod])
