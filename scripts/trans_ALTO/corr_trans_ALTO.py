@@ -1,14 +1,14 @@
 import lxml.etree as etree
 import sys, argparse
-import re, os
+import re, os, fileinput, subprocess
 
 
 ########### Getting the file path #######################
 
-fichier = sys.argv[1]
-#fichier = 'test.xml'
-#base=os.path.basename(fichier) # getting the file name without the extension
-#print('Processing ', os.path.splitext(base)[0], '.xml...\nDone.')
+# fichier = sys.argv[1]
+fichier = 'test.xml'
+# base=os.path.basename(fichier) # getting the file name without the extension
+# print('Processing ', os.path.splitext(base)[0], '.xml...\nDone.')
 
 ########### Getting the dpi #######################
 
@@ -19,7 +19,7 @@ fichier = sys.argv[1]
 pattern = r'[^/]+$'
 p = re.compile(pattern)
 result = p.search(fichier)
-fileName = result.group()  
+fileName = result.group()
 
 ##################################################################
 
@@ -37,7 +37,7 @@ sourceImageInformationText = """
       <sourceImageInformation>
          <fileName>{}</fileName>
       </sourceImageInformation>
-""".format(fileName)
+""".format(fileName[:-3] + 'jpg')
 
 processingSoftwareText = """
             <processingSoftware>
@@ -58,29 +58,35 @@ root[0][2][0].insert(1, processingSoftware)
 
 #############   Removing the redundant tags from the file     ################
 
-tag_a_supprimer = ['{http://www.loc.gov/standards/alto/ns-v2#}TopMargin',
-                   '{http://www.loc.gov/standards/alto/ns-v2#}LeftMargin',
-                   '{http://www.loc.gov/standards/alto/ns-v2#}RightMargin',
-                   '{http://www.loc.gov/standards/alto/ns-v2#}BottomMargin']
+tag_a_supprimer = ['{}TopMargin',
+                   '{}LeftMargin',
+                   '{}RightMargin',
+                   '{}BottomMargin']
 
-for page in root[2].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
+for page in root[2].iter('{}Page'):
     for tag in tag_a_supprimer:
         for elem in page.findall(tag):
             page.remove(elem)
-    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
-        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
-            for shape in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}Shape'):
+    for printspace in page.findall('{}PrintSpace'):
+        for textblock in printspace.findall('{}TextBlock'):
+            for shape in textblock.findall('{}Shape'):
                 textblock.remove(shape)
 
 ############    Adding the <Styles> tag with its fonts to the header     ##########
 
 stylesText = """
 <Styles>
-     <TextStyle ID="FONT0" 
-                FONTSTYLE=""/>
+    <TextStyle  ID="FONT0"
+                FONTFAMILY="unknown"
+                FONTSIZE="unknown"
+                FONTSTYLE="normal"/>
      <TextStyle ID="FONT1"
+                FONTFAMILY="unknown"
+                FONTSIZE="unknown"
                 FONTSTYLE="bold"/>
      <TextStyle ID="FONT2"
+                FONTFAMILY="unknown"
+                FONTSIZE="unknown"
                 FONTSTYLE="italics"/>
 </Styles>
 """
@@ -91,13 +97,13 @@ root.insert(1, styles)
 
 #######  Getting and incrementally creating the <String> elements' ID based on the <TextLine> elements' ID #########
 
-for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
-    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
-        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+for page in root[3].iter('{}Page'):
+    for printspace in page.findall('{}PrintSpace'):
+        for textblock in printspace.findall('{}TextBlock'):
             id_tex_block = textblock.attrib['ID']
-            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+            for textline in textblock.findall('{}TextLine'):
                 id_textline = textline.attrib['ID']
-                for i, string in enumerate(textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'),
+                for i, string in enumerate(textline.findall('{}String'),
                                            start=1):
                     string.set('ID', id_textline + "_{}".format(str(i)))
 
@@ -125,12 +131,12 @@ def reco_balise(string_content,span):
         return 'other'
         
 
-for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
-    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
-        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
-            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+for page in root[3].iter('{}Page'):
+    for printspace in page.findall('{}PrintSpace'):
+        for textblock in printspace.findall('{}TextBlock'):
+            for textline in textblock.findall('{}TextLine'):
                 count = 0
-                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                for string in textline.findall('{}String'):
                     count += 1
                     # Correcting the full tags
                     if re.search(patt_b_open,string.attrib['CONTENT']): 
@@ -149,7 +155,7 @@ for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
                 ###### Correcting the empty tags #######        
                 count = 0
                 liste_balises_ligne = []
-                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                for string in textline.findall('{}String'):
                     string_content = string.attrib['CONTENT']
                     matches_balises = pattern_regex_gen.finditer(string_content) # itérator
                     for match in matches_balises:
@@ -198,13 +204,13 @@ for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
 
 #### Applying three styles (FONT0, FONT1, FONT2) to all the <String> elements	######
 
-for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
-    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
-        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
-            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+for page in root[3].iter('{}Page'):
+    for printspace in page.findall('{}PrintSpace'):
+        for textblock in printspace.findall('{}TextBlock'):
+            for textline in textblock.findall('{}TextLine'):
                 start_b = False
                 start_i = False
-                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                for string in textline.findall('{}String'):
                     string.set('STYLEREFS', 'FONT0')
                     if '<b>' in string.attrib['CONTENT']:
                         start_b = True
@@ -234,7 +240,7 @@ for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
 ##            pixels = str(int(mm10) * dpi / 254)
 ##            elt.set(l, pixels)
 
-tree.write(fichier + '_trans.xml', encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
+fichier_mod = fichier + '_trans.xml'
+tree.write(fichier_mod, encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
 
-
-
+subprocess.call(["sed", "-i", '', 's/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ http\:\/\/www\.loc\.gov\/standards\/alto\/alto\.xsd"/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ alto\_v3\_schema\.xml\"/g', fichier_mod])
