@@ -16,10 +16,10 @@
     </OCRProcessing>
   </Description>
   <Styles>
-     <TextStyle ID="FONT0" FONTSTYLE=""/>
-     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
-     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
-</Styles>
+   <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE=""/>
+   <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE="bold"/>
+   <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE="italics"/>
+  </Styles>
   <Tags/>
   <Layout>
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2746" WIDTH="2059">
