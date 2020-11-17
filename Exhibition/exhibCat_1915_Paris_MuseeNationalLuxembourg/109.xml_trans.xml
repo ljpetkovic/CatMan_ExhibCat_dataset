@@ -1,0 +1,54 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>109.jpg</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-10-31T11:03:42.715+01:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+   <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE=""/>
+   <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE="bold"/>
+   <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTSTYLE="italics"/>
+  </Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2737" WIDTH="2095">
+      <PrintSpace HEIGHT="2737" WIDTH="1959" VPOS="0" HPOS="0">
+        <TextBlock ID="region_1592484719937_1306" HEIGHT="54" WIDTH="817" VPOS="2624" HPOS="597">
+          <TextLine ID="line_1592484719948_1309" BASELINE="2735" HEIGHT="109" WIDTH="828" VPOS="2626" HPOS="592">
+            <String HEIGHT="109" WIDTH="162" VPOS="2626" HPOS="572" CONTENT="MRS." ID="line_1592484719948_1309_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="109" WIDTH="20" VPOS="2626" HPOS="733"/>
+            <String HEIGHT="109" WIDTH="202" VPOS="2626" HPOS="673" CONTENT="EDYTH." ID="line_1592484719948_1309_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="109" WIDTH="20" VPOS="2626" HPOS="875"/>
+            <String HEIGHT="109" WIDTH="121" VPOS="2626" HPOS="814" CONTENT="S." ID="line_1592484719948_1309_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="109" WIDTH="20" VPOS="2626" HPOS="935"/>
+            <String HEIGHT="109" WIDTH="242" VPOS="2626" HPOS="875" CONTENT="RACKHAM." ID="line_1592484719948_1309_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="109" WIDTH="20" VPOS="2626" HPOS="1117"/>
+            <String HEIGHT="109" WIDTH="101" VPOS="2626" HPOS="1056" CONTENT="—" ID="line_1592484719948_1309_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="109" WIDTH="20" VPOS="2626" HPOS="1157"/>
+            <String HEIGHT="109" WIDTH="343" VPOS="2626" HPOS="1077" CONTENT="Portrait" ID="line_1592484719948_1309_6" STYLEREFS="FONT2"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="419" WIDTH="9" VPOS="2300" HPOS="52"/>
+        <GraphicalElement ID="r_3" HEIGHT="117" WIDTH="2" VPOS="1851" HPOS="58"/>
+        <GraphicalElement ID="r_4" HEIGHT="730" WIDTH="5" VPOS="1086" HPOS="60"/>
+        <GraphicalElement ID="r_5" HEIGHT="160" WIDTH="2" VPOS="768" HPOS="62"/>
+        <GraphicalElement ID="r_6" HEIGHT="279" WIDTH="19" VPOS="961" HPOS="62"/>
+        <GraphicalElement ID="r_7" HEIGHT="832" WIDTH="25" VPOS="128" HPOS="66"/>
+        <GraphicalElement ID="r_8" HEIGHT="604" WIDTH="8" VPOS="2055" HPOS="68"/>
+        <GraphicalElement ID="r_9" HEIGHT="297" WIDTH="20" VPOS="2043" HPOS="707"/>
+        <Illustration ID="r_1" HEIGHT="2597" WIDTH="1965" VPOS="0" HPOS="-6"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
