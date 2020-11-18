@@ -1,5 +1,7 @@
 # Exhibition and manuscript sales catalogues training set
 
+![StylaltoTest](https://github.com/ljpetkovic/CatMan_ExhibCat_dataset/workflows/StylaltoTest/badge.svg)
+
 ## Description
 
 Exhibition catalogues from the [Visual contagion project](https://gitlab.unige.ch/Beatrice.Joyeux-Prunel/visual-contagions) and manuscript sales catalogues from the [Katabase project](https://github.com/katabase) in the formats ALTO and JPEG. 
