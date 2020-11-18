@@ -1,0 +1,29 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: StylaltoTest
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install https://github.com/PonteIneptique/alto-style-classifier/archive/dev.zip
+    - name: Run StylaltoTest
+      run: |
+        stylalto extract 'CatMan_ExhibCat_dataset/CatMan/*.xml' 'CatMan_ExhibCat_dataset/Exhibition/*.xml' --recursive --test
