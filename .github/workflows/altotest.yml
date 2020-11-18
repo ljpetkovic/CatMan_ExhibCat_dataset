@@ -27,4 +27,4 @@ jobs:
         pip install https://github.com/PonteIneptique/alto-style-classifier/archive/dev.zip
     - name: Run StylaltoTest
       run: |
-        stylalto extract 'CatMan_ExhibCat_dataset/CatMan/*.xml' 'CatMan_ExhibCat_dataset/Exhibition/*.xml' --recursive --test
+        stylalto extract 'CatMan_ExhibCat_dataset/CatMan/**/*.xml' 'CatMan_ExhibCat_dataset/Exhibition/**/*.xml' --recursive --test
