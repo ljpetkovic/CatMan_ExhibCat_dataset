@@ -58,19 +58,26 @@ root[0][2][0].insert(1, processingSoftware)
 
 #############   Removing the redundant tags from the file     ################
 
-tag_a_supprimer = ['{}TopMargin',
-                   '{}LeftMargin',
-                   '{}RightMargin',
-                   '{}BottomMargin']
+tag_a_supprimer = ['{http://www.loc.gov/standards/alto/ns-v2#}TopMargin',
+                   '{http://www.loc.gov/standards/alto/ns-v2#}LeftMargin',
+                   '{http://www.loc.gov/standards/alto/ns-v2#}RightMargin',
+                   '{http://www.loc.gov/standards/alto/ns-v2#}BottomMargin']
 
-for page in root[2].iter('{}Page'):
+for page in root[2].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
     for tag in tag_a_supprimer:
         for elem in page.findall(tag):
             page.remove(elem)
-    for printspace in page.findall('{}PrintSpace'):
-        for textblock in printspace.findall('{}TextBlock'):
-            for shape in textblock.findall('{}Shape'):
+    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
+        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+            for shape in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}Shape'):
                 textblock.remove(shape)
+
+    ### Handling the weird <ComposedBlock> occurrences and removing the redundant tags inside them (cf. Table in Layout in Transkribus)
+                
+        for composed_block in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}ComposedBlock'):
+            for textblock in composed_block.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+                for shape in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}Shape'):
+                    textblock.remove(shape)
 
 ############    Adding the <Styles> tag with its fonts to the header     ##########
 
@@ -97,15 +104,27 @@ root.insert(1, styles)
 
 #######  Getting and incrementally creating the <String> elements' ID based on the <TextLine> elements' ID #########
 
-for page in root[3].iter('{}Page'):
-    for printspace in page.findall('{}PrintSpace'):
-        for textblock in printspace.findall('{}TextBlock'):
+for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
+    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
+        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
             id_tex_block = textblock.attrib['ID']
-            for textline in textblock.findall('{}TextLine'):
+            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
                 id_textline = textline.attrib['ID']
-                for i, string in enumerate(textline.findall('{}String'),
+                for i, string in enumerate(textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'),
                                            start=1):
                     string.set('ID', id_textline + "_{}".format(str(i)))
+
+        ### Again, handling the weird <ComposedBlock> occurrences (cf. Table in Layout in Transkribus)
+
+        for composed_block in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}ComposedBlock'):
+            id_comp_block = composed_block.attrib['ID']
+            for textblock in composed_block.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+                id_tex_block = textblock.attrib['ID']
+                for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+                    id_textline = textline.attrib['ID']
+                    for i, string in enumerate(textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'),
+                                               start=1):
+                        string.set('ID', id_textline + "_{}".format(str(i)))
 
                     
 
@@ -131,12 +150,12 @@ def reco_balise(string_content,span):
         return 'other'
         
 
-for page in root[3].iter('{}Page'):
-    for printspace in page.findall('{}PrintSpace'):
-        for textblock in printspace.findall('{}TextBlock'):
-            for textline in textblock.findall('{}TextLine'):
+for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
+    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
+        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
                 count = 0
-                for string in textline.findall('{}String'):
+                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
                     count += 1
                     # Correcting the full tags
                     if re.search(patt_b_open,string.attrib['CONTENT']): 
@@ -152,10 +171,82 @@ for page in root[3].iter('{}Page'):
                         string.attrib['CONTENT'] = re.sub(patt_i_closed,'</i>',string.attrib['CONTENT'])
                         #print(string.attrib['CONTENT'])
 
+
                 ###### Correcting the empty tags #######        
                 count = 0
                 liste_balises_ligne = []
-                for string in textline.findall('{}String'):
+                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                    string_content = string.attrib['CONTENT']
+                    matches_balises = pattern_regex_gen.finditer(string_content) # itérator
+                    for match in matches_balises:
+                        span = match.span()
+                        res = [count, span, reco_balise(string_content,span)]
+                        liste_balises_ligne.append(res)
+                    count += 1
+                long_string = len(liste_balises_ligne)
+                #print(liste_balises_ligne)
+                for i, l in enumerate(liste_balises_ligne):
+                    if l[2] == "other":
+                        if i >= 1 and liste_balises_ligne[i-1][2] == 'open_b':
+                            k = l[0]
+                            a,b = l[1]
+                            string_content = textline[2*k].attrib['CONTENT']
+                            string_content_cor = string_content
+                            N = len(string_content)
+                            string_content_cor = string_content_cor[:-(N-a)] + '</b>' + string_content[b:]
+                            textline[2*k].attrib['CONTENT'] = string_content_cor
+                        elif i >= 1 and liste_balises_ligne[i-1][2] == 'open_i':
+                            k = l[0]
+                            a,b = l[1]
+                            string_content = textline[2*k].attrib['CONTENT']
+                            string_content_cor = string_content
+                            N = len(string_content)
+                            string_content_cor = string_content_cor[:-(N-a)] + '</i>' + string_content[b:]
+                            textline[2*k].attrib['CONTENT'] = string_content_cor                   
+                        elif i < long_string - 1 and liste_balises_ligne[i+1][2] == 'close_b':
+                            k = l[0]
+                            a,b = l[1]
+                            string_content = textline[2*k].attrib['CONTENT']
+                            string_content_cor = string_content
+                            N = len(string_content)
+                            string_content_cor = string_content_cor[:-(N-a)] + '<b>' + string_content[b:]
+                            textline[2*k].attrib['CONTENT'] = string_content_cor
+                        elif i < long_string - 1 and liste_balises_ligne[i+1][2] == 'close_i':
+                            k = l[0]
+                            a,b = l[1]
+                            string_content = textline[2*k].attrib['CONTENT']
+                            string_content_cor = string_content
+                            N = len(string_content)
+                            string_content_cor = string_content_cor[:-(N-a)] + '<i>' + string_content[b:]
+                            textline[2*k].attrib['CONTENT'] = string_content_cor
+
+            ##### <ComposedBlock>
+
+        for composed_block in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}ComposedBlock'):
+            for textblock in composed_block.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+                for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+                    count = 0
+                    for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                        count += 1
+                        # Correcting the full tags
+                        if re.search(patt_b_open,string.attrib['CONTENT']): 
+                            string.attrib['CONTENT'] = re.sub(patt_b_open,'<b>',string.attrib['CONTENT'])
+                            #print(string.attrib['CONTENT'])
+                        if re.search(patt_i_open,string.attrib['CONTENT']): 
+                            string.attrib['CONTENT'] = re.sub(patt_i_open,'<i>',string.attrib['CONTENT'])
+                            #print(string.attrib['CONTENT'])
+                        if re.search(patt_b_closed,string.attrib['CONTENT']): 
+                            string.attrib['CONTENT'] = re.sub(patt_b_closed,'</b>',string.attrib['CONTENT'])
+                           #print(string.attrib['CONTENT'])
+                        if re.search(patt_i_closed,string.attrib['CONTENT']): 
+                            string.attrib['CONTENT'] = re.sub(patt_i_closed,'</i>',string.attrib['CONTENT'])
+                            #print(string.attrib['CONTENT'])
+
+
+                                            ###### Correcting the empty tags #######        
+                count = 0
+                liste_balises_ligne = []
+                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
                     string_content = string.attrib['CONTENT']
                     matches_balises = pattern_regex_gen.finditer(string_content) # itérator
                     for match in matches_balises:
@@ -202,15 +293,15 @@ for page in root[3].iter('{}Page'):
                         
 
 
-#### Applying three styles (FONT0, FONT1, FONT2) to all the <String> elements	######
+#### Applying three styles (FONT0, FONT1, FONT2) to all the <String> elements in <TextBlock> 	######
 
-for page in root[3].iter('{}Page'):
-    for printspace in page.findall('{}PrintSpace'):
-        for textblock in printspace.findall('{}TextBlock'):
-            for textline in textblock.findall('{}TextLine'):
+for page in root[3].iter('{http://www.loc.gov/standards/alto/ns-v2#}Page'):
+    for printspace in page.findall('{http://www.loc.gov/standards/alto/ns-v2#}PrintSpace'):
+        for textblock in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+            for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
                 start_b = False
                 start_i = False
-                for string in textline.findall('{}String'):
+                for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
                     string.set('STYLEREFS', 'FONT0')
                     if '<b>' in string.attrib['CONTENT']:
                         start_b = True
@@ -229,6 +320,33 @@ for page in root[3].iter('{}Page'):
                         start_i = False
                         string.attrib['CONTENT'] = string.attrib['CONTENT'].replace('</i>', '')
 
+
+                    #### Idem for the <ComposedBlock>	######
+
+        for composed_block in printspace.findall('{http://www.loc.gov/standards/alto/ns-v2#}ComposedBlock'):
+            for textblock in composed_block.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextBlock'):
+                for textline in textblock.findall('{http://www.loc.gov/standards/alto/ns-v2#}TextLine'):
+                    start_b = False
+                    start_i = False
+                    for string in textline.findall('{http://www.loc.gov/standards/alto/ns-v2#}String'):
+                        string.set('STYLEREFS', 'FONT0')
+                        if '<b>' in string.attrib['CONTENT']:
+                            start_b = True
+                            string.attrib['CONTENT'] = string.attrib['CONTENT'].replace('<b>', '')
+                        elif '<i>' in string.attrib['CONTENT']:
+                            start_i = True
+                            string.attrib['CONTENT'] = string.attrib['CONTENT'].replace('<i>', '')
+                        if start_b == True:
+                            string.set('STYLEREFS', 'FONT1')
+                        if start_i == True:
+                            string.set('STYLEREFS', 'FONT2')
+                        if '</b>' in string.attrib['CONTENT']:
+                            start_b = False
+                            string.attrib['CONTENT'] = string.attrib['CONTENT'].replace('</b>', '')
+                        elif '</i>' in string.attrib['CONTENT']:
+                            start_i = False
+                            string.attrib['CONTENT'] = string.attrib['CONTENT'].replace('</i>', '')             
+
 ######  mm10 to pixels conversion  #######
 
 ##liste_attribut = ["HPOS", "VPOS", "HEIGHT", "WIDTH"]
@@ -240,8 +358,10 @@ for page in root[3].iter('{}Page'):
 ##            pixels = str(int(mm10) * dpi / 254)
 ##            elt.set(l, pixels)
 
-fichier_mod = fichier + '_trans.xml'
-tree.write(fichier_mod, encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
 
-subprocess.call(["sed", "-i", '', 's/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ http\:\/\/www\.loc\.gov\/standards\/alto\/alto\.xsd"/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ alto\_v2\_schema\.xml\"/g', fichier_mod])
-subprocess.call(["sed", "-i", '', 's/pixel/mm10/g', fichier_mod])
+tree.write(fichier + '_trans.xml', encoding='utf8', pretty_print=True, xml_declaration=True, method='xml')
+
+# subprocess.call(["sed", "-i", '', 's/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ http\:\/\/www\.loc\.gov\/standards\/alto\/alto\.xsd"/xsi\:schemaLocation\=\"http\:\/\/www\.loc\.gov\/standards\/alto\/ns\-v2\#\ alto\_v2\_schema\.xml\"/g', fichier_mod])
+# for f in fichier:
+    # subprocess.call(["sed", "-i", '', 's/pixel/mm10/g', f])
+subprocess.call(["sed", "-i", '', 's/pixel/mm10/g', fichier])
