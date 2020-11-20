@@ -25,9 +25,9 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2940" WIDTH="1836">
       <PrintSpace HEIGHT="2844" WIDTH="1719" VPOS="0" HPOS="18">
         <TextBlock ID="r_1_1" HEIGHT="126" WIDTH="34" VPOS="13" HPOS="53">
-          <TextLine ID="tl_1" BASELINE="145" HEIGHT="69" WIDTH="51" VPOS="76" HPOS="45">
+<!--          <TextLine ID="tl_1" BASELINE="145" HEIGHT="69" WIDTH="51" VPOS="76" HPOS="45">
             <String HEIGHT="69" WIDTH="0" VPOS="76" HPOS="96" CONTENT="" ID="tl_1_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          </TextLine>-->
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="40" WIDTH="216" VPOS="211" HPOS="665">
           <TextLine ID="tl_2" BASELINE="271" HEIGHT="68" WIDTH="233" VPOS="203" HPOS="657">
