@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2361" WIDTH="1066" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="187" VPOS="60" HPOS="868">
-          <TextLine ID="tl_1" BASELINE="120" HEIGHT="69" WIDTH="199" VPOS="51" HPOS="862">
-            <String HEIGHT="69" WIDTH="232" VPOS="51" HPOS="829" CONTENT="JAPON" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="35" WIDTH="87" VPOS="213" HPOS="491">
-          <TextLine ID="tl_2" BASELINE="259" HEIGHT="57" WIDTH="97" VPOS="202" HPOS="485">
-            <String HEIGHT="57" WIDTH="146" VPOS="202" HPOS="437" CONTENT="FILM" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="52" WIDTH="506" VPOS="277" HPOS="152">
           <TextLine ID="tl_3" BASELINE="335" HEIGHT="69" WIDTH="517" VPOS="266" HPOS="146">
@@ -232,9 +228,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="28" WIDTH="31" VPOS="2272" HPOS="1018">
-          <TextLine ID="tl_13" BASELINE="2314" HEIGHT="52" WIDTH="41" VPOS="2262" HPOS="1013">
-            <String HEIGHT="52" WIDTH="82" VPOS="2262" HPOS="972" CONTENT="87" ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="20" WIDTH="341" VPOS="0" HPOS="723"/>
         <GraphicalElement ID="r_6" HEIGHT="12" WIDTH="1066" VPOS="2349" HPOS="0"/>

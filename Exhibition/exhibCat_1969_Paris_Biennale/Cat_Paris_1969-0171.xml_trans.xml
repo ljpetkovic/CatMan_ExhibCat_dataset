@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1061" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="50" WIDTH="386" VPOS="81" HPOS="43">
-          <TextLine ID="tl_1" BASELINE="138" HEIGHT="56" WIDTH="396" VPOS="82" HPOS="38">
-            <String HEIGHT="56" WIDTH="443" VPOS="82" HPOS="-9" CONTENT="SPECTACLES" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="106" WIDTH="880" VPOS="1487" HPOS="99">
           <TextLine ID="tl_2" BASELINE="1529" HEIGHT="46" WIDTH="888" VPOS="1483" HPOS="96">
@@ -369,9 +367,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="28" WIDTH="46" VPOS="2280" HPOS="90">
-          <TextLine ID="tl_23" BASELINE="2315" HEIGHT="44" WIDTH="56" VPOS="2271" HPOS="85">
-            <String HEIGHT="44" WIDTH="93" VPOS="2271" HPOS="48" CONTENT="170" ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="24" WIDTH="1061" VPOS="2337" HPOS="0"/>
         <GraphicalElement ID="r_5" HEIGHT="1365" WIDTH="7" VPOS="988" HPOS="0"/>

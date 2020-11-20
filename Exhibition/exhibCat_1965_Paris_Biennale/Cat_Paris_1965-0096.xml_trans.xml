@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2320" WIDTH="939" VPOS="53" HPOS="30">
         <TextBlock ID="r_1_1" HEIGHT="44" WIDTH="234" VPOS="58" HPOS="613">
-          <TextLine ID="tl_1" BASELINE="114" HEIGHT="65" WIDTH="245" VPOS="49" HPOS="607">
-            <String HEIGHT="65" WIDTH="278" VPOS="49" HPOS="574" CONTENT="PARAGUAY" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="162" WIDTH="810" VPOS="186" HPOS="53">
           <TextLine ID="tl_2" BASELINE="278" HEIGHT="89" WIDTH="817" VPOS="189" HPOS="46">
@@ -289,9 +287,7 @@
             <SP HEIGHT="75" WIDTH="15" VPOS="1003" HPOS="876"/>
             <String HEIGHT="75" WIDTH="91" VPOS="1003" HPOS="815" CONTENT="(Pa" ID="tl_16_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_17" BASELINE="1111" HEIGHT="42" WIDTH="109" VPOS="1069" HPOS="103">
-            <String HEIGHT="42" WIDTH="136" VPOS="1069" HPOS="76" CONTENT="raguay)." ID="tl_17_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="88" WIDTH="699" VPOS="1070" HPOS="81">
           <TextLine ID="tl_18" BASELINE="1135" HEIGHT="57" WIDTH="709" VPOS="1078" HPOS="76">
@@ -380,9 +376,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="23" WIDTH="30" VPOS="2246" HPOS="933">
-          <TextLine ID="tl_22" BASELINE="2281" HEIGHT="45" WIDTH="39" VPOS="2236" HPOS="928">
-            <String HEIGHT="45" WIDTH="78" VPOS="2236" HPOS="889" CONTENT="95" ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="7" WIDTH="140" VPOS="2366" HPOS="558"/>
       </PrintSpace>

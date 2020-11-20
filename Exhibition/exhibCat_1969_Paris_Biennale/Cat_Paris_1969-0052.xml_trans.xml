@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2285" WIDTH="922" VPOS="45" HPOS="67">
         <TextBlock ID="r_1_1" HEIGHT="61" WIDTH="312" VPOS="52" HPOS="666">
-          <TextLine ID="tl_1" BASELINE="131" HEIGHT="86" WIDTH="322" VPOS="45" HPOS="660">
-            <String HEIGHT="86" WIDTH="365" VPOS="45" HPOS="617" CONTENT="EQUATEUR" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="85" WIDTH="762" VPOS="443" HPOS="159">
           <TextLine ID="tl_2" BASELINE="533" HEIGHT="93" WIDTH="772" VPOS="440" HPOS="153">
@@ -538,9 +536,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="30" WIDTH="30" VPOS="2294" HPOS="953">
-          <TextLine ID="tl_36" BASELINE="2333" HEIGHT="49" WIDTH="38" VPOS="2284" HPOS="949">
-            <String HEIGHT="49" WIDTH="76" VPOS="2284" HPOS="911" CONTENT="51" ID="tl_36_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2248" WIDTH="1086" VPOS="125" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="173" VPOS="130" HPOS="84">
-          <TextLine ID="tl_1" BASELINE="181" HEIGHT="58" WIDTH="184" VPOS="123" HPOS="78">
-            <String HEIGHT="58" WIDTH="212" VPOS="123" HPOS="50" CONTENT="ITALIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="83" WIDTH="734" VPOS="628" HPOS="207">
           <TextLine ID="tl_2" BASELINE="674" HEIGHT="67" WIDTH="699" VPOS="607" HPOS="204">
@@ -327,9 +325,7 @@
             <SP HEIGHT="42" WIDTH="17" VPOS="1397" HPOS="959"/>
             <String HEIGHT="42" WIDTH="66" VPOS="1397" HPOS="893" CONTENT="de" ID="tl_18_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_19" BASELINE="1482" HEIGHT="48" WIDTH="158" VPOS="1434" HPOS="102">
-            <String HEIGHT="48" WIDTH="198" VPOS="1434" HPOS="63" CONTENT="menaces." ID="tl_19_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="227" WIDTH="850" VPOS="1488" HPOS="105">
           <TextLine ID="tl_20" BASELINE="1528" HEIGHT="49" WIDTH="815" VPOS="1479" HPOS="145">
@@ -687,9 +683,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="22" WIDTH="25" VPOS="2290" HPOS="118">
-          <TextLine ID="tl_40" BASELINE="2324" HEIGHT="41" WIDTH="36" VPOS="2283" HPOS="113">
-            <String HEIGHT="41" WIDTH="72" VPOS="2283" HPOS="77" CONTENT="76" ID="tl_40_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="2" WIDTH="1001" VPOS="2371" HPOS="85"/>
         <GraphicalElement ID="r_6" HEIGHT="1982" WIDTH="4" VPOS="239" HPOS="0"/>

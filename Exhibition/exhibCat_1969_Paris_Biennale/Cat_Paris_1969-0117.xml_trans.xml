@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2320" WIDTH="971" VPOS="40" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="153" VPOS="113" HPOS="65">
-          <TextLine ID="tl_1" BASELINE="171" HEIGHT="67" WIDTH="162" VPOS="104" HPOS="61">
-            <String HEIGHT="67" WIDTH="189" VPOS="104" HPOS="34" CONTENT="SUEDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="36" WIDTH="300" VPOS="243" HPOS="400">
-          <TextLine ID="tl_2" BASELINE="295" HEIGHT="63" WIDTH="310" VPOS="232" HPOS="395">
-            <String HEIGHT="63" WIDTH="366" VPOS="232" HPOS="339" CONTENT="PHOTOGRAPHE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="51" WIDTH="820" VPOS="319" HPOS="139">
           <TextLine ID="tl_3" BASELINE="376" HEIGHT="65" WIDTH="829" VPOS="311" HPOS="135">
@@ -221,9 +217,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="36" WIDTH="206" VPOS="811" HPOS="139">
-          <TextLine ID="tl_13" BASELINE="850" HEIGHT="47" WIDTH="216" VPOS="803" HPOS="134">
-            <String HEIGHT="47" WIDTH="252" VPOS="803" HPOS="98" CONTENT="Responsable:" ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="108" WIDTH="823" VPOS="852" HPOS="136">
           <TextLine ID="tl_14" BASELINE="906" HEIGHT="61" WIDTH="771" VPOS="845" HPOS="133">
@@ -262,9 +256,7 @@
             <SP HEIGHT="60" WIDTH="14" VPOS="882" HPOS="863"/>
             <String HEIGHT="60" WIDTH="158" VPOS="882" HPOS="805" CONTENT="(Canada)." ID="tl_15_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_16" BASELINE="969" HEIGHT="45" WIDTH="348" VPOS="924" HPOS="132">
-            <String HEIGHT="45" WIDTH="380" VPOS="924" HPOS="100" CONTENT="Dessinateur" ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="66" WIDTH="784" VPOS="969" HPOS="137">
           <TextLine ID="tl_17" BASELINE="1014" HEIGHT="49" WIDTH="794" VPOS="965" HPOS="132">
@@ -284,9 +276,7 @@
             <SP HEIGHT="49" WIDTH="15" VPOS="965" HPOS="836"/>
             <String HEIGHT="49" WIDTH="150" VPOS="965" HPOS="776" CONTENT="(Suède)." ID="tl_17_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_18" BASELINE="1043" HEIGHT="42" WIDTH="348" VPOS="1001" HPOS="132">
-            <String HEIGHT="42" WIDTH="380" VPOS="1001" HPOS="100" CONTENT="Dessinateur" ID="tl_18_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="64" WIDTH="826" VPOS="1044" HPOS="134">
           <TextLine ID="tl_19" BASELINE="1091" HEIGHT="52" WIDTH="831" VPOS="1039" HPOS="133">
@@ -308,9 +298,7 @@
             <SP HEIGHT="52" WIDTH="15" VPOS="1039" HPOS="877"/>
             <String HEIGHT="52" WIDTH="146" VPOS="1039" HPOS="818" CONTENT="Dessina" ID="tl_19_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_20" BASELINE="1114" HEIGHT="39" WIDTH="231" VPOS="1075" HPOS="130">
-            <String HEIGHT="39" WIDTH="262" VPOS="1075" HPOS="99" CONTENT="teur" ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_7" HEIGHT="63" WIDTH="826" VPOS="1118" HPOS="133">
           <TextLine ID="tl_21" BASELINE="1163" HEIGHT="65" WIDTH="833" VPOS="1098" HPOS="131">
@@ -332,14 +320,10 @@
             <SP HEIGHT="65" WIDTH="14" VPOS="1098" HPOS="907"/>
             <String HEIGHT="65" WIDTH="115" VPOS="1098" HPOS="849" CONTENT="Rédac" ID="tl_21_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1195" HEIGHT="46" WIDTH="77" VPOS="1149" HPOS="129">
-            <String HEIGHT="46" WIDTH="108" VPOS="1149" HPOS="98" CONTENT="teur." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="32" WIDTH="90" VPOS="1242" HPOS="494">
-          <TextLine ID="tl_23" BASELINE="1286" HEIGHT="52" WIDTH="100" VPOS="1234" HPOS="489">
-            <String HEIGHT="52" WIDTH="150" VPOS="1234" HPOS="439" CONTENT="FILM" ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="49" WIDTH="826" VPOS="1312" HPOS="135">
           <TextLine ID="tl_24" BASELINE="1356" HEIGHT="44" WIDTH="835" VPOS="1312" HPOS="130">
@@ -380,14 +364,10 @@
             <SP HEIGHT="52" WIDTH="14" VPOS="1360" HPOS="845"/>
             <String HEIGHT="52" WIDTH="176" VPOS="1360" HPOS="791" CONTENT="produktion," ID="tl_25_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_26" BASELINE="1448" HEIGHT="49" WIDTH="176" VPOS="1399" HPOS="130">
-            <String HEIGHT="49" WIDTH="211" VPOS="1399" HPOS="95" CONTENT="Stockholm." ID="tl_26_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="28" WIDTH="47" VPOS="2311" HPOS="78">
-          <TextLine ID="tl_27" BASELINE="2346" HEIGHT="44" WIDTH="57" VPOS="2302" HPOS="74">
-            <String HEIGHT="44" WIDTH="95" VPOS="2302" HPOS="36" CONTENT="116" ID="tl_27_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="10" WIDTH="140" VPOS="40" HPOS="693"/>
         <GraphicalElement ID="r_7" HEIGHT="139" WIDTH="3" VPOS="48" HPOS="0"/>

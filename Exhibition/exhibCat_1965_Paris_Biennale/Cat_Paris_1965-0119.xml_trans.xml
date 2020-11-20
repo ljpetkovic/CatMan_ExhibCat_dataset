@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2337" WIDTH="1004" VPOS="36" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="36" WIDTH="275" VPOS="90" HPOS="68">
-          <TextLine ID="tl_1" BASELINE="140" HEIGHT="64" WIDTH="285" VPOS="76" HPOS="63">
-            <String HEIGHT="64" WIDTH="326" VPOS="76" HPOS="22" CONTENT="TURQUIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="138" WIDTH="827" VPOS="211" HPOS="145">
           <TextLine ID="tl_2" BASELINE="279" HEIGHT="73" WIDTH="782" VPOS="206" HPOS="187">
@@ -226,9 +224,7 @@
             <SP HEIGHT="54" WIDTH="16" VPOS="598" HPOS="960"/>
             <String HEIGHT="54" WIDTH="79" VPOS="598" HPOS="897" CONTENT="du" ID="tl_12_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="673" HEIGHT="48" WIDTH="135" VPOS="625" HPOS="135">
-            <String HEIGHT="48" WIDTH="165" VPOS="625" HPOS="105" CONTENT="rabilité." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_4" HEIGHT="157" WIDTH="836" VPOS="682" HPOS="138">
           <TextLine ID="tl_14" BASELINE="742" HEIGHT="76" WIDTH="796" VPOS="666" HPOS="182">
@@ -652,9 +648,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="25" WIDTH="38" VPOS="2271" HPOS="139">
-          <TextLine ID="tl_39" BASELINE="2301" HEIGHT="44" WIDTH="49" VPOS="2257" HPOS="134">
-            <String HEIGHT="44" WIDTH="82" VPOS="2257" HPOS="101" CONTENT="118" ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="3" WIDTH="362" VPOS="2370" HPOS="601"/>
         <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="430" VPOS="2370" HPOS="171"/>

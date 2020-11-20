@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1032" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="320" VPOS="96" HPOS="36">
-          <TextLine ID="tl_1" BASELINE="152" HEIGHT="68" WIDTH="329" VPOS="84" HPOS="31">
-            <String HEIGHT="68" WIDTH="373" VPOS="84" HPOS="-13" CONTENT="ROUMANIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="287" WIDTH="857" VPOS="224" HPOS="105">
           <TextLine ID="tl_2" BASELINE="280" HEIGHT="68" WIDTH="861" VPOS="212" HPOS="104">
@@ -245,9 +243,7 @@
             <SP HEIGHT="55" WIDTH="19" VPOS="779" HPOS="951"/>
             <String HEIGHT="55" WIDTH="94" VPOS="779" HPOS="876" CONTENT="des" ID="tl_15_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_16" BASELINE="870" HEIGHT="49" WIDTH="144" VPOS="821" HPOS="100">
-            <String HEIGHT="49" WIDTH="185" VPOS="821" HPOS="59" CONTENT="années." ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="255" WIDTH="864" VPOS="879" HPOS="104">
           <TextLine ID="tl_17" BASELINE="924" HEIGHT="55" WIDTH="811" VPOS="869" HPOS="159">
@@ -426,9 +422,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="33" WIDTH="193" VPOS="1718" HPOS="458">
-          <TextLine ID="tl_28" BASELINE="1768" HEIGHT="67" WIDTH="202" VPOS="1701" HPOS="453">
-            <String HEIGHT="67" WIDTH="253" VPOS="1701" HPOS="403" CONTENT="PEINTURE" ID="tl_28_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="74" WIDTH="825" VPOS="1781" HPOS="151">
           <TextLine ID="tl_29" BASELINE="1825" HEIGHT="50" WIDTH="833" VPOS="1775" HPOS="147">
@@ -448,9 +442,7 @@
             <SP HEIGHT="50" WIDTH="15" VPOS="1775" HPOS="872"/>
             <String HEIGHT="50" WIDTH="170" VPOS="1775" HPOS="810" CONTENT="Humorului" ID="tl_29_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_30" BASELINE="1865" HEIGHT="47" WIDTH="184" VPOS="1818" HPOS="147">
-            <String HEIGHT="47" WIDTH="217" VPOS="1818" HPOS="114" CONTENT="(Roumanie)." ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="40" WIDTH="694" VPOS="1863" HPOS="119">
           <TextLine ID="tl_31" BASELINE="1900" HEIGHT="48" WIDTH="704" VPOS="1852" HPOS="114">
@@ -526,9 +518,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="34" WIDTH="230" VPOS="2036" HPOS="436">
-          <TextLine ID="tl_34" BASELINE="2086" HEIGHT="64" WIDTH="239" VPOS="2022" HPOS="432">
-            <String HEIGHT="64" WIDTH="292" VPOS="2022" HPOS="379" CONTENT="SCULPTURE" ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_2" HEIGHT="44" WIDTH="767" VPOS="2101" HPOS="147">
           <TextLine ID="tl_35" BASELINE="2146" HEIGHT="58" WIDTH="775" VPOS="2088" HPOS="143">
@@ -613,9 +603,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="28" WIDTH="46" VPOS="2298" HPOS="99">
-          <TextLine ID="tl_39" BASELINE="2334" HEIGHT="43" WIDTH="56" VPOS="2291" HPOS="94">
-            <String HEIGHT="43" WIDTH="93" VPOS="2291" HPOS="57" CONTENT="112" ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="2" WIDTH="90" VPOS="2359" HPOS="835"/>
         <GraphicalElement ID="r_8" HEIGHT="2" WIDTH="84" VPOS="2359" HPOS="524"/>

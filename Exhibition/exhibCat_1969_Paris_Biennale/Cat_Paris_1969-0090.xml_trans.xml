@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2291" WIDTH="931" VPOS="70" HPOS="135">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="324" VPOS="76" HPOS="660">
-          <TextLine ID="tl_1" BASELINE="145" HEIGHT="82" WIDTH="334" VPOS="63" HPOS="655">
-            <String HEIGHT="82" WIDTH="373" VPOS="63" HPOS="616" CONTENT="LUXEMBOURG" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="61" WIDTH="710" VPOS="455" HPOS="215">
           <TextLine ID="tl_2" BASELINE="520" HEIGHT="74" WIDTH="719" VPOS="446" HPOS="210">
@@ -67,9 +65,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="38" WIDTH="181" VPOS="689" HPOS="467">
-          <TextLine ID="tl_5" BASELINE="736" HEIGHT="60" WIDTH="192" VPOS="676" HPOS="461">
-            <String HEIGHT="60" WIDTH="247" VPOS="676" HPOS="406" CONTENT="GRAVURE" ID="tl_5_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="92" WIDTH="841" VPOS="757" HPOS="174">
           <TextLine ID="tl_6" BASELINE="815" HEIGHT="59" WIDTH="850" VPOS="756" HPOS="169">
@@ -89,9 +85,7 @@
             <SP HEIGHT="59" WIDTH="14" VPOS="756" HPOS="948"/>
             <String HEIGHT="59" WIDTH="128" VPOS="756" HPOS="892" CONTENT="(Luxem" ID="tl_6_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="853" HEIGHT="43" WIDTH="105" VPOS="810" HPOS="169">
-            <String HEIGHT="43" WIDTH="135" VPOS="810" HPOS="139" CONTENT="bourg)." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="54" WIDTH="702" VPOS="846" HPOS="147">
           <TextLine ID="tl_8" BASELINE="904" HEIGHT="61" WIDTH="712" VPOS="843" HPOS="141">

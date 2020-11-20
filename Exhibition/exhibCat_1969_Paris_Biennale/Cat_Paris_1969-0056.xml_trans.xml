@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="1175" WIDTH="1031" VPOS="0" HPOS="28">
         <TextBlock ID="r_1_1" HEIGHT="51" WIDTH="240" VPOS="45" HPOS="710">
-          <TextLine ID="tl_1" BASELINE="106" HEIGHT="71" WIDTH="252" VPOS="35" HPOS="703">
-            <String HEIGHT="71" WIDTH="288" VPOS="35" HPOS="667" CONTENT="ESPAGNE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="112" WIDTH="833" VPOS="171" HPOS="95">
           <TextLine ID="tl_2" BASELINE="253" HEIGHT="91" WIDTH="844" VPOS="162" HPOS="89">
@@ -47,9 +45,7 @@
             <SP HEIGHT="91" WIDTH="15" VPOS="162" HPOS="873"/>
             <String HEIGHT="91" WIDTH="121" VPOS="162" HPOS="812" CONTENT="Archi" ID="tl_2_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="293" HEIGHT="43" WIDTH="87" VPOS="250" HPOS="88">
-            <String HEIGHT="43" WIDTH="116" VPOS="250" HPOS="59" CONTENT="tecte." ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="111" WIDTH="874" VPOS="252" HPOS="56">
           <TextLine ID="tl_4" BASELINE="335" HEIGHT="98" WIDTH="883" VPOS="237" HPOS="51">
@@ -69,14 +65,10 @@
             <SP HEIGHT="98" WIDTH="15" VPOS="237" HPOS="874"/>
             <String HEIGHT="98" WIDTH="120" VPOS="237" HPOS="814" CONTENT="cyclo" ID="tl_4_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_5" BASELINE="366" HEIGHT="42" WIDTH="87" VPOS="324" HPOS="91">
-            <String HEIGHT="42" WIDTH="116" VPOS="324" HPOS="62" CONTENT="tone)." ID="tl_5_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="44" WIDTH="190" VPOS="362" HPOS="99">
-          <TextLine ID="tl_6" BASELINE="409" HEIGHT="54" WIDTH="200" VPOS="355" HPOS="92">
-            <String HEIGHT="54" WIDTH="233" VPOS="355" HPOS="59" CONTENT="Responsable:" ID="tl_6_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_4" HEIGHT="109" WIDTH="830" VPOS="369" HPOS="101">
           <TextLine ID="tl_7" BASELINE="446" HEIGHT="86" WIDTH="838" VPOS="360" HPOS="95">
@@ -153,9 +145,7 @@
             <SP HEIGHT="68" WIDTH="16" VPOS="524" HPOS="815"/>
             <String HEIGHT="68" WIDTH="191" VPOS="524" HPOS="751" CONTENT="(Espagne)." ID="tl_11_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_12" BASELINE="631" HEIGHT="48" WIDTH="160" VPOS="583" HPOS="99">
-            <String HEIGHT="48" WIDTH="189" VPOS="583" HPOS="70" CONTENT="Architecte." ID="tl_12_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="104" WIDTH="833" VPOS="594" HPOS="107">
           <TextLine ID="tl_13" BASELINE="671" HEIGHT="81" WIDTH="844" VPOS="590" HPOS="101">
@@ -175,9 +165,7 @@
             <SP HEIGHT="81" WIDTH="16" VPOS="590" HPOS="820"/>
             <String HEIGHT="81" WIDTH="188" VPOS="590" HPOS="757" CONTENT="(Espagne)." ID="tl_13_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_14" BASELINE="708" HEIGHT="48" WIDTH="161" VPOS="660" HPOS="101">
-            <String HEIGHT="48" WIDTH="190" VPOS="660" HPOS="72" CONTENT="Architecte." ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="109" WIDTH="831" VPOS="669" HPOS="110">
           <TextLine ID="tl_15" BASELINE="743" HEIGHT="96" WIDTH="841" VPOS="647" HPOS="105">
@@ -221,9 +209,7 @@
             <SP HEIGHT="71" WIDTH="15" VPOS="745" HPOS="828"/>
             <String HEIGHT="71" WIDTH="184" VPOS="745" HPOS="766" CONTENT="(Espagne)." ID="tl_17_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_18" BASELINE="858" HEIGHT="50" WIDTH="200" VPOS="808" HPOS="107">
-            <String HEIGHT="50" WIDTH="233" VPOS="808" HPOS="74" CONTENT="Programmeur." ID="tl_18_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="59" WIDTH="475" VPOS="872" HPOS="262">
           <TextLine ID="tl_19" BASELINE="940" HEIGHT="71" WIDTH="486" VPOS="869" HPOS="256">

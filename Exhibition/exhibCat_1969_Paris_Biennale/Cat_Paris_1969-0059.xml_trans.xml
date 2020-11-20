@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1061" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="361" VPOS="86" HPOS="43">
-          <TextLine ID="tl_1" BASELINE="135" HEIGHT="63" WIDTH="370" VPOS="72" HPOS="39">
-            <String HEIGHT="63" WIDTH="414" VPOS="72" HPOS="-5" CONTENT="ETATS" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="497" WIDTH="850" VPOS="212" HPOS="109">
           <TextLine ID="tl_2" BASELINE="273" HEIGHT="69" WIDTH="852" VPOS="204" HPOS="107">
@@ -188,9 +186,7 @@
             <SP HEIGHT="55" WIDTH="20" VPOS="635" HPOS="784"/>
             <String HEIGHT="55" WIDTH="259" VPOS="635" HPOS="705" CONTENT="différentes" ID="tl_12_5" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="719" HEIGHT="49" WIDTH="148" VPOS="670" HPOS="105">
-            <String HEIGHT="49" WIDTH="185" VPOS="670" HPOS="68" CONTENT="saisons." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="1388" WIDTH="874" VPOS="746" HPOS="98">
           <TextLine ID="tl_14" BASELINE="796" HEIGHT="61" WIDTH="799" VPOS="735" HPOS="166">
@@ -699,9 +695,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="31" VPOS="2295" HPOS="95">
-          <TextLine ID="tl_49" BASELINE="2332" HEIGHT="46" WIDTH="42" VPOS="2286" HPOS="90">
-            <String HEIGHT="46" WIDTH="84" VPOS="2286" HPOS="48" CONTENT="58" ID="tl_49_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="49" WIDTH="938" VPOS="0" HPOS="1"/>
         <GraphicalElement ID="r_5" HEIGHT="7" WIDTH="196" VPOS="2354" HPOS="865"/>

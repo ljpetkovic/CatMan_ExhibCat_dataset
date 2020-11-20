@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2320" WIDTH="953" VPOS="53" HPOS="60">
         <TextBlock ID="r_1_1" HEIGHT="49" WIDTH="367" VPOS="58" HPOS="564">
-          <TextLine ID="tl_1" BASELINE="111" HEIGHT="66" WIDTH="376" VPOS="45" HPOS="560">
-            <String HEIGHT="66" WIDTH="418" VPOS="45" HPOS="518" CONTENT="VOUGOSLAVIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="342" WIDTH="846" VPOS="162" HPOS="91">
           <TextLine ID="tl_2" BASELINE="244" HEIGHT="88" WIDTH="812" VPOS="156" HPOS="118">
@@ -603,9 +601,7 @@
             <SP HEIGHT="53" WIDTH="15" VPOS="1863" HPOS="877"/>
             <String HEIGHT="53" WIDTH="180" VPOS="1863" HPOS="817" CONTENT="(Vougosla" ID="tl_37_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_38" BASELINE="1949" HEIGHT="39" WIDTH="69" VPOS="1910" HPOS="156">
-            <String HEIGHT="39" WIDTH="97" VPOS="1910" HPOS="128" CONTENT="vie)." ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_7" HEIGHT="75" WIDTH="868" VPOS="1917" HPOS="129">
           <TextLine ID="tl_39" BASELINE="1974" HEIGHT="58" WIDTH="877" VPOS="1916" HPOS="124">
@@ -690,9 +686,7 @@
             <SP HEIGHT="58" WIDTH="15" VPOS="2042" HPOS="912"/>
             <String HEIGHT="58" WIDTH="151" VPOS="2042" HPOS="851" CONTENT="(Vougos" ID="tl_42_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_43" BASELINE="2140" HEIGHT="42" WIDTH="92" VPOS="2098" HPOS="161">
-            <String HEIGHT="42" WIDTH="118" VPOS="2098" HPOS="135" CONTENT="lavie)." ID="tl_43_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_11" HEIGHT="66" WIDTH="539" VPOS="2117" HPOS="134">
           <TextLine ID="tl_44" BASELINE="2171" HEIGHT="58" WIDTH="548" VPOS="2113" HPOS="128">
@@ -756,9 +750,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_14" HEIGHT="25" WIDTH="39" VPOS="2232" HPOS="964">
-          <TextLine ID="tl_47" BASELINE="2259" HEIGHT="48" WIDTH="51" VPOS="2211" HPOS="957">
-            <String HEIGHT="48" WIDTH="85" VPOS="2211" HPOS="923" CONTENT="127" ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="7" WIDTH="160" VPOS="2366" HPOS="182"/>
         <GraphicalElement ID="r_5" HEIGHT="8" WIDTH="219" VPOS="2365" HPOS="342"/>

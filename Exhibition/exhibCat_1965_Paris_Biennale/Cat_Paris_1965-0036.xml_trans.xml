@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1061">
       <PrintSpace HEIGHT="2234" WIDTH="1061" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="323" VPOS="62" HPOS="665">
-          <TextLine ID="tl_1" BASELINE="118" HEIGHT="67" WIDTH="333" VPOS="51" HPOS="660">
-            <String HEIGHT="67" WIDTH="377" VPOS="51" HPOS="616" CONTENT="BULGARIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="82" WIDTH="676" VPOS="251" HPOS="126">
           <TextLine ID="tl_2" BASELINE="299" HEIGHT="68" WIDTH="684" VPOS="231" HPOS="122">
@@ -809,9 +807,7 @@
             <SP HEIGHT="49" WIDTH="17" VPOS="2013" HPOS="894"/>
             <String HEIGHT="49" WIDTH="101" VPOS="2013" HPOS="827" CONTENT="bul" ID="tl_46_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_47" BASELINE="2107" HEIGHT="45" WIDTH="107" VPOS="2062" HPOS="36">
-            <String HEIGHT="45" WIDTH="143" VPOS="2062" HPOS="0" CONTENT="gares." ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_7" HEIGHT="36" WIDTH="288" VPOS="2141" HPOS="636">
           <TextLine ID="tl_48" BASELINE="2185" HEIGHT="54" WIDTH="299" VPOS="2131" HPOS="630">
@@ -821,9 +817,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="29" VPOS="2206" HPOS="897">
-          <TextLine ID="tl_49" BASELINE="2240" HEIGHT="48" WIDTH="40" VPOS="2192" HPOS="891">
-            <String HEIGHT="48" WIDTH="80" VPOS="2192" HPOS="851" CONTENT="35" ID="tl_49_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="37" WIDTH="1060" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="424" WIDTH="4" VPOS="1561" HPOS="1057"/>

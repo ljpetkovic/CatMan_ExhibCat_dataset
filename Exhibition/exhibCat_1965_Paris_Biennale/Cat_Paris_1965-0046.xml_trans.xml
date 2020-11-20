@@ -205,7 +205,7 @@
           <TextLine ID="tl_12" BASELINE="920" HEIGHT="74" WIDTH="869" VPOS="846" HPOS="50">
             <String HEIGHT="74" WIDTH="197" VPOS="846" HPOS="34" CONTENT="talisées" SUBS_TYPE="HypPart2" SUBS_CONTENT="occidentalisées" ID="tl_12_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="74" WIDTH="16" VPOS="846" HPOS="230"/>
-            <String HEIGHT="74" WIDTH="66" VPOS="846" HPOS="181" CONTENT="" ID="tl_12_2" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="74" WIDTH="16" VPOS="846" HPOS="247"/>
             <String HEIGHT="74" WIDTH="148" VPOS="846" HPOS="198" CONTENT="voire" ID="tl_12_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="74" WIDTH="16" VPOS="846" HPOS="345"/>
@@ -680,9 +680,7 @@
             <SP HEIGHT="79" WIDTH="18" VPOS="1861" HPOS="898"/>
             <String HEIGHT="79" WIDTH="143" VPOS="1861" HPOS="827" CONTENT="Soyons" ID="tl_38_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_39" BASELINE="1965" HEIGHT="51" WIDTH="165" VPOS="1914" HPOS="78">
-            <String HEIGHT="51" WIDTH="202" VPOS="1914" HPOS="41" CONTENT="modestes!" ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="293" WIDTH="896" VPOS="1945" HPOS="82">
           <TextLine ID="tl_40" BASELINE="2009" HEIGHT="61" WIDTH="859" VPOS="1948" HPOS="113">
@@ -808,9 +806,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="29" VPOS="2231" HPOS="950">
-          <TextLine ID="tl_47" BASELINE="2258" HEIGHT="36" WIDTH="38" VPOS="2222" HPOS="944">
-            <String HEIGHT="36" WIDTH="76" VPOS="2222" HPOS="906" CONTENT="45" ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="16" WIDTH="267" VPOS="0" HPOS="671"/>
         <GraphicalElement ID="r_6" HEIGHT="9" WIDTH="181" VPOS="2364" HPOS="406"/>

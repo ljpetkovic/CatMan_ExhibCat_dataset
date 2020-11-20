@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2361" WIDTH="1100" VPOS="0" HPOS="1">
         <TextBlock ID="r_1_1" HEIGHT="62" WIDTH="543" VPOS="78" HPOS="498">
-          <TextLine ID="tl_1" BASELINE="147" HEIGHT="82" WIDTH="554" VPOS="65" HPOS="492">
-            <String HEIGHT="82" WIDTH="609" VPOS="65" HPOS="437" CONTENT="TCHECOSLOVAQU" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="134" WIDTH="790" VPOS="466" HPOS="233">
           <TextLine ID="tl_2" BASELINE="527" HEIGHT="71" WIDTH="697" VPOS="456" HPOS="226">
@@ -610,9 +608,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="46" VPOS="2284" HPOS="1020">
-          <TextLine ID="tl_42" BASELINE="2321" HEIGHT="44" WIDTH="58" VPOS="2277" HPOS="1014">
-            <String HEIGHT="44" WIDTH="97" VPOS="2277" HPOS="975" CONTENT="121" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="24" WIDTH="282" VPOS="0" HPOS="799"/>
         <GraphicalElement ID="r_6" HEIGHT="13" WIDTH="450" VPOS="2348" HPOS="1"/>

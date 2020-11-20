@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1061">
       <PrintSpace HEIGHT="2190" WIDTH="1060" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="45" WIDTH="232" VPOS="37" HPOS="795">
-          <TextLine ID="tl_1" BASELINE="99" HEIGHT="68" WIDTH="241" VPOS="31" HPOS="790">
-            <String HEIGHT="68" WIDTH="278" VPOS="31" HPOS="753" CONTENT="BRÉSIL" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="84" WIDTH="798" VPOS="446" HPOS="163">
           <TextLine ID="tl_2" BASELINE="497" HEIGHT="54" WIDTH="806" VPOS="443" HPOS="159">
@@ -45,9 +43,7 @@
             <SP HEIGHT="54" WIDTH="15" VPOS="443" HPOS="843"/>
             <String HEIGHT="54" WIDTH="182" VPOS="443" HPOS="783" CONTENT="Valla" ID="tl_2_7" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="538" HEIGHT="44" WIDTH="99" VPOS="494" HPOS="158">
-            <String HEIGHT="44" WIDTH="116" VPOS="494" HPOS="142" CONTENT="dares" ID="tl_3_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="42" WIDTH="753" VPOS="530" HPOS="166">
           <TextLine ID="tl_4" BASELINE="575" HEIGHT="50" WIDTH="762" VPOS="525" HPOS="161">
@@ -683,7 +679,7 @@
             <SP HEIGHT="52" WIDTH="17" VPOS="2089" HPOS="506"/>
             <String HEIGHT="52" WIDTH="100" VPOS="2089" HPOS="456" CONTENT="de" ID="tl_42_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="52" WIDTH="17" VPOS="2089" HPOS="556"/>
-            <String HEIGHT="52" WIDTH="67" VPOS="2089" HPOS="506" CONTENT="" ID="tl_42_6" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="52" WIDTH="17" VPOS="2089" HPOS="572"/>
             <String HEIGHT="52" WIDTH="200" VPOS="2089" HPOS="522" CONTENT="l’action" ID="tl_42_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="52" WIDTH="17" VPOS="2089" HPOS="722"/>

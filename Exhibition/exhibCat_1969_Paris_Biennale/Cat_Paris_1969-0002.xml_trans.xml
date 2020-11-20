@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2385" WIDTH="1132">
       <PrintSpace HEIGHT="2291" WIDTH="1132" VPOS="94" HPOS="0">
         <TextBlock ID="r_2_1" HEIGHT="59" WIDTH="240" VPOS="1784" HPOS="101">
-          <TextLine ID="tl_1" BASELINE="1861" HEIGHT="96" WIDTH="251" VPOS="1765" HPOS="95">
-            <String HEIGHT="96" WIDTH="290" VPOS="1765" HPOS="56" CONTENT="SIXIEME" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="55" WIDTH="300" VPOS="1888" HPOS="105">
           <TextLine ID="tl_2" BASELINE="1967" HEIGHT="98" WIDTH="310" VPOS="1869" HPOS="100">
@@ -67,7 +65,7 @@
             <SP HEIGHT="56" WIDTH="18" VPOS="2044" HPOS="424"/>
             <String HEIGHT="56" WIDTH="89" VPOS="2044" HPOS="370" CONTENT="2" ID="tl_5_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="56" WIDTH="18" VPOS="2044" HPOS="460"/>
-            <String HEIGHT="56" WIDTH="72" VPOS="2044" HPOS="406" CONTENT="" ID="tl_5_6" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="56" WIDTH="18" VPOS="2044" HPOS="477"/>
             <String HEIGHT="56" WIDTH="215" VPOS="2044" HPOS="424" CONTENT="novembre" ID="tl_5_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="56" WIDTH="18" VPOS="2044" HPOS="638"/>

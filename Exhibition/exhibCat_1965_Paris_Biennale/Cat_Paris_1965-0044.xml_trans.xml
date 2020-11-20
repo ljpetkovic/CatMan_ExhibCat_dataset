@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2303" WIDTH="967" VPOS="70" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="54" WIDTH="267" VPOS="73" HPOS="609">
-          <TextLine ID="tl_1" BASELINE="139" HEIGHT="75" WIDTH="277" VPOS="64" HPOS="603">
-            <String HEIGHT="75" WIDTH="314" VPOS="64" HPOS="566" CONTENT="COLOMBIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="89" WIDTH="871" VPOS="386" HPOS="0">
           <TextLine ID="tl_4" BASELINE="476" HEIGHT="93" WIDTH="882" VPOS="383" HPOS="-7">
@@ -71,9 +69,7 @@
             <SP HEIGHT="100" WIDTH="19" VPOS="676" HPOS="840"/>
             <String HEIGHT="100" WIDTH="132" VPOS="676" HPOS="764" CONTENT="Honda" ID="tl_8_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_9" BASELINE="810" HEIGHT="58" WIDTH="274" VPOS="752" HPOS="-7">
-            <String HEIGHT="58" WIDTH="324" VPOS="752" HPOS="-57" CONTENT="(Colombie)." ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="81" WIDTH="785" VPOS="761" HPOS="7">
           <TextLine ID="tl_10" BASELINE="838" HEIGHT="80" WIDTH="796" VPOS="758" HPOS="1">
@@ -192,9 +188,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="24" WIDTH="30" VPOS="2272" HPOS="932">
-          <TextLine ID="tl_16" BASELINE="2311" HEIGHT="56" WIDTH="42" VPOS="2255" HPOS="926">
-            <String HEIGHT="56" WIDTH="84" VPOS="2255" HPOS="884" CONTENT="43" ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="4" WIDTH="107" VPOS="2369" HPOS="157"/>
       </PrintSpace>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2361" WIDTH="1009" VPOS="0" HPOS="57">
         <TextBlock ID="r_1_1" HEIGHT="68" WIDTH="552" VPOS="61" HPOS="418">
-          <TextLine ID="tl_1" BASELINE="136" HEIGHT="85" WIDTH="563" VPOS="51" HPOS="412">
-            <String HEIGHT="85" WIDTH="614" VPOS="51" HPOS="361" CONTENT="GRANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="911" WIDTH="900" VPOS="190" HPOS="73">
           <TextLine ID="tl_2" BASELINE="278" HEIGHT="94" WIDTH="880" VPOS="184" HPOS="68">
@@ -341,9 +339,7 @@
             <SP HEIGHT="76" WIDTH="18" VPOS="985" HPOS="977"/>
             <String HEIGHT="76" WIDTH="72" VPOS="985" HPOS="905" CONTENT="la" ID="tl_21_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1108" HEIGHT="58" WIDTH="229" VPOS="1050" HPOS="94">
-            <String HEIGHT="58" WIDTH="264" VPOS="1050" HPOS="59" CONTENT="manipulation." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="734" WIDTH="899" VPOS="1078" HPOS="100">
           <TextLine ID="tl_23" BASELINE="1146" HEIGHT="67" WIDTH="833" VPOS="1079" HPOS="146">
@@ -632,9 +628,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="32" VPOS="2279" HPOS="987">
-          <TextLine ID="tl_41" BASELINE="2314" HEIGHT="49" WIDTH="41" VPOS="2265" HPOS="982">
-            <String HEIGHT="49" WIDTH="82" VPOS="2265" HPOS="941" CONTENT="63" ID="tl_41_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="26" WIDTH="328" VPOS="0" HPOS="499"/>
         <GraphicalElement ID="r_6" HEIGHT="6" WIDTH="153" VPOS="2355" HPOS="57"/>

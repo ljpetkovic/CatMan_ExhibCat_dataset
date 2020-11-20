@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2288" WIDTH="1085" VPOS="85" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="36" WIDTH="51" VPOS="99" HPOS="106">
-          <TextLine ID="tl_1" BASELINE="149" HEIGHT="63" WIDTH="59" VPOS="86" HPOS="102">
-            <String HEIGHT="63" WIDTH="67" VPOS="86" HPOS="94" CONTENT="IRLANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="87" WIDTH="606" VPOS="611" HPOS="234">
           <TextLine ID="tl_4" BASELINE="663" HEIGHT="52" WIDTH="615" VPOS="611" HPOS="230">
@@ -707,14 +705,10 @@
             <SP HEIGHT="80" WIDTH="17" VPOS="2156" HPOS="920"/>
             <String HEIGHT="80" WIDTH="117" VPOS="2156" HPOS="853" CONTENT="domi" ID="tl_41_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_42" BASELINE="2237" HEIGHT="46" WIDTH="103" VPOS="2191" HPOS="125">
-            <String HEIGHT="46" WIDTH="137" VPOS="2191" HPOS="91" CONTENT="nante." ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="23" WIDTH="25" VPOS="2260" HPOS="131">
-          <TextLine ID="tl_43" BASELINE="2297" HEIGHT="48" WIDTH="38" VPOS="2249" HPOS="125">
-            <String HEIGHT="48" WIDTH="76" VPOS="2249" HPOS="87" CONTENT="70" ID="tl_43_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="452" VPOS="2369" HPOS="633"/>
         <GraphicalElement ID="r_8" HEIGHT="3" WIDTH="492" VPOS="2370" HPOS="141"/>

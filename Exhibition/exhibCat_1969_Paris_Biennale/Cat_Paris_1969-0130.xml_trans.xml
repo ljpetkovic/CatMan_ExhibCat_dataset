@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2311" WIDTH="1043" VPOS="50" HPOS="27">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="247" VPOS="101" HPOS="817">
-          <TextLine ID="tl_1" BASELINE="153" HEIGHT="71" WIDTH="256" VPOS="82" HPOS="812">
-            <String HEIGHT="71" WIDTH="293" VPOS="82" HPOS="775" CONTENT="URUGUAY" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="40" WIDTH="402" VPOS="232" HPOS="379">
           <TextLine ID="tl_2" BASELINE="286" HEIGHT="72" WIDTH="410" VPOS="214" HPOS="374">
@@ -44,7 +42,7 @@
             <SP HEIGHT="52" WIDTH="12" VPOS="312" HPOS="317"/>
             <String HEIGHT="52" WIDTH="58" VPOS="312" HPOS="282" CONTENT="5" ID="tl_3_3" STYLEREFS="FONT1"/>
             <SP HEIGHT="52" WIDTH="12" VPOS="312" HPOS="340"/>
-            <String HEIGHT="52" WIDTH="104" VPOS="312" HPOS="305" CONTENT="" ID="tl_3_4" STYLEREFS="FONT1"/>
+            
             <SP HEIGHT="52" WIDTH="12" VPOS="312" HPOS="409"/>
             <String HEIGHT="52" WIDTH="81" VPOS="312" HPOS="363" CONTENT="1969." ID="tl_3_5" STYLEREFS="FONT0"/>
           </TextLine>
@@ -59,9 +57,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_4" HEIGHT="35" WIDTH="197" VPOS="422" HPOS="189">
-          <TextLine ID="tl_5" BASELINE="463" HEIGHT="47" WIDTH="205" VPOS="416" HPOS="185">
-            <String HEIGHT="47" WIDTH="239" VPOS="416" HPOS="151" CONTENT="Responsable:" ID="tl_5_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_5" HEIGHT="79" WIDTH="846" VPOS="452" HPOS="187">
           <TextLine ID="tl_6" BASELINE="499" HEIGHT="56" WIDTH="855" VPOS="443" HPOS="183">
@@ -106,9 +102,7 @@
             <SP HEIGHT="59" WIDTH="16" VPOS="511" HPOS="914"/>
             <String HEIGHT="59" WIDTH="186" VPOS="511" HPOS="852" CONTENT="(Uruguay)." ID="tl_8_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_9" BASELINE="610" HEIGHT="43" WIDTH="159" VPOS="567" HPOS="184">
-            <String HEIGHT="43" WIDTH="188" VPOS="567" HPOS="155" CONTENT="Plasticien." ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="76" WIDTH="847" VPOS="603" HPOS="188">
           <TextLine ID="tl_10" BASELINE="643" HEIGHT="50" WIDTH="856" VPOS="593" HPOS="184">
@@ -153,9 +147,7 @@
             <SP HEIGHT="51" WIDTH="16" VPOS="673" HPOS="915"/>
             <String HEIGHT="51" WIDTH="186" VPOS="673" HPOS="853" CONTENT="(Uruguay)." ID="tl_12_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="759" HEIGHT="43" WIDTH="157" VPOS="716" HPOS="187">
-            <String HEIGHT="43" WIDTH="186" VPOS="716" HPOS="158" CONTENT="Plasticien." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="70" WIDTH="847" VPOS="752" HPOS="190">
           <TextLine ID="tl_14" BASELINE="793" HEIGHT="43" WIDTH="854" VPOS="750" HPOS="188">
@@ -175,9 +167,7 @@
             <SP HEIGHT="43" WIDTH="15" VPOS="750" HPOS="920"/>
             <String HEIGHT="43" WIDTH="183" VPOS="750" HPOS="859" CONTENT="(Uruguay)." ID="tl_14_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_15" BASELINE="835" HEIGHT="47" WIDTH="160" VPOS="788" HPOS="185">
-            <String HEIGHT="47" WIDTH="189" VPOS="788" HPOS="156" CONTENT="Plasticien." ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_3" HEIGHT="15" WIDTH="316" VPOS="50" HPOS="203"/>
         <GraphicalElement ID="r_4" HEIGHT="6" WIDTH="161" VPOS="2355" HPOS="27"/>

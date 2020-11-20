@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2302" WIDTH="978" VPOS="71" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="203" VPOS="76" HPOS="62">
-          <TextLine ID="tl_1" BASELINE="132" HEIGHT="62" WIDTH="212" VPOS="70" HPOS="57">
-            <String HEIGHT="62" WIDTH="247" VPOS="70" HPOS="22" CONTENT="SUEDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="85" WIDTH="681" VPOS="396" HPOS="224">
           <TextLine ID="tl_2" BASELINE="463" HEIGHT="79" WIDTH="689" VPOS="384" HPOS="221">
@@ -519,9 +517,7 @@
             <SP HEIGHT="57" WIDTH="18" VPOS="1559" HPOS="842"/>
             <String HEIGHT="57" WIDTH="193" VPOS="1559" HPOS="772" CONTENT="dernières" ID="tl_30_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_31" BASELINE="1640" HEIGHT="47" WIDTH="138" VPOS="1593" HPOS="103">
-            <String HEIGHT="47" WIDTH="177" VPOS="1593" HPOS="64" CONTENT="années." ID="tl_31_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_2" HEIGHT="311" WIDTH="856" VPOS="1644" HPOS="105">
           <TextLine ID="tl_32" BASELINE="1693" HEIGHT="54" WIDTH="816" VPOS="1639" HPOS="150">

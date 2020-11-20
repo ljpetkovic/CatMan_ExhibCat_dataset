@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2270" WIDTH="1056" VPOS="91" HPOS="45">
         <TextBlock ID="region_1594044876020_1799" HEIGHT="55" WIDTH="323" VPOS="86" HPOS="768">
-          <TextLine ID="line_1594044876214_1802" BASELINE="141" HEIGHT="55" WIDTH="323" VPOS="86" HPOS="768">
-            <String HEIGHT="55" WIDTH="366" VPOS="86" HPOS="725" CONTENT="ROUMANIE" ID="line_1594044876214_1802_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_1_1" HEIGHT="54" WIDTH="794" VPOS="475" HPOS="230">
           <TextLine ID="tl_1" BASELINE="532" HEIGHT="65" WIDTH="805" VPOS="467" HPOS="224">
@@ -564,9 +562,7 @@
             <SP HEIGHT="44" WIDTH="20" VPOS="1952" HPOS="1053"/>
             <String HEIGHT="44" WIDTH="82" VPOS="1952" HPOS="971" CONTENT="la" ID="tl_34_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_35" BASELINE="2046" HEIGHT="57" WIDTH="87" VPOS="1989" HPOS="153">
-            <String HEIGHT="57" WIDTH="122" VPOS="1989" HPOS="118" CONTENT="paix." ID="tl_35_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="177" WIDTH="892" VPOS="2067" HPOS="162">
           <TextLine ID="tl_36" BASELINE="2112" HEIGHT="56" WIDTH="847" VPOS="2056" HPOS="209">

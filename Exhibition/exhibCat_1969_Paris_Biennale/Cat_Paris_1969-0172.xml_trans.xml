@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2361" WIDTH="1101" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="56" WIDTH="382" VPOS="72" HPOS="707">
-          <TextLine ID="tl_1" BASELINE="137" HEIGHT="78" WIDTH="391" VPOS="59" HPOS="701">
-            <String HEIGHT="78" WIDTH="437" VPOS="59" HPOS="655" CONTENT="SPECTACLES" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="57" WIDTH="693" VPOS="460" HPOS="142">
           <TextLine ID="tl_2" BASELINE="527" HEIGHT="80" WIDTH="702" VPOS="447" HPOS="138">
@@ -155,9 +153,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="77" WIDTH="275" VPOS="972" HPOS="155">
-          <TextLine ID="tl_11" BASELINE="1014" HEIGHT="47" WIDTH="166" VPOS="967" HPOS="149">
-            <String HEIGHT="47" WIDTH="187" VPOS="967" HPOS="128" CONTENT="Symphonia" ID="tl_11_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
           <TextLine ID="tl_12" BASELINE="1054" HEIGHT="51" WIDTH="284" VPOS="1003" HPOS="151">
             <String HEIGHT="51" WIDTH="154" VPOS="1003" HPOS="139" CONTENT="Vision" ID="tl_12_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="51" WIDTH="12" VPOS="1003" HPOS="293"/>
@@ -466,9 +462,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="28" WIDTH="47" VPOS="2268" HPOS="1031">
-          <TextLine ID="tl_34" BASELINE="2306" HEIGHT="54" WIDTH="57" VPOS="2252" HPOS="1027">
-            <String HEIGHT="54" WIDTH="95" VPOS="2252" HPOS="989" CONTENT="171" ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="20" WIDTH="308" VPOS="0" HPOS="776"/>
         <GraphicalElement ID="r_8" HEIGHT="29" WIDTH="1100" VPOS="2332" HPOS="0"/>

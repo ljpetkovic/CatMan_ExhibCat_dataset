@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2294" WIDTH="978" VPOS="79" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="45" WIDTH="296" VPOS="84" HPOS="677">
-          <TextLine ID="tl_1" BASELINE="140" HEIGHT="65" WIDTH="307" VPOS="75" HPOS="671">
-            <String HEIGHT="65" WIDTH="354" VPOS="75" HPOS="624" CONTENT="ESPAGNE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="97" WIDTH="622" VPOS="399" HPOS="127">
           <TextLine ID="tl_2" BASELINE="457" HEIGHT="64" WIDTH="629" VPOS="393" HPOS="124">
@@ -41,9 +39,7 @@
             <SP HEIGHT="64" WIDTH="17" VPOS="393" HPOS="651"/>
             <String HEIGHT="64" WIDTH="170" VPOS="393" HPOS="583" CONTENT="Carvajal" ID="tl_2_5" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="503" HEIGHT="45" WIDTH="153" VPOS="458" HPOS="121">
-            <String HEIGHT="45" WIDTH="181" VPOS="458" HPOS="93" CONTENT="Architecte." ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="394" WIDTH="873" VPOS="588" HPOS="46">
           <TextLine ID="tl_4" BASELINE="644" HEIGHT="61" WIDTH="838" VPOS="583" HPOS="79">
@@ -202,9 +198,7 @@
             <SP HEIGHT="59" WIDTH="19" VPOS="891" HPOS="791"/>
             <String HEIGHT="59" WIDTH="205" VPOS="891" HPOS="717" CONTENT="renouvel" ID="tl_12_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="996" HEIGHT="52" WIDTH="116" VPOS="944" HPOS="43">
-            <String HEIGHT="52" WIDTH="149" VPOS="944" HPOS="10" CONTENT="lement." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="318" WIDTH="877" VPOS="983" HPOS="49">
           <TextLine ID="tl_14" BASELINE="1034" HEIGHT="47" WIDTH="843" VPOS="987" HPOS="83">
@@ -490,7 +484,7 @@
             <SP HEIGHT="40" WIDTH="17" VPOS="1620" HPOS="695"/>
             <String HEIGHT="40" WIDTH="105" VPOS="1620" HPOS="643" CONTENT="du" ID="tl_30_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="40" WIDTH="17" VPOS="1620" HPOS="748"/>
-            <String HEIGHT="40" WIDTH="70" VPOS="1620" HPOS="695" CONTENT="" ID="tl_30_7" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="40" WIDTH="17" VPOS="1620" HPOS="765"/>
             <String HEIGHT="40" WIDTH="175" VPOS="1620" HPOS="713" CONTENT="Centre" ID="tl_30_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="40" WIDTH="17" VPOS="1620" HPOS="888"/>
@@ -510,7 +504,7 @@
             <SP HEIGHT="54" WIDTH="16" VPOS="1647" HPOS="640"/>
             <String HEIGHT="54" WIDTH="175" VPOS="1647" HPOS="593" CONTENT="Théâtre" ID="tl_31_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="16" VPOS="1647" HPOS="768"/>
-            <String HEIGHT="54" WIDTH="64" VPOS="1647" HPOS="720" CONTENT="" ID="tl_31_7" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="54" WIDTH="16" VPOS="1647" HPOS="784"/>
             <String HEIGHT="54" WIDTH="112" VPOS="1647" HPOS="736" CONTENT="qui" ID="tl_31_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="16" VPOS="1647" HPOS="847"/>
@@ -646,9 +640,7 @@
             <SP HEIGHT="48" WIDTH="20" VPOS="1965" HPOS="950"/>
             <String HEIGHT="48" WIDTH="78" VPOS="1965" HPOS="872" CONTENT="et" ID="tl_39_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_40" BASELINE="2055" HEIGHT="51" WIDTH="183" VPOS="2004" HPOS="55">
-            <String HEIGHT="51" WIDTH="216" VPOS="2004" HPOS="22" CONTENT="consciente." ID="tl_40_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="41" WIDTH="268" VPOS="2095" HPOS="677">
           <TextLine ID="tl_41" BASELINE="2139" HEIGHT="52" WIDTH="278" VPOS="2087" HPOS="672">
@@ -658,9 +650,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="26" VPOS="2276" HPOS="920">
-          <TextLine ID="tl_42" BASELINE="2305" HEIGHT="36" WIDTH="34" VPOS="2269" HPOS="916">
-            <String HEIGHT="36" WIDTH="68" VPOS="2269" HPOS="882" CONTENT="51" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="5" WIDTH="378" VPOS="2368" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="5" WIDTH="480" VPOS="2368" HPOS="378"/>

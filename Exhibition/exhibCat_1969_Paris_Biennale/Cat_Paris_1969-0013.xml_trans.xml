@@ -384,9 +384,7 @@
             <SP HEIGHT="50" WIDTH="19" VPOS="1181" HPOS="886"/>
             <String HEIGHT="50" WIDTH="112" VPOS="1181" HPOS="811" CONTENT="bien" ID="tl_23_5" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_24" BASELINE="1283" HEIGHT="51" WIDTH="181" VPOS="1232" HPOS="69">
-            <String HEIGHT="51" WIDTH="214" VPOS="1232" HPOS="36" CONTENT="meilleures." ID="tl_24_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_1_4" HEIGHT="553" WIDTH="855" VPOS="1284" HPOS="74">
           <TextLine ID="tl_25" BASELINE="1332" HEIGHT="59" WIDTH="805" VPOS="1273" HPOS="119">
@@ -754,9 +752,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="28" VPOS="2308" HPOS="83">
-          <TextLine ID="tl_48" BASELINE="2354" HEIGHT="56" WIDTH="39" VPOS="2298" HPOS="78">
-            <String HEIGHT="56" WIDTH="78" VPOS="2298" HPOS="39" CONTENT="12" ID="tl_48_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_3" HEIGHT="14" WIDTH="246" VPOS="2371" HPOS="1"/>
         <GraphicalElement ID="r_4" HEIGHT="1118" WIDTH="4" VPOS="1266" HPOS="0"/>

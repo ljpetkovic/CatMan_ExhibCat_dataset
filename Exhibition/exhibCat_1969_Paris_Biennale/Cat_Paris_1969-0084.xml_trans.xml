@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2243" WIDTH="941" VPOS="82" HPOS="80">
         <TextBlock ID="r_1_1" HEIGHT="43" WIDTH="130" VPOS="86" HPOS="847">
-          <TextLine ID="tl_1" BASELINE="144" HEIGHT="67" WIDTH="139" VPOS="77" HPOS="842">
-            <String HEIGHT="67" WIDTH="160" VPOS="77" HPOS="821" CONTENT="ITALIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="37" WIDTH="114" VPOS="225" HPOS="463">
-          <TextLine ID="tl_2" BASELINE="273" HEIGHT="63" WIDTH="124" VPOS="210" HPOS="458">
-            <String HEIGHT="63" WIDTH="174" VPOS="210" HPOS="408" CONTENT="FILMS" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="66" WIDTH="836" VPOS="294" HPOS="138">
           <TextLine ID="tl_3" BASELINE="359" HEIGHT="73" WIDTH="846" VPOS="286" HPOS="132">
@@ -156,9 +152,7 @@
             <SP HEIGHT="66" WIDTH="14" VPOS="558" HPOS="986"/>
             <String HEIGHT="66" WIDTH="57" VPOS="558" HPOS="929" CONTENT="et" ID="tl_9_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="661" HEIGHT="49" WIDTH="102" VPOS="612" HPOS="138">
-            <String HEIGHT="49" WIDTH="131" VPOS="612" HPOS="109" CONTENT="blanc)." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="65" WIDTH="764" VPOS="639" HPOS="144">
           <TextLine ID="tl_11" BASELINE="698" HEIGHT="60" WIDTH="774" VPOS="638" HPOS="138">
@@ -256,9 +250,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="32" VPOS="2297" HPOS="983">
-          <TextLine ID="tl_16" BASELINE="2346" HEIGHT="58" WIDTH="43" VPOS="2288" HPOS="977">
-            <String HEIGHT="58" WIDTH="86" VPOS="2288" HPOS="934" CONTENT="83" ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
       </PrintSpace>
     </Page>

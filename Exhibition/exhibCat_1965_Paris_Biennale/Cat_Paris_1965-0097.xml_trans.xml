@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2293" WIDTH="969" VPOS="80" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="39" WIDTH="115" VPOS="85" HPOS="261">
-          <TextLine ID="tl_1" BASELINE="139" HEIGHT="65" WIDTH="123" VPOS="74" HPOS="257">
-            <String HEIGHT="65" WIDTH="139" VPOS="74" HPOS="241" CONTENT="PAYS" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="96" WIDTH="747" VPOS="439" HPOS="215">
           <TextLine ID="tl_2" BASELINE="488" HEIGHT="56" WIDTH="570" VPOS="432" HPOS="210">
@@ -463,14 +461,10 @@
             <SP HEIGHT="51" WIDTH="17" VPOS="1529" HPOS="940"/>
             <String HEIGHT="51" WIDTH="86" VPOS="1529" HPOS="871" CONTENT="art" ID="tl_27_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_28" BASELINE="1620" HEIGHT="52" WIDTH="207" VPOS="1568" HPOS="93">
-            <String HEIGHT="52" WIDTH="242" VPOS="1568" HPOS="58" CONTENT="néerlandais." ID="tl_28_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="27" VPOS="2256" HPOS="103">
-          <TextLine ID="tl_29" BASELINE="2288" HEIGHT="41" WIDTH="37" VPOS="2247" HPOS="99">
-            <String HEIGHT="41" WIDTH="74" VPOS="2247" HPOS="62" CONTENT="96" ID="tl_29_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="37" WIDTH="145" VPOS="2197" HPOS="801">
           <TextLine ID="tl_30" BASELINE="2236" HEIGHT="51" WIDTH="156" VPOS="2185" HPOS="795">

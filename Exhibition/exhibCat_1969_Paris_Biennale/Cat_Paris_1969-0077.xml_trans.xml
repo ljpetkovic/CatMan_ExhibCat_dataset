@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="257" VPOS="99" HPOS="31">
-          <TextLine ID="tl_1" BASELINE="150" HEIGHT="65" WIDTH="266" VPOS="85" HPOS="26">
-            <String HEIGHT="65" WIDTH="304" VPOS="85" HPOS="-12" CONTENT="ISLANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="33" WIDTH="194" VPOS="227" HPOS="457">
-          <TextLine ID="tl_2" BASELINE="273" HEIGHT="62" WIDTH="203" VPOS="211" HPOS="453">
-            <String HEIGHT="62" WIDTH="254" VPOS="211" HPOS="402" CONTENT="PEINTURE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="45" WIDTH="811" VPOS="293" HPOS="148">
           <TextLine ID="tl_3" BASELINE="347" HEIGHT="62" WIDTH="821" VPOS="285" HPOS="143">
@@ -117,9 +113,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="231" VPOS="487" HPOS="434">
-          <TextLine ID="tl_7" BASELINE="538" HEIGHT="76" WIDTH="241" VPOS="462" HPOS="429">
-            <String HEIGHT="76" WIDTH="295" VPOS="462" HPOS="375" CONTENT="SCULPTURE" ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="65" WIDTH="815" VPOS="554" HPOS="145">
           <TextLine ID="tl_8" BASELINE="601" HEIGHT="60" WIDTH="821" VPOS="541" HPOS="143">
@@ -139,9 +133,7 @@
             <SP HEIGHT="60" WIDTH="16" VPOS="541" HPOS="849"/>
             <String HEIGHT="60" WIDTH="181" VPOS="541" HPOS="783" CONTENT="Reykjavik" ID="tl_8_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_9" BASELINE="629" HEIGHT="46" WIDTH="147" VPOS="583" HPOS="140">
-            <String HEIGHT="46" WIDTH="176" VPOS="583" HPOS="111" CONTENT="(Islande)." ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="34" WIDTH="488" VPOS="629" HPOS="113">
           <TextLine ID="tl_10" BASELINE="666" HEIGHT="50" WIDTH="498" VPOS="616" HPOS="108">
@@ -236,9 +228,7 @@
             <SP HEIGHT="50" WIDTH="15" VPOS="794" HPOS="934"/>
             <String HEIGHT="50" WIDTH="92" VPOS="794" HPOS="873" CONTENT="Reyk" ID="tl_15_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_16" BASELINE="866" HEIGHT="41" WIDTH="90" VPOS="825" HPOS="135">
-            <String HEIGHT="41" WIDTH="120" VPOS="825" HPOS="105" CONTENT="javik." ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_8" HEIGHT="34" WIDTH="596" VPOS="865" HPOS="113">
           <TextLine ID="tl_17" BASELINE="920" HEIGHT="71" WIDTH="605" VPOS="849" HPOS="109">
@@ -286,9 +276,7 @@
             <SP HEIGHT="54" WIDTH="16" VPOS="999" HPOS="841"/>
             <String HEIGHT="54" WIDTH="187" VPOS="999" HPOS="779" CONTENT="Reykjavikt" ID="tl_19_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_20" BASELINE="1090" HEIGHT="45" WIDTH="147" VPOS="1045" HPOS="137">
-            <String HEIGHT="45" WIDTH="176" VPOS="1045" HPOS="108" CONTENT="(Islande)." ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="36" WIDTH="761" VPOS="1092" HPOS="111">
           <TextLine ID="tl_21" BASELINE="1129" HEIGHT="46" WIDTH="769" VPOS="1083" HPOS="107">
@@ -325,9 +313,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="28" WIDTH="32" VPOS="2303" HPOS="87">
-          <TextLine ID="tl_23" BASELINE="2341" HEIGHT="51" WIDTH="43" VPOS="2290" HPOS="81">
-            <String HEIGHT="51" WIDTH="86" VPOS="2290" HPOS="38" CONTENT="76" ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="37" WIDTH="863" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_7" HEIGHT="12" WIDTH="242" VPOS="32" HPOS="614"/>

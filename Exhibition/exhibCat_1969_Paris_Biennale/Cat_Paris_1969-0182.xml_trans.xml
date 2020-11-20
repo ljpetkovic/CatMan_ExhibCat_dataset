@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1120">
       <PrintSpace HEIGHT="2232" WIDTH="1120" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="345" VPOS="205" HPOS="415">
-          <TextLine ID="tl_1" BASELINE="264" HEIGHT="70" WIDTH="355" VPOS="194" HPOS="409">
-            <String HEIGHT="70" WIDTH="394" VPOS="194" HPOS="370" CONTENT="CHATILLON" ID="tl_1_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="49" WIDTH="496" VPOS="261" HPOS="344">
           <TextLine ID="tl_2" BASELINE="326" HEIGHT="71" WIDTH="508" VPOS="255" HPOS="338">
@@ -915,7 +913,7 @@
             <SP HEIGHT="45" WIDTH="18" VPOS="2008" HPOS="1126"/>
             <String HEIGHT="45" WIDTH="90" VPOS="2008" HPOS="1072" CONTENT="à" ID="tl_50_10" STYLEREFS="FONT0"/>
             <SP HEIGHT="45" WIDTH="18" VPOS="2008" HPOS="1162"/>
-            <String HEIGHT="45" WIDTH="36" VPOS="2008" HPOS="1090" CONTENT="" ID="tl_50_11" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_51" BASELINE="2085" HEIGHT="55" WIDTH="936" VPOS="2030" HPOS="190">
             <String HEIGHT="55" WIDTH="204" VPOS="2030" HPOS="173" CONTENT="recevoir" ID="tl_51_1" STYLEREFS="FONT0"/>

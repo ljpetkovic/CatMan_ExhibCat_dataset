@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1061">
       <PrintSpace HEIGHT="2237" WIDTH="1060" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="330" VPOS="58" HPOS="659">
-          <TextLine ID="tl_1" BASELINE="106" HEIGHT="59" WIDTH="340" VPOS="47" HPOS="654">
-            <String HEIGHT="59" WIDTH="385" VPOS="47" HPOS="609" CONTENT="AUTRICHE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="82" WIDTH="682" VPOS="434" HPOS="122">
           <TextLine ID="tl_2" BASELINE="481" HEIGHT="55" WIDTH="691" VPOS="426" HPOS="118">
@@ -591,7 +589,7 @@
             <SP HEIGHT="50" WIDTH="17" VPOS="1651" HPOS="450"/>
             <String HEIGHT="50" WIDTH="202" VPOS="1651" HPOS="400" CONTENT="certaine" ID="tl_32_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="50" WIDTH="17" VPOS="1651" HPOS="601"/>
-            <String HEIGHT="50" WIDTH="67" VPOS="1651" HPOS="551" CONTENT="" ID="tl_32_7" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="50" WIDTH="17" VPOS="1651" HPOS="618"/>
             <String HEIGHT="50" WIDTH="269" VPOS="1651" HPOS="567" CONTENT="intériorité:" ID="tl_32_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="50" WIDTH="17" VPOS="1651" HPOS="836"/>
@@ -799,9 +797,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="29" VPOS="2209" HPOS="903">
-          <TextLine ID="tl_46" BASELINE="2242" HEIGHT="42" WIDTH="40" VPOS="2200" HPOS="897">
-            <String HEIGHT="42" WIDTH="80" VPOS="2200" HPOS="857" CONTENT="27" ID="tl_46_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="24" WIDTH="1060" VPOS="0" HPOS="0"/>
       </PrintSpace>

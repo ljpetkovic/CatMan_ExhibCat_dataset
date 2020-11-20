@@ -747,9 +747,7 @@
             <SP HEIGHT="55" WIDTH="17" VPOS="2094" HPOS="991"/>
             <String HEIGHT="55" WIDTH="170" VPOS="2094" HPOS="923" CONTENT="présence" ID="tl_42_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_43" BASELINE="2183" HEIGHT="40" WIDTH="108" VPOS="2143" HPOS="187">
-            <String HEIGHT="40" WIDTH="139" VPOS="2143" HPOS="156" CONTENT="active." ID="tl_43_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="38" WIDTH="332" VPOS="2169" HPOS="758">
           <TextLine ID="tl_44" BASELINE="2214" HEIGHT="49" WIDTH="343" VPOS="2165" HPOS="752">
@@ -761,9 +759,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="46" VPOS="2255" HPOS="1046">
-          <TextLine ID="tl_45" BASELINE="2295" HEIGHT="46" WIDTH="54" VPOS="2249" HPOS="1042">
-            <String HEIGHT="46" WIDTH="90" VPOS="2249" HPOS="1006" CONTENT="185" ID="tl_45_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="19" WIDTH="318" VPOS="0" HPOS="801"/>
         <GraphicalElement ID="r_5" HEIGHT="145" WIDTH="8" VPOS="2174" HPOS="92"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="997" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="230" VPOS="72" HPOS="57">
-          <TextLine ID="tl_1" BASELINE="119" HEIGHT="63" WIDTH="239" VPOS="56" HPOS="53">
-            <String HEIGHT="63" WIDTH="276" VPOS="56" HPOS="16" CONTENT="FRANCE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="108" WIDTH="812" VPOS="197" HPOS="173">
           <TextLine ID="tl_2" BASELINE="253" HEIGHT="58" WIDTH="820" VPOS="195" HPOS="169">
@@ -90,9 +88,7 @@
             <SP HEIGHT="69" WIDTH="15" VPOS="313" HPOS="877"/>
             <String HEIGHT="69" WIDTH="169" VPOS="313" HPOS="815" CONTENT="(France)." ID="tl_5_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_6" BASELINE="398" HEIGHT="44" WIDTH="171" VPOS="354" HPOS="168">
-            <String HEIGHT="44" WIDTH="202" VPOS="354" HPOS="137" CONTENT="Architecte." ID="tl_6_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="46" WIDTH="810" VPOS="417" HPOS="173">
           <TextLine ID="tl_7" BASELINE="476" HEIGHT="74" WIDTH="819" VPOS="402" HPOS="169">
@@ -198,9 +194,7 @@
             <SP HEIGHT="45" WIDTH="15" VPOS="665" HPOS="869"/>
             <String HEIGHT="45" WIDTH="176" VPOS="665" HPOS="810" CONTENT="production" ID="tl_12_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="736" HEIGHT="43" WIDTH="146" VPOS="693" HPOS="164">
-            <String HEIGHT="43" WIDTH="183" VPOS="693" HPOS="128" CONTENT="moderne." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="173" WIDTH="816" VPOS="728" HPOS="168">
           <TextLine ID="tl_14" BASELINE="779" HEIGHT="51" WIDTH="825" VPOS="728" HPOS="163">
@@ -297,9 +291,7 @@
             <SP HEIGHT="56" WIDTH="14" VPOS="913" HPOS="888"/>
             <String HEIGHT="56" WIDTH="156" VPOS="913" HPOS="831" CONTENT="(France)." ID="tl_19_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_20" BASELINE="1001" HEIGHT="50" WIDTH="171" VPOS="951" HPOS="161">
-            <String HEIGHT="50" WIDTH="202" VPOS="951" HPOS="130" CONTENT="Architecte." ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="65" WIDTH="818" VPOS="1015" HPOS="165">
           <TextLine ID="tl_21" BASELINE="1059" HEIGHT="49" WIDTH="825" VPOS="1010" HPOS="163">
@@ -319,9 +311,7 @@
             <SP HEIGHT="49" WIDTH="15" VPOS="1010" HPOS="896"/>
             <String HEIGHT="49" WIDTH="153" VPOS="1010" HPOS="835" CONTENT="(Maroc)." ID="tl_21_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1092" HEIGHT="45" WIDTH="172" VPOS="1047" HPOS="160">
-            <String HEIGHT="45" WIDTH="203" VPOS="1047" HPOS="129" CONTENT="Architecte." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="69" WIDTH="868" VPOS="1134" HPOS="117">
           <TextLine ID="tl_23" BASELINE="1178" HEIGHT="49" WIDTH="878" VPOS="1129" HPOS="112">
@@ -339,9 +329,7 @@
             <SP HEIGHT="49" WIDTH="17" VPOS="1129" HPOS="990"/>
             <String HEIGHT="49" WIDTH="68" VPOS="1129" HPOS="922" CONTENT="et" ID="tl_23_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_24" BASELINE="1212" HEIGHT="49" WIDTH="171" VPOS="1163" HPOS="159">
-            <String HEIGHT="49" WIDTH="202" VPOS="1163" HPOS="128" CONTENT="cyclotone)." ID="tl_24_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="165" WIDTH="823" VPOS="1225" HPOS="162">
           <TextLine ID="tl_25" BASELINE="1271" HEIGHT="53" WIDTH="828" VPOS="1218" HPOS="161">
@@ -408,9 +396,7 @@
             <SP HEIGHT="54" WIDTH="17" VPOS="1329" HPOS="973"/>
             <String HEIGHT="54" WIDTH="85" VPOS="1329" HPOS="905" CONTENT="mi" ID="tl_28_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_29" BASELINE="1396" HEIGHT="40" WIDTH="119" VPOS="1356" HPOS="159">
-            <String HEIGHT="40" WIDTH="159" VPOS="1356" HPOS="119" CONTENT="nimum." ID="tl_29_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="175" WIDTH="825" VPOS="1393" HPOS="160">
           <TextLine ID="tl_30" BASELINE="1437" HEIGHT="46" WIDTH="830" VPOS="1391" HPOS="156">
@@ -536,9 +522,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="35" WIDTH="206" VPOS="1689" HPOS="159">
-          <TextLine ID="tl_38" BASELINE="1734" HEIGHT="51" WIDTH="215" VPOS="1683" HPOS="155">
-            <String HEIGHT="51" WIDTH="251" VPOS="1683" HPOS="119" CONTENT="Responsable:" ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="66" WIDTH="784" VPOS="1733" HPOS="155">
           <TextLine ID="tl_39" BASELINE="1775" HEIGHT="52" WIDTH="790" VPOS="1723" HPOS="153">
@@ -558,9 +542,7 @@
             <SP HEIGHT="52" WIDTH="15" VPOS="1723" HPOS="835"/>
             <String HEIGHT="52" WIDTH="170" VPOS="1723" HPOS="773" CONTENT="(France)." ID="tl_39_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_40" BASELINE="1809" HEIGHT="45" WIDTH="175" VPOS="1764" HPOS="150">
-            <String HEIGHT="45" WIDTH="207" VPOS="1764" HPOS="118" CONTENT="Architecte." ID="tl_40_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_7" HEIGHT="74" WIDTH="830" VPOS="1824" HPOS="156">
           <TextLine ID="tl_41" BASELINE="1867" HEIGHT="51" WIDTH="838" VPOS="1816" HPOS="152">
@@ -645,9 +627,7 @@
             <SP HEIGHT="60" WIDTH="15" VPOS="2040" HPOS="886"/>
             <String HEIGHT="60" WIDTH="165" VPOS="2040" HPOS="826" CONTENT="(France)." ID="tl_46_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_47" BASELINE="2142" HEIGHT="54" WIDTH="191" VPOS="2088" HPOS="149">
-            <String HEIGHT="54" WIDTH="226" VPOS="2088" HPOS="114" CONTENT="Economiste." ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_11" HEIGHT="75" WIDTH="836" VPOS="2137" HPOS="151">
           <TextLine ID="tl_48" BASELINE="2180" HEIGHT="46" WIDTH="843" VPOS="2134" HPOS="148">
@@ -667,14 +647,10 @@
             <SP HEIGHT="46" WIDTH="16" VPOS="2134" HPOS="880"/>
             <String HEIGHT="46" WIDTH="175" VPOS="2134" HPOS="816" CONTENT="(France)." ID="tl_48_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_49" BASELINE="2226" HEIGHT="50" WIDTH="172" VPOS="2176" HPOS="146">
-            <String HEIGHT="50" WIDTH="203" VPOS="2176" HPOS="115" CONTENT="Architecte." ID="tl_49_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="48" VPOS="2266" HPOS="103">
-          <TextLine ID="tl_50" BASELINE="2302" HEIGHT="43" WIDTH="56" VPOS="2259" HPOS="99">
-            <String HEIGHT="43" WIDTH="93" VPOS="2259" HPOS="62" CONTENT="160" ID="tl_50_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="26" WIDTH="647" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="19" WIDTH="733" VPOS="2342" HPOS="1"/>

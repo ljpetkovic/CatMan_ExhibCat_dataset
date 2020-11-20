@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2385" WIDTH="1132">
       <PrintSpace HEIGHT="2316" WIDTH="1088" VPOS="69" HPOS="44">
         <TextBlock ID="r_1_2" HEIGHT="75" WIDTH="372" VPOS="214" HPOS="359">
-          <TextLine ID="tl_2" BASELINE="301" HEIGHT="96" WIDTH="383" VPOS="205" HPOS="353">
-            <String HEIGHT="96" WIDTH="438" VPOS="205" HPOS="298" CONTENT="SIXIÈME" ID="tl_2_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="76" WIDTH="939" VPOS="373" HPOS="82">
           <TextLine ID="tl_3" BASELINE="454" HEIGHT="85" WIDTH="950" VPOS="369" HPOS="76">

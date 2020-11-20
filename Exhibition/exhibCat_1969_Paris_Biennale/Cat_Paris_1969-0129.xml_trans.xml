@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2324" WIDTH="1062" VPOS="37" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="285" VPOS="96" HPOS="43">
-          <TextLine ID="tl_1" BASELINE="148" HEIGHT="64" WIDTH="294" VPOS="84" HPOS="39">
-            <String HEIGHT="64" WIDTH="336" VPOS="84" HPOS="-3" CONTENT="URUGUAY" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="75" WIDTH="772" VPOS="477" HPOS="210">
           <TextLine ID="tl_2" BASELINE="542" HEIGHT="76" WIDTH="781" VPOS="466" HPOS="206">
@@ -43,9 +41,7 @@
             <SP HEIGHT="76" WIDTH="16" VPOS="466" HPOS="875"/>
             <String HEIGHT="76" WIDTH="175" VPOS="466" HPOS="812" CONTENT="Lagos" ID="tl_2_6" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="560" HEIGHT="48" WIDTH="132" VPOS="512" HPOS="206">
-            <String HEIGHT="48" WIDTH="176" VPOS="512" HPOS="162" CONTENT="Turena" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="41" WIDTH="773" VPOS="570" HPOS="210">
           <TextLine ID="tl_4" BASELINE="621" HEIGHT="65" WIDTH="784" VPOS="556" HPOS="205">
@@ -464,9 +460,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="28" WIDTH="46" VPOS="2292" HPOS="91">
-          <TextLine ID="tl_29" BASELINE="2330" HEIGHT="46" WIDTH="56" VPOS="2284" HPOS="86">
-            <String HEIGHT="46" WIDTH="93" VPOS="2284" HPOS="49" CONTENT="128" ID="tl_29_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="5" WIDTH="1062" VPOS="2356" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="2324" WIDTH="2" VPOS="37" HPOS="0"/>

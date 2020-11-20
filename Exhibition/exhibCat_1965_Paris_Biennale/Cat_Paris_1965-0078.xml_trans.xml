@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2298" WIDTH="930" VPOS="75" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="36" WIDTH="156" VPOS="81" HPOS="718">
-          <TextLine ID="tl_1" BASELINE="128" HEIGHT="67" WIDTH="166" VPOS="61" HPOS="713">
-            <String HEIGHT="67" WIDTH="192" VPOS="61" HPOS="687" CONTENT="ITALIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="42" WIDTH="809" VPOS="472" HPOS="45">
           <TextLine ID="tl_2" BASELINE="521" HEIGHT="76" WIDTH="819" VPOS="445" HPOS="40">
@@ -485,9 +483,7 @@
             <SP HEIGHT="44" WIDTH="15" VPOS="1719" HPOS="766"/>
             <String HEIGHT="44" WIDTH="191" VPOS="1719" HPOS="707" CONTENT="Pietrasanta" ID="tl_29_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_30" BASELINE="1802" HEIGHT="44" WIDTH="96" VPOS="1758" HPOS="94">
-            <String HEIGHT="44" WIDTH="117" VPOS="1758" HPOS="73" CONTENT="(ltalie)." ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_15" HEIGHT="81" WIDTH="830" VPOS="1785" HPOS="67">
           <TextLine ID="tl_31" BASELINE="1845" HEIGHT="58" WIDTH="838" VPOS="1787" HPOS="63">
@@ -677,14 +673,10 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_8_1" HEIGHT="29" WIDTH="188" VPOS="1967" HPOS="387">
-          <TextLine ID="tl_42" BASELINE="2009" HEIGHT="55" WIDTH="197" VPOS="1954" HPOS="383">
-            <String HEIGHT="55" WIDTH="241" VPOS="1954" HPOS="339" CONTENT="SCULPTURE" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_9_1" HEIGHT="24" WIDTH="30" VPOS="2281" HPOS="887">
-          <TextLine ID="tl_43" BASELINE="2315" HEIGHT="56" WIDTH="43" VPOS="2259" HPOS="879">
-            <String HEIGHT="56" WIDTH="86" VPOS="2259" HPOS="836" CONTENT="77" ID="tl_43_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_10" HEIGHT="3" WIDTH="683" VPOS="2370" HPOS="0"/>
         <GraphicalElement ID="r_11" HEIGHT="5" WIDTH="247" VPOS="2368" HPOS="683"/>

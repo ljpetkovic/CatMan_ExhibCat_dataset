@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1086">
       <PrintSpace HEIGHT="2276" WIDTH="1086" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="152" VPOS="65" HPOS="139">
-          <TextLine ID="tl_1" BASELINE="125" HEIGHT="71" WIDTH="165" VPOS="54" HPOS="131">
-            <String HEIGHT="71" WIDTH="190" VPOS="54" HPOS="106" CONTENT="CANADA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="329" VPOS="179" HPOS="439">
           <TextLine ID="tl_2" BASELINE="220" HEIGHT="61" WIDTH="339" VPOS="159" HPOS="434">
@@ -54,9 +52,7 @@
             <SP HEIGHT="60" WIDTH="15" VPOS="231" HPOS="887"/>
             <String HEIGHT="60" WIDTH="124" VPOS="231" HPOS="825" CONTENT="Québec" ID="tl_3_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_4" BASELINE="319" HEIGHT="46" WIDTH="159" VPOS="273" HPOS="179">
-            <String HEIGHT="46" WIDTH="194" VPOS="273" HPOS="144" CONTENT="(Canada)." ID="tl_4_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="42" WIDTH="583" VPOS="305" HPOS="144">
           <TextLine ID="tl_5" BASELINE="349" HEIGHT="55" WIDTH="594" VPOS="294" HPOS="139">
@@ -190,9 +186,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="190" VPOS="617" HPOS="520">
-          <TextLine ID="tl_12" BASELINE="661" HEIGHT="59" WIDTH="200" VPOS="602" HPOS="515">
-            <String HEIGHT="59" WIDTH="244" VPOS="602" HPOS="471" CONTENT="SCULPTURE" ID="tl_12_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="38" WIDTH="897" VPOS="675" HPOS="188">
           <TextLine ID="tl_13" BASELINE="718" HEIGHT="59" WIDTH="907" VPOS="659" HPOS="183">
@@ -237,15 +231,13 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="31" WIDTH="80" VPOS="749" HPOS="1001">
-          <TextLine ID="tl_15" BASELINE="789" HEIGHT="45" WIDTH="91" VPOS="744" HPOS="995">
-            <String HEIGHT="45" WIDTH="127" VPOS="744" HPOS="959" CONTENT="aussi" ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_4" HEIGHT="41" WIDTH="545" VPOS="783" HPOS="542">
           <TextLine ID="tl_16" BASELINE="835" HEIGHT="61" WIDTH="557" VPOS="774" HPOS="536">
             <String HEIGHT="61" WIDTH="766" VPOS="774" HPOS="466" CONTENT="GRAVURE" ID="tl_16_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="61" WIDTH="70" VPOS="774" HPOS="1232"/>
-            <String HEIGHT="61" WIDTH="139" VPOS="774" HPOS="954" CONTENT="" ID="tl_16_2" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_5" HEIGHT="53" WIDTH="881" VPOS="825" HPOS="190">

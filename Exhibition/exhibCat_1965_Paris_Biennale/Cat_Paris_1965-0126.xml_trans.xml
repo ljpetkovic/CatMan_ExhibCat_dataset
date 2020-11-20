@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2312" WIDTH="877" VPOS="61" HPOS="77">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="214" VPOS="66" HPOS="685">
-          <TextLine ID="tl_1" BASELINE="124" HEIGHT="70" WIDTH="225" VPOS="54" HPOS="679">
-            <String HEIGHT="70" WIDTH="255" VPOS="54" HPOS="649" CONTENT="VIET" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="44" WIDTH="321" VPOS="179" HPOS="342">
           <TextLine ID="tl_2" BASELINE="233" HEIGHT="66" WIDTH="333" VPOS="167" HPOS="335">
@@ -178,9 +176,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="36" WIDTH="186" VPOS="558" HPOS="419">
-          <TextLine ID="tl_10" BASELINE="609" HEIGHT="62" WIDTH="195" VPOS="547" HPOS="414">
-            <String HEIGHT="62" WIDTH="238" VPOS="547" HPOS="371" CONTENT="SCULPTURE" ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="74" WIDTH="783" VPOS="602" HPOS="134">
           <TextLine ID="tl_11" BASELINE="668" HEIGHT="73" WIDTH="792" VPOS="595" HPOS="129">

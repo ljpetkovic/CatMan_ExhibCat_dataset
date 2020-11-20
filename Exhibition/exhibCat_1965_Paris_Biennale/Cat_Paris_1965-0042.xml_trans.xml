@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1061">
       <PrintSpace HEIGHT="2219" WIDTH="1061" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="175" VPOS="52" HPOS="798">
-          <TextLine ID="tl_1" BASELINE="101" HEIGHT="62" WIDTH="185" VPOS="39" HPOS="793">
-            <String HEIGHT="62" WIDTH="216" VPOS="39" HPOS="762" CONTENT="CHILI" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="46" WIDTH="581" VPOS="308" HPOS="111">
           <TextLine ID="tl_2" BASELINE="359" HEIGHT="53" WIDTH="590" VPOS="306" HPOS="107">
@@ -538,11 +536,11 @@
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="296"/>
             <String HEIGHT="58" WIDTH="132" VPOS="1554" HPOS="240" CONTENT="pas" ID="tl_32_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="372"/>
-            <String HEIGHT="58" WIDTH="75" VPOS="1554" HPOS="315" CONTENT="" ID="tl_32_5" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="390"/>
             <String HEIGHT="58" WIDTH="264" VPOS="1554" HPOS="334" CONTENT="fabriquées" ID="tl_32_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="598"/>
-            <String HEIGHT="58" WIDTH="75" VPOS="1554" HPOS="541" CONTENT="" ID="tl_32_7" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="616"/>
             <String HEIGHT="58" WIDTH="113" VPOS="1554" HPOS="560" CONTENT="et" ID="tl_32_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="58" WIDTH="19" VPOS="1554" HPOS="673"/>
@@ -565,9 +563,7 @@
             <SP HEIGHT="57" WIDTH="18" VPOS="1595" HPOS="878"/>
             <String HEIGHT="57" WIDTH="72" VPOS="1595" HPOS="806" CONTENT="de" ID="tl_33_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_34" BASELINE="1673" HEIGHT="45" WIDTH="86" VPOS="1628" HPOS="-6">
-            <String HEIGHT="45" WIDTH="120" VPOS="1628" HPOS="-40" CONTENT="orce." ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="305" WIDTH="871" VPOS="1685" HPOS="0">
           <TextLine ID="tl_35" BASELINE="1729" HEIGHT="52" WIDTH="831" VPOS="1677" HPOS="44">
@@ -594,7 +590,7 @@
             <SP HEIGHT="41" WIDTH="17" VPOS="1723" HPOS="218"/>
             <String HEIGHT="41" WIDTH="224" VPOS="1723" HPOS="166" CONTENT="véritable" ID="tl_36_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="41" WIDTH="17" VPOS="1723" HPOS="390"/>
-            <String HEIGHT="41" WIDTH="69" VPOS="1723" HPOS="339" CONTENT="" ID="tl_36_3" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="41" WIDTH="17" VPOS="1723" HPOS="408"/>
             <String HEIGHT="41" WIDTH="207" VPOS="1723" HPOS="356" CONTENT="alfarero" ID="tl_36_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="41" WIDTH="17" VPOS="1723" HPOS="563"/>
@@ -679,7 +675,7 @@
             <SP HEIGHT="47" WIDTH="15" VPOS="1873" HPOS="746"/>
             <String HEIGHT="47" WIDTH="184" VPOS="1873" HPOS="700" CONTENT="retrouve" ID="tl_40_10" STYLEREFS="FONT0"/>
             <SP HEIGHT="47" WIDTH="15" VPOS="1873" HPOS="884"/>
-            <String HEIGHT="47" WIDTH="46" VPOS="1873" HPOS="823" CONTENT="" SUBS_TYPE="HypPart1" SUBS_CONTENT="e" ID="tl_40_11" STYLEREFS="FONT0"/>
+            
             <HYP CONTENT="-"/>
           </TextLine>
           <TextLine ID="tl_41" BASELINE="1956" HEIGHT="46" WIDTH="870" VPOS="1910" HPOS="-1">
@@ -757,9 +753,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="22" WIDTH="24" VPOS="2191" HPOS="829">
-          <TextLine ID="tl_46" BASELINE="2225" HEIGHT="43" WIDTH="36" VPOS="2182" HPOS="822">
-            <String HEIGHT="43" WIDTH="72" VPOS="2182" HPOS="786" CONTENT="41" ID="tl_46_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="20" WIDTH="828" VPOS="0" HPOS="233"/>
         <GraphicalElement ID="r_6" HEIGHT="6" WIDTH="232" VPOS="0" HPOS="1"/>

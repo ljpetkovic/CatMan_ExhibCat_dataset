@@ -49,9 +49,7 @@
             <SP HEIGHT="72" WIDTH="17" VPOS="455" HPOS="911"/>
             <String HEIGHT="72" WIDTH="173" VPOS="455" HPOS="842" CONTENT="Abou" ID="tl_2_7" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="571" HEIGHT="50" WIDTH="100" VPOS="521" HPOS="219">
-            <String HEIGHT="50" WIDTH="117" VPOS="521" HPOS="202" CONTENT="Ghazi" ID="tl_3_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="37" WIDTH="204" VPOS="574" HPOS="224">
           <TextLine ID="tl_4" BASELINE="622" HEIGHT="56" WIDTH="215" VPOS="566" HPOS="218">
@@ -525,9 +523,7 @@
             <SP HEIGHT="41" WIDTH="19" VPOS="1879" HPOS="1042"/>
             <String HEIGHT="41" WIDTH="77" VPOS="1879" HPOS="965" CONTENT="et" ID="tl_33_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_34" BASELINE="1973" HEIGHT="53" WIDTH="206" VPOS="1920" HPOS="153">
-            <String HEIGHT="53" WIDTH="240" VPOS="1920" HPOS="119" CONTENT="inattendues." ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="39" WIDTH="364" VPOS="2198" HPOS="676">
           <TextLine ID="tl_35" BASELINE="2253" HEIGHT="65" WIDTH="372" VPOS="2188" HPOS="672">
@@ -541,9 +537,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="28" WIDTH="46" VPOS="2294" HPOS="998">
-          <TextLine ID="tl_36" BASELINE="2334" HEIGHT="50" WIDTH="55" VPOS="2284" HPOS="994">
-            <String HEIGHT="50" WIDTH="92" VPOS="2284" HPOS="957" CONTENT="109" ID="tl_36_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
       </PrintSpace>
     </Page>

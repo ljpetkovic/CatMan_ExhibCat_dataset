@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2361" WIDTH="1066" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="295" VPOS="60" HPOS="679">
-          <TextLine ID="tl_1" BASELINE="116" HEIGHT="68" WIDTH="307" VPOS="48" HPOS="672">
-            <String HEIGHT="68" WIDTH="343" VPOS="48" HPOS="636" CONTENT="ETATS" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="774" WIDTH="912" VPOS="186" HPOS="82">
           <TextLine ID="tl_2" BASELINE="265" HEIGHT="92" WIDTH="901" VPOS="173" HPOS="77">
@@ -297,9 +295,7 @@
             <SP HEIGHT="72" WIDTH="18" VPOS="853" HPOS="818"/>
             <String HEIGHT="72" WIDTH="252" VPOS="853" HPOS="746" CONTENT="d’expression" ID="tl_18_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_19" BASELINE="976" HEIGHT="59" WIDTH="216" VPOS="917" HPOS="98">
-            <String HEIGHT="59" WIDTH="249" VPOS="917" HPOS="65" CONTENT="individuelle." ID="tl_19_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="269" WIDTH="897" VPOS="952" HPOS="106">
           <TextLine ID="tl_20" BASELINE="1019" HEIGHT="75" WIDTH="849" VPOS="944" HPOS="152">
@@ -745,9 +741,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="28" WIDTH="32" VPOS="2258" HPOS="1009">
-          <TextLine ID="tl_49" BASELINE="2299" HEIGHT="53" WIDTH="44" VPOS="2246" HPOS="1004">
-            <String HEIGHT="53" WIDTH="88" VPOS="2246" HPOS="960" CONTENT="57" ID="tl_49_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="21" WIDTH="307" VPOS="0" HPOS="455"/>
         <GraphicalElement ID="r_5" HEIGHT="9" WIDTH="275" VPOS="0" HPOS="762"/>

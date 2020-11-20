@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="185" VPOS="87" HPOS="37">
-          <TextLine ID="tl_1" BASELINE="140" HEIGHT="65" WIDTH="194" VPOS="75" HPOS="33">
-            <String HEIGHT="65" WIDTH="226" VPOS="75" HPOS="1" CONTENT="JAPON" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="34" WIDTH="183" VPOS="218" HPOS="467">
-          <TextLine ID="tl_2" BASELINE="265" HEIGHT="61" WIDTH="192" VPOS="204" HPOS="463">
-            <String HEIGHT="61" WIDTH="247" VPOS="204" HPOS="408" CONTENT="GRAVURE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="40" WIDTH="691" VPOS="288" HPOS="154">
           <TextLine ID="tl_3" BASELINE="334" HEIGHT="50" WIDTH="700" VPOS="284" HPOS="149">
@@ -117,9 +113,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="301" VPOS="489" HPOS="408">
-          <TextLine ID="tl_7" BASELINE="541" HEIGHT="70" WIDTH="310" VPOS="471" HPOS="403">
-            <String HEIGHT="70" WIDTH="362" VPOS="471" HPOS="351" CONTENT="PHOTOGRAPHIE" ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="40" WIDTH="764" VPOS="555" HPOS="153">
           <TextLine ID="tl_8" BASELINE="607" HEIGHT="69" WIDTH="773" VPOS="538" HPOS="149">
@@ -391,14 +385,10 @@
             <SP HEIGHT="56" WIDTH="15" VPOS="1288" HPOS="837"/>
             <String HEIGHT="56" WIDTH="153" VPOS="1288" HPOS="776" CONTENT="(Japon)." ID="tl_24_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_25" BASELINE="1365" HEIGHT="45" WIDTH="169" VPOS="1320" HPOS="144">
-            <String HEIGHT="45" WIDTH="200" VPOS="1320" HPOS="113" CONTENT="Architecte." ID="tl_25_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="34" WIDTH="302" VPOS="1414" HPOS="401">
-          <TextLine ID="tl_26" BASELINE="1462" HEIGHT="63" WIDTH="311" VPOS="1399" HPOS="397">
-            <String HEIGHT="63" WIDTH="363" VPOS="1399" HPOS="345" CONTENT="SCENOGRAPHIE" ID="tl_26_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_2" HEIGHT="68" WIDTH="816" VPOS="1474" HPOS="149">
           <TextLine ID="tl_27" BASELINE="1516" HEIGHT="50" WIDTH="824" VPOS="1466" HPOS="145">
@@ -418,9 +408,7 @@
             <SP HEIGHT="50" WIDTH="16" VPOS="1466" HPOS="876"/>
             <String HEIGHT="50" WIDTH="155" VPOS="1466" HPOS="814" CONTENT="(Japon)." ID="tl_27_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_28" BASELINE="1548" HEIGHT="40" WIDTH="102" VPOS="1508" HPOS="144">
-            <String HEIGHT="40" WIDTH="136" VPOS="1508" HPOS="110" CONTENT="Décor." ID="tl_28_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_3" HEIGHT="76" WIDTH="818" VPOS="1542" HPOS="148">
           <TextLine ID="tl_29" BASELINE="1586" HEIGHT="52" WIDTH="825" VPOS="1534" HPOS="145">
@@ -694,9 +682,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_8_1" HEIGHT="29" WIDTH="32" VPOS="2297" HPOS="94">
-          <TextLine ID="tl_46" BASELINE="2339" HEIGHT="46" WIDTH="42" VPOS="2293" HPOS="88">
-            <String HEIGHT="46" WIDTH="84" VPOS="2293" HPOS="46" CONTENT="86" ID="tl_46_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_9" HEIGHT="31" WIDTH="426" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_10" HEIGHT="14" WIDTH="225" VPOS="19" HPOS="439"/>

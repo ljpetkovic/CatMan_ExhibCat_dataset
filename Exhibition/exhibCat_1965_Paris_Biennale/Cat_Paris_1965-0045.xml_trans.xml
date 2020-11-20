@@ -120,7 +120,7 @@
             <SP HEIGHT="47" WIDTH="13" VPOS="784" HPOS="583"/>
             <String HEIGHT="47" WIDTH="143" VPOS="784" HPOS="544" CONTENT="moderne" ID="tl_8_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="47" WIDTH="13" VPOS="784" HPOS="687"/>
-            <String HEIGHT="47" WIDTH="52" VPOS="784" HPOS="648" CONTENT="" ID="tl_8_7" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="47" WIDTH="13" VPOS="784" HPOS="700"/>
             <String HEIGHT="47" WIDTH="104" VPOS="784" HPOS="661" CONTENT="1963" ID="tl_8_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="47" WIDTH="13" VPOS="784" HPOS="766"/>
@@ -237,9 +237,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="22" WIDTH="27" VPOS="2294" HPOS="137">
-          <TextLine ID="tl_14" BASELINE="2326" HEIGHT="38" WIDTH="35" VPOS="2288" HPOS="133">
-            <String HEIGHT="38" WIDTH="70" VPOS="2288" HPOS="98" CONTENT="44" ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="3" WIDTH="97" VPOS="2370" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="4" WIDTH="390" VPOS="2369" HPOS="97"/>

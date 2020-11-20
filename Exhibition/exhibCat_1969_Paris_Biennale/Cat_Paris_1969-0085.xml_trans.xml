@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="39" WIDTH="184" VPOS="91" HPOS="45">
-          <TextLine ID="tl_1" BASELINE="143" HEIGHT="63" WIDTH="193" VPOS="80" HPOS="40">
-            <String HEIGHT="63" WIDTH="225" VPOS="80" HPOS="8" CONTENT="JAPON" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="85" WIDTH="672" VPOS="470" HPOS="215">
           <TextLine ID="tl_2" BASELINE="516" HEIGHT="59" WIDTH="681" VPOS="457" HPOS="211">
@@ -538,9 +536,7 @@
             <SP HEIGHT="49" WIDTH="18" VPOS="1992" HPOS="852"/>
             <String HEIGHT="49" WIDTH="197" VPOS="1992" HPOS="780" CONTENT="computers" ID="tl_36_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_37" BASELINE="2089" HEIGHT="53" WIDTH="259" VPOS="2036" HPOS="99">
-            <String HEIGHT="53" WIDTH="296" VPOS="2036" HPOS="62" CONTENT="électroniques." ID="tl_37_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="131" WIDTH="872" VPOS="2115" HPOS="101">
           <TextLine ID="tl_38" BASELINE="2153" HEIGHT="48" WIDTH="817" VPOS="2105" HPOS="160">
@@ -586,9 +582,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="28" WIDTH="31" VPOS="2297" HPOS="102">
-          <TextLine ID="tl_41" BASELINE="2330" HEIGHT="42" WIDTH="41" VPOS="2288" HPOS="98">
-            <String HEIGHT="42" WIDTH="82" VPOS="2288" HPOS="57" CONTENT="84" ID="tl_41_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="25" WIDTH="300" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="16" WIDTH="1062" VPOS="2345" HPOS="0"/>

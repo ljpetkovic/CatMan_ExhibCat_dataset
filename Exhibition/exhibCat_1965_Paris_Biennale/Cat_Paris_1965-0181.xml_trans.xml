@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2331" WIDTH="1086">
       <PrintSpace HEIGHT="2331" WIDTH="1078" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="50" WIDTH="357" VPOS="24" HPOS="143">
-          <TextLine ID="tl_1" BASELINE="80" HEIGHT="59" WIDTH="367" VPOS="21" HPOS="138">
-            <String HEIGHT="59" WIDTH="410" VPOS="21" HPOS="95" CONTENT="TÉLÉVISION" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="130" WIDTH="841" VPOS="345" HPOS="197">
           <TextLine ID="tl_2" BASELINE="416" HEIGHT="75" WIDTH="845" VPOS="341" HPOS="197">
@@ -218,9 +216,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="38" WIDTH="178" VPOS="879" HPOS="110">
-          <TextLine ID="tl_11" BASELINE="926" HEIGHT="58" WIDTH="188" VPOS="868" HPOS="105">
-            <String HEIGHT="58" WIDTH="213" VPOS="868" HPOS="80" CONTENT="BELGIQUE" ID="tl_11_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="58" WIDTH="768" VPOS="936" HPOS="179">
           <TextLine ID="tl_12" BASELINE="1002" HEIGHT="66" WIDTH="778" VPOS="936" HPOS="174">
@@ -397,9 +393,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_8" HEIGHT="33" WIDTH="117" VPOS="1361" HPOS="97">
-          <TextLine ID="tl_22" BASELINE="1409" HEIGHT="64" WIDTH="127" VPOS="1345" HPOS="92">
-            <String HEIGHT="64" WIDTH="147" VPOS="1345" HPOS="72" CONTENT="BRESIL" ID="tl_22_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_9" HEIGHT="59" WIDTH="803" VPOS="1415" HPOS="169">
           <TextLine ID="tl_23" BASELINE="1478" HEIGHT="66" WIDTH="811" VPOS="1412" HPOS="165">
@@ -432,9 +426,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="34" WIDTH="140" VPOS="1546" HPOS="97">
-          <TextLine ID="tl_25" BASELINE="1595" HEIGHT="55" WIDTH="150" VPOS="1540" HPOS="92">
-            <String HEIGHT="55" WIDTH="173" VPOS="1540" HPOS="69" CONTENT="FRANCE" ID="tl_25_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="56" WIDTH="712" VPOS="1600" HPOS="164">
           <TextLine ID="tl_26" BASELINE="1663" HEIGHT="68" WIDTH="721" VPOS="1595" HPOS="160">
@@ -623,7 +615,7 @@
             <SP HEIGHT="48" WIDTH="18" VPOS="2017" HPOS="217"/>
             <String HEIGHT="48" WIDTH="266" VPOS="2017" HPOS="164" CONTENT="Bach-Braque" ID="tl_37_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="48" WIDTH="18" VPOS="2017" HPOS="429"/>
-            <String HEIGHT="48" WIDTH="71" VPOS="2017" HPOS="376" CONTENT="" ID="tl_37_3" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="48" WIDTH="18" VPOS="2017" HPOS="447"/>
             <String HEIGHT="48" WIDTH="124" VPOS="2017" HPOS="376" CONTENT="1965." ID="tl_37_4" STYLEREFS="FONT0"/>
           </TextLine>
@@ -670,9 +662,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="25" WIDTH="39" VPOS="2190" HPOS="154">
-          <TextLine ID="tl_41" BASELINE="2223" HEIGHT="47" WIDTH="51" VPOS="2176" HPOS="149">
-            <String HEIGHT="47" WIDTH="85" VPOS="2176" HPOS="115" CONTENT="180" ID="tl_41_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="5" WIDTH="200" VPOS="0" HPOS="748"/>
         <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="193" VPOS="0" HPOS="120"/>

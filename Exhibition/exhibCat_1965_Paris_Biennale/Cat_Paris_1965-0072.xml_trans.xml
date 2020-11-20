@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2219" WIDTH="908" VPOS="76" HPOS="58">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="148" VPOS="81" HPOS="735">
-          <TextLine ID="tl_1" BASELINE="135" HEIGHT="64" WIDTH="157" VPOS="71" HPOS="729">
-            <String HEIGHT="64" WIDTH="179" VPOS="71" HPOS="707" CONTENT="IRLANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="229" WIDTH="828" VPOS="185" HPOS="68">
           <TextLine ID="tl_2" BASELINE="259" HEIGHT="81" WIDTH="802" VPOS="178" HPOS="97">
@@ -245,9 +243,7 @@
             <SP HEIGHT="57" WIDTH="16" VPOS="817" HPOS="819"/>
             <String HEIGHT="57" WIDTH="161" VPOS="817" HPOS="755" CONTENT="(Grande" ID="tl_14_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_15" BASELINE="914" HEIGHT="42" WIDTH="137" VPOS="872" HPOS="112">
-            <String HEIGHT="42" WIDTH="164" VPOS="872" HPOS="85" CONTENT="Bretagne)." ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_8" HEIGHT="62" WIDTH="563" VPOS="891" HPOS="89">
           <TextLine ID="tl_16" BASELINE="942" HEIGHT="52" WIDTH="571" VPOS="890" HPOS="84">
@@ -318,9 +314,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="23" WIDTH="26" VPOS="2266" HPOS="935">
-          <TextLine ID="tl_20" BASELINE="2294" HEIGHT="37" WIDTH="36" VPOS="2257" HPOS="929">
-            <String HEIGHT="37" WIDTH="72" VPOS="2257" HPOS="893" CONTENT="71" ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
       </PrintSpace>
     </Page>

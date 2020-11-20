@@ -149,9 +149,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="26" WIDTH="190" VPOS="434" HPOS="512">
-          <TextLine ID="tl_9" BASELINE="474" HEIGHT="53" WIDTH="199" VPOS="421" HPOS="508">
-            <String HEIGHT="53" WIDTH="243" VPOS="421" HPOS="464" CONTENT="SCULPTURE" ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="43" WIDTH="763" VPOS="493" HPOS="180">
           <TextLine ID="tl_10" BASELINE="537" HEIGHT="48" WIDTH="772" VPOS="489" HPOS="175">
@@ -324,9 +322,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_13" HEIGHT="27" WIDTH="155" VPOS="823" HPOS="519">
-          <TextLine ID="tl_18" BASELINE="861" HEIGHT="48" WIDTH="163" VPOS="813" HPOS="515">
-            <String HEIGHT="48" WIDTH="210" VPOS="813" HPOS="468" CONTENT="GRAVURE" ID="tl_18_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="69" WIDTH="765" VPOS="883" HPOS="185">
           <TextLine ID="tl_19" BASELINE="921" HEIGHT="49" WIDTH="773" VPOS="872" HPOS="181">
@@ -348,9 +344,7 @@
             <SP HEIGHT="49" WIDTH="15" VPOS="872" HPOS="909"/>
             <String HEIGHT="49" WIDTH="106" VPOS="872" HPOS="848" CONTENT="Janès" ID="tl_19_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_20" BASELINE="958" HEIGHT="44" WIDTH="130" VPOS="914" HPOS="182">
-            <String HEIGHT="44" WIDTH="159" VPOS="914" HPOS="153" CONTENT="(Brésil)." ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_15" HEIGHT="34" WIDTH="757" VPOS="951" HPOS="126">
           <TextLine ID="tl_21" BASELINE="990" HEIGHT="42" WIDTH="765" VPOS="948" HPOS="122">
@@ -465,7 +459,7 @@
           <TextLine ID="tl_26" BASELINE="1157" HEIGHT="40" WIDTH="585" VPOS="1117" HPOS="125">
             <String HEIGHT="40" WIDTH="177" VPOS="1117" HPOS="111" CONTENT="26" ID="tl_26_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="40" WIDTH="14" VPOS="1117" HPOS="288"/>
-            <String HEIGHT="40" WIDTH="54" VPOS="1117" HPOS="247" CONTENT="" ID="tl_26_2" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="40" WIDTH="14" VPOS="1117" HPOS="302"/>
             <String HEIGHT="40" WIDTH="68" VPOS="1117" HPOS="261" CONTENT="R" ID="tl_26_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="40" WIDTH="14" VPOS="1117" HPOS="329"/>

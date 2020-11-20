@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2309" WIDTH="928" VPOS="64" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="45" WIDTH="335" VPOS="68" HPOS="593">
-          <TextLine ID="tl_1" BASELINE="120" HEIGHT="63" WIDTH="344" VPOS="57" HPOS="588">
-            <String HEIGHT="63" WIDTH="390" VPOS="57" HPOS="542" CONTENT="DANEMARK" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="40" WIDTH="321" VPOS="263" HPOS="273">
           <TextLine ID="tl_2" BASELINE="314" HEIGHT="62" WIDTH="330" VPOS="252" HPOS="268">
@@ -96,9 +94,7 @@
             <SP HEIGHT="69" WIDTH="15" VPOS="379" HPOS="830"/>
             <String HEIGHT="69" WIDTH="89" VPOS="379" HPOS="771" CONTENT="From" ID="tl_5_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_6" BASELINE="480" HEIGHT="39" WIDTH="145" VPOS="441" HPOS="50">
-            <String HEIGHT="39" WIDTH="177" VPOS="441" HPOS="18" CONTENT="Rasmussen" ID="tl_6_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_4" HEIGHT="59" WIDTH="647" VPOS="455" HPOS="22">
           <TextLine ID="tl_7" BASELINE="516" HEIGHT="76" WIDTH="657" VPOS="440" HPOS="15">
@@ -158,9 +154,7 @@
             <SP HEIGHT="72" WIDTH="16" VPOS="530" HPOS="739"/>
             <String HEIGHT="72" WIDTH="188" VPOS="530" HPOS="676" CONTENT="Copenhague" ID="tl_9_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="636" HEIGHT="44" WIDTH="167" VPOS="592" HPOS="51">
-            <String HEIGHT="44" WIDTH="197" VPOS="592" HPOS="21" CONTENT="(Danemark)." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="60" WIDTH="766" VPOS="608" HPOS="26">
           <TextLine ID="tl_11" BASELINE="667" HEIGHT="64" WIDTH="776" VPOS="603" HPOS="20">
@@ -374,9 +368,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_16" HEIGHT="35" WIDTH="188" VPOS="980" HPOS="351">
-          <TextLine ID="tl_20" BASELINE="1027" HEIGHT="62" WIDTH="197" VPOS="965" HPOS="346">
-            <String HEIGHT="62" WIDTH="241" VPOS="965" HPOS="302" CONTENT="SCULPTURE" ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_17" HEIGHT="94" WIDTH="808" VPOS="1024" HPOS="61">
           <TextLine ID="tl_21" BASELINE="1082" HEIGHT="49" WIDTH="818" VPOS="1033" HPOS="56">
@@ -396,9 +388,7 @@
             <SP HEIGHT="49" WIDTH="15" VPOS="1033" HPOS="813"/>
             <String HEIGHT="49" WIDTH="121" VPOS="1033" HPOS="753" CONTENT="(Dane" ID="tl_21_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1121" HEIGHT="42" WIDTH="87" VPOS="1079" HPOS="56">
-            <String HEIGHT="42" WIDTH="116" VPOS="1079" HPOS="27" CONTENT="mark)." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_18" HEIGHT="72" WIDTH="824" VPOS="1091" HPOS="17">
           <TextLine ID="tl_23" BASELINE="1158" HEIGHT="59" WIDTH="834" VPOS="1099" HPOS="12">
@@ -430,9 +420,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="24" WIDTH="31" VPOS="2264" HPOS="873">
-          <TextLine ID="tl_24" BASELINE="2297" HEIGHT="39" WIDTH="41" VPOS="2258" HPOS="868">
-            <String HEIGHT="39" WIDTH="82" VPOS="2258" HPOS="827" CONTENT="49" ID="tl_24_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="4" WIDTH="192" VPOS="2369" HPOS="708"/>
       </PrintSpace>

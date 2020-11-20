@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2321" WIDTH="1027" VPOS="40" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="265" VPOS="95" HPOS="43">
-          <TextLine ID="tl_1" BASELINE="151" HEIGHT="74" WIDTH="274" VPOS="77" HPOS="38">
-            <String HEIGHT="74" WIDTH="313" VPOS="77" HPOS="-1" CONTENT="HONGRIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="118" WIDTH="741" VPOS="474" HPOS="208">
           <TextLine ID="tl_2" BASELINE="522" HEIGHT="50" WIDTH="750" VPOS="472" HPOS="203">
@@ -603,9 +601,7 @@
             <SP HEIGHT="55" WIDTH="18" VPOS="2121" HPOS="857"/>
             <String HEIGHT="55" WIDTH="181" VPOS="2121" HPOS="785" CONTENT="surfaces" ID="tl_39_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_40" BASELINE="2215" HEIGHT="55" WIDTH="197" VPOS="2160" HPOS="94">
-            <String HEIGHT="55" WIDTH="236" VPOS="2160" HPOS="55" CONTENT="façonnées." ID="tl_40_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="43" WIDTH="248" VPOS="2206" HPOS="713">
           <TextLine ID="tl_41" BASELINE="2258" HEIGHT="55" WIDTH="258" VPOS="2203" HPOS="707">
@@ -615,9 +611,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="28" WIDTH="31" VPOS="2301" HPOS="99">
-          <TextLine ID="tl_42" BASELINE="2335" HEIGHT="49" WIDTH="42" VPOS="2286" HPOS="95">
-            <String HEIGHT="49" WIDTH="84" VPOS="2286" HPOS="53" CONTENT="68" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="2" WIDTH="127" VPOS="2359" HPOS="900"/>
         <GraphicalElement ID="r_6" HEIGHT="1" WIDTH="122" VPOS="2360" HPOS="655"/>

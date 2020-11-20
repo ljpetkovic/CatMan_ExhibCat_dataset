@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2258" WIDTH="1037" VPOS="83" HPOS="39">
         <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="220" VPOS="89" HPOS="850">
-          <TextLine ID="tl_1" BASELINE="157" HEIGHT="78" WIDTH="231" VPOS="79" HPOS="844">
-            <String HEIGHT="78" WIDTH="267" VPOS="79" HPOS="808" CONTENT="SUISSE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="63" WIDTH="787" VPOS="475" HPOS="222">
           <TextLine ID="tl_2" BASELINE="540" HEIGHT="70" WIDTH="796" VPOS="470" HPOS="217">
@@ -60,9 +58,7 @@
             <SP HEIGHT="65" WIDTH="17" VPOS="518" HPOS="1031"/>
             <String HEIGHT="65" WIDTH="50" VPOS="518" HPOS="964" CONTENT="à" ID="tl_3_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_4" BASELINE="622" HEIGHT="41" WIDTH="86" VPOS="581" HPOS="222">
-            <String HEIGHT="41" WIDTH="115" VPOS="581" HPOS="193" CONTENT="Paris." ID="tl_4_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="190" WIDTH="879" VPOS="699" HPOS="138">
           <TextLine ID="tl_5" BASELINE="763" HEIGHT="77" WIDTH="832" VPOS="686" HPOS="184">
@@ -621,9 +617,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="47" VPOS="2306" HPOS="1004">
-          <TextLine ID="tl_41" BASELINE="2343" HEIGHT="55" WIDTH="58" VPOS="2288" HPOS="999">
-            <String HEIGHT="55" WIDTH="97" VPOS="2288" HPOS="960" CONTENT="117" ID="tl_41_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="298" WIDTH="6" VPOS="1267" HPOS="60"/>
       </PrintSpace>

@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2306" WIDTH="1061" VPOS="54" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="45" WIDTH="592" VPOS="122" HPOS="18">
-          <TextLine ID="tl_1" BASELINE="181" HEIGHT="67" WIDTH="603" VPOS="114" HPOS="12">
-            <String HEIGHT="67" WIDTH="658" VPOS="114" HPOS="-43" CONTENT="TCHECOSLOVAQUIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="36" WIDTH="302" VPOS="250" HPOS="396">
-          <TextLine ID="tl_2" BASELINE="301" HEIGHT="70" WIDTH="311" VPOS="231" HPOS="391">
-            <String HEIGHT="70" WIDTH="363" VPOS="231" HPOS="339" CONTENT="SCENOGRAPHIE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="76" WIDTH="834" VPOS="327" HPOS="143">
           <TextLine ID="tl_3" BASELINE="368" HEIGHT="58" WIDTH="844" VPOS="310" HPOS="138">
@@ -54,9 +50,7 @@
             <SP HEIGHT="58" WIDTH="14" VPOS="310" HPOS="825"/>
             <String HEIGHT="58" WIDTH="215" VPOS="310" HPOS="767" CONTENT="(Tchécoslova" ID="tl_3_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_4" BASELINE="410" HEIGHT="45" WIDTH="95" VPOS="365" HPOS="136">
-            <String HEIGHT="45" WIDTH="127" VPOS="365" HPOS="104" CONTENT="quie)." ID="tl_4_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="37" WIDTH="428" VPOS="407" HPOS="97">
           <TextLine ID="tl_5" BASELINE="444" HEIGHT="52" WIDTH="436" VPOS="392" HPOS="93">
@@ -130,9 +124,7 @@
             <SP HEIGHT="51" WIDTH="15" VPOS="677" HPOS="832"/>
             <String HEIGHT="51" WIDTH="219" VPOS="677" HPOS="773" CONTENT="(Tchécoslova" ID="tl_9_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="765" HEIGHT="45" WIDTH="97" VPOS="720" HPOS="143">
-            <String HEIGHT="45" WIDTH="129" VPOS="720" HPOS="111" CONTENT="quie)." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="41" WIDTH="756" VPOS="761" HPOS="104">
           <TextLine ID="tl_11" BASELINE="801" HEIGHT="40" WIDTH="764" VPOS="761" HPOS="100">
@@ -169,9 +161,7 @@
             <SP HEIGHT="51" WIDTH="15" VPOS="800" HPOS="908"/>
             <String HEIGHT="51" WIDTH="146" VPOS="800" HPOS="850" CONTENT="(Tchéco" ID="tl_12_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="891" HEIGHT="48" WIDTH="169" VPOS="843" HPOS="147">
-            <String HEIGHT="48" WIDTH="200" VPOS="843" HPOS="116" CONTENT="slovaquie)." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="76" WIDTH="888" VPOS="885" HPOS="106">
           <TextLine ID="tl_14" BASELINE="932" HEIGHT="56" WIDTH="896" VPOS="876" HPOS="102">
@@ -264,9 +254,7 @@
             <SP HEIGHT="59" WIDTH="15" VPOS="1082" HPOS="838"/>
             <String HEIGHT="59" WIDTH="229" VPOS="1082" HPOS="777" CONTENT="(Tchécoslova" ID="tl_19_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_20" BASELINE="1176" HEIGHT="46" WIDTH="97" VPOS="1130" HPOS="151">
-            <String HEIGHT="46" WIDTH="129" VPOS="1130" HPOS="119" CONTENT="quie)." ID="tl_20_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="41" WIDTH="782" VPOS="1169" HPOS="112">
           <TextLine ID="tl_21" BASELINE="1216" HEIGHT="51" WIDTH="790" VPOS="1165" HPOS="108">
@@ -284,9 +272,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="33" WIDTH="116" VPOS="1285" HPOS="507">
-          <TextLine ID="tl_22" BASELINE="1327" HEIGHT="50" WIDTH="126" VPOS="1277" HPOS="502">
-            <String HEIGHT="50" WIDTH="176" VPOS="1277" HPOS="452" CONTENT="FILMS" ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="49" WIDTH="843" VPOS="1354" HPOS="164">
           <TextLine ID="tl_23" BASELINE="1400" HEIGHT="52" WIDTH="854" VPOS="1348" HPOS="158">
@@ -327,9 +313,7 @@
             <SP HEIGHT="59" WIDTH="15" VPOS="1391" HPOS="955"/>
             <String HEIGHT="59" WIDTH="116" VPOS="1391" HPOS="897" CONTENT="Filmu," ID="tl_24_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_25" BASELINE="1483" HEIGHT="42" WIDTH="119" VPOS="1441" HPOS="161">
-            <String HEIGHT="42" WIDTH="153" VPOS="1441" HPOS="127" CONTENT="Prague." ID="tl_25_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="81" WIDTH="847" VPOS="1480" HPOS="165">
           <TextLine ID="tl_26" BASELINE="1528" HEIGHT="69" WIDTH="855" VPOS="1459" HPOS="162">
@@ -349,9 +333,7 @@
             <SP HEIGHT="69" WIDTH="16" VPOS="1459" HPOS="877"/>
             <String HEIGHT="69" WIDTH="202" VPOS="1459" HPOS="815" CONTENT="(Tchécoslo" ID="tl_26_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_27" BASELINE="1566" HEIGHT="47" WIDTH="126" VPOS="1519" HPOS="160">
-            <String HEIGHT="47" WIDTH="158" VPOS="1519" HPOS="129" CONTENT="vaquie)." ID="tl_27_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="45" WIDTH="896" VPOS="1556" HPOS="118">
           <TextLine ID="tl_28" BASELINE="1606" HEIGHT="52" WIDTH="904" VPOS="1554" HPOS="113">
@@ -394,9 +376,7 @@
             <SP HEIGHT="57" WIDTH="16" VPOS="1597" HPOS="878"/>
             <String HEIGHT="57" WIDTH="207" VPOS="1597" HPOS="814" CONTENT="(Tchécoslo" ID="tl_29_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_30" BASELINE="1690" HEIGHT="43" WIDTH="125" VPOS="1647" HPOS="163">
-            <String HEIGHT="43" WIDTH="156" VPOS="1647" HPOS="132" CONTENT="vaquie)." ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_7" HEIGHT="94" WIDTH="898" VPOS="1683" HPOS="121">
           <TextLine ID="tl_31" BASELINE="1725" HEIGHT="52" WIDTH="907" VPOS="1673" HPOS="116">
@@ -476,9 +456,7 @@
             <SP HEIGHT="51" WIDTH="15" VPOS="1852" HPOS="858"/>
             <String HEIGHT="51" WIDTH="231" VPOS="1852" HPOS="797" CONTENT="(Tchécoslova" ID="tl_35_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_36" BASELINE="1942" HEIGHT="44" WIDTH="95" VPOS="1898" HPOS="164">
-            <String HEIGHT="44" WIDTH="127" VPOS="1898" HPOS="132" CONTENT="quie)." ID="tl_36_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_10" HEIGHT="79" WIDTH="899" VPOS="1933" HPOS="126">
           <TextLine ID="tl_37" BASELINE="1979" HEIGHT="57" WIDTH="909" VPOS="1922" HPOS="121">
@@ -503,9 +481,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="46" VPOS="2328" HPOS="133">
-          <TextLine ID="tl_39" BASELINE="2356" HEIGHT="41" WIDTH="56" VPOS="2315" HPOS="128">
-            <String HEIGHT="41" WIDTH="93" VPOS="2315" HPOS="91" CONTENT="124" ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="138" WIDTH="3" VPOS="2222" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="682" WIDTH="4" VPOS="1540" HPOS="0"/>

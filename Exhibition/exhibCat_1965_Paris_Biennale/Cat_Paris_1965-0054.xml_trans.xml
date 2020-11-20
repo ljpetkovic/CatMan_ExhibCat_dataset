@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2297" WIDTH="979" VPOS="76" HPOS="1">
         <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="330" VPOS="81" HPOS="645">
-          <TextLine ID="tl_1" BASELINE="138" HEIGHT="65" WIDTH="340" VPOS="73" HPOS="639">
-            <String HEIGHT="65" WIDTH="385" VPOS="73" HPOS="594" CONTENT="FINLANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="96" WIDTH="782" VPOS="448" HPOS="135">
           <TextLine ID="tl_2" BASELINE="504" HEIGHT="67" WIDTH="631" VPOS="437" HPOS="129">
@@ -235,9 +233,7 @@
             <SP HEIGHT="62" WIDTH="18" VPOS="967" HPOS="754"/>
             <String HEIGHT="62" WIDTH="248" VPOS="967" HPOS="683" CONTENT="contemplatif" ID="tl_13_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_14" BASELINE="1077" HEIGHT="52" WIDTH="208" VPOS="1025" HPOS="47">
-            <String HEIGHT="52" WIDTH="243" VPOS="1025" HPOS="12" CONTENT="fondamental." ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="196" WIDTH="875" VPOS="1068" HPOS="55">
           <TextLine ID="tl_15" BASELINE="1116" HEIGHT="45" WIDTH="843" VPOS="1071" HPOS="88">
@@ -445,7 +441,7 @@
             <SP HEIGHT="45" WIDTH="18" VPOS="1497" HPOS="196"/>
             <String HEIGHT="45" WIDTH="249" VPOS="1497" HPOS="143" CONTENT="renferment" ID="tl_26_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="45" WIDTH="18" VPOS="1497" HPOS="391"/>
-            <String HEIGHT="45" WIDTH="71" VPOS="1497" HPOS="338" CONTENT="" ID="tl_26_3" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="45" WIDTH="18" VPOS="1497" HPOS="409"/>
             <String HEIGHT="45" WIDTH="124" VPOS="1497" HPOS="356" CONTENT="une" ID="tl_26_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="45" WIDTH="18" VPOS="1497" HPOS="480"/>
@@ -615,9 +611,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="23" WIDTH="29" VPOS="2273" HPOS="924">
-          <TextLine ID="tl_38" BASELINE="2308" HEIGHT="43" WIDTH="39" VPOS="2265" HPOS="919">
-            <String HEIGHT="43" WIDTH="78" VPOS="2265" HPOS="880" CONTENT="53" ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="4" WIDTH="585" VPOS="2369" HPOS="1"/>
         <GraphicalElement ID="r_7" HEIGHT="5" WIDTH="194" VPOS="2368" HPOS="586"/>

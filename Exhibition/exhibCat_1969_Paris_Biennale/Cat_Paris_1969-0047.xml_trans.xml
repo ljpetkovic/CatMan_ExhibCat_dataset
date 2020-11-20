@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2323" WIDTH="1062" VPOS="38" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="158" VPOS="94" HPOS="40">
-          <TextLine ID="tl_1" BASELINE="143" HEIGHT="68" WIDTH="168" VPOS="75" HPOS="35">
-            <String HEIGHT="68" WIDTH="199" VPOS="75" HPOS="4" CONTENT="CUBA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="83" WIDTH="697" VPOS="474" HPOS="210">
           <TextLine ID="tl_4" BASELINE="519" HEIGHT="50" WIDTH="706" VPOS="469" HPOS="206">
@@ -620,9 +618,7 @@
             <SP HEIGHT="41" WIDTH="20" VPOS="2057" HPOS="896"/>
             <String HEIGHT="41" WIDTH="161" VPOS="2057" HPOS="815" CONTENT="presse" ID="tl_39_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_40" BASELINE="2146" HEIGHT="51" WIDTH="181" VPOS="2095" HPOS="94">
-            <String HEIGHT="51" WIDTH="221" VPOS="2095" HPOS="54" CONTENT="mondiale." ID="tl_40_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_7_1" HEIGHT="82" WIDTH="878" VPOS="2164" HPOS="95">
           <TextLine ID="tl_58" BASELINE="2212" HEIGHT="57" WIDTH="824" VPOS="2155" HPOS="153">
@@ -660,9 +656,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_8_1" HEIGHT="29" WIDTH="32" VPOS="2300" HPOS="96">
-          <TextLine ID="tl_60" BASELINE="2333" HEIGHT="42" WIDTH="43" VPOS="2291" HPOS="90">
-            <String HEIGHT="42" WIDTH="86" VPOS="2291" HPOS="47" CONTENT="46" ID="tl_60_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_9" HEIGHT="1" WIDTH="1062" VPOS="2360" HPOS="0"/>
         <GraphicalElement ID="r_10" HEIGHT="2323" WIDTH="3" VPOS="38" HPOS="0"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2324" WIDTH="988" VPOS="37" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="351" VPOS="95" HPOS="35">
-          <TextLine ID="tl_1" BASELINE="140" HEIGHT="61" WIDTH="361" VPOS="79" HPOS="30">
-            <String HEIGHT="61" WIDTH="406" VPOS="79" HPOS="-15" CONTENT="VENEZUELA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="81" WIDTH="745" VPOS="474" HPOS="206">
           <TextLine ID="tl_2" BASELINE="526" HEIGHT="58" WIDTH="754" VPOS="468" HPOS="201">
@@ -43,9 +41,7 @@
             <SP HEIGHT="58" WIDTH="17" VPOS="468" HPOS="854"/>
             <String HEIGHT="58" WIDTH="168" VPOS="468" HPOS="787" CONTENT="Diez" ID="tl_2_6" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="566" HEIGHT="51" WIDTH="125" VPOS="515" HPOS="201">
-            <String HEIGHT="51" WIDTH="156" VPOS="515" HPOS="170" CONTENT="Peintre." ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="129" WIDTH="873" VPOS="659" HPOS="103">
           <TextLine ID="tl_4" BASELINE="718" HEIGHT="74" WIDTH="823" VPOS="644" HPOS="158">
@@ -571,9 +567,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="27" WIDTH="47" VPOS="2287" HPOS="85">
-          <TextLine ID="tl_38" BASELINE="2325" HEIGHT="46" WIDTH="57" VPOS="2279" HPOS="80">
-            <String HEIGHT="46" WIDTH="95" VPOS="2279" HPOS="42" CONTENT="130" ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="15" WIDTH="421" VPOS="37" HPOS="391"/>
         <GraphicalElement ID="r_7" HEIGHT="706" WIDTH="4" VPOS="37" HPOS="0"/>

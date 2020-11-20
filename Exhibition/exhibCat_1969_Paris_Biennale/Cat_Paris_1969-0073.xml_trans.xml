@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2360" WIDTH="1049" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="39" WIDTH="136" VPOS="90" HPOS="40">
-          <TextLine ID="tl_1" BASELINE="139" HEIGHT="59" WIDTH="145" VPOS="80" HPOS="36">
-            <String HEIGHT="59" WIDTH="174" VPOS="80" HPOS="7" CONTENT="IRAN" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="84" WIDTH="715" VPOS="469" HPOS="205">
           <TextLine ID="tl_2" BASELINE="525" HEIGHT="68" WIDTH="723" VPOS="457" HPOS="201">
@@ -269,9 +267,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="28" WIDTH="32" VPOS="2294" HPOS="87">
-          <TextLine ID="tl_19" BASELINE="2334" HEIGHT="51" WIDTH="41" VPOS="2283" HPOS="83">
-            <String HEIGHT="51" WIDTH="82" VPOS="2283" HPOS="42" CONTENT="72" ID="tl_19_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="5" WIDTH="144" VPOS="31" HPOS="1"/>
         <GraphicalElement ID="r_7" HEIGHT="1121" WIDTH="4" VPOS="0" HPOS="0"/>

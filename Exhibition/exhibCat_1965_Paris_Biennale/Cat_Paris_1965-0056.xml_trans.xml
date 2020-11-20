@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2329" WIDTH="950" VPOS="44" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="51" WIDTH="246" VPOS="70" HPOS="305">
-          <TextLine ID="tl_1" BASELINE="133" HEIGHT="69" WIDTH="257" VPOS="64" HPOS="299">
-            <String HEIGHT="69" WIDTH="280" VPOS="64" HPOS="276" CONTENT="GRANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="141" WIDTH="758" VPOS="502" HPOS="123">
           <TextLine ID="tl_3" BASELINE="564" HEIGHT="74" WIDTH="645" VPOS="490" HPOS="117">
@@ -58,9 +56,7 @@
             <SP HEIGHT="68" WIDTH="14" VPOS="544" HPOS="884"/>
             <String HEIGHT="68" WIDTH="56" VPOS="544" HPOS="828" CONTENT="de" ID="tl_4_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_5" BASELINE="658" HEIGHT="48" WIDTH="115" VPOS="610" HPOS="119">
-            <String HEIGHT="48" WIDTH="144" VPOS="610" HPOS="90" CONTENT="Londres." ID="tl_5_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="551" WIDTH="857" VPOS="719" HPOS="45">
           <TextLine ID="tl_6" BASELINE="784" HEIGHT="72" WIDTH="818" VPOS="712" HPOS="73">
@@ -765,9 +761,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="24" WIDTH="30" VPOS="2257" HPOS="915">
-          <TextLine ID="tl_45" BASELINE="2290" HEIGHT="41" WIDTH="40" VPOS="2249" HPOS="909">
-            <String HEIGHT="41" WIDTH="80" VPOS="2249" HPOS="869" CONTENT="55" ID="tl_45_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="440" VPOS="2370" HPOS="0"/>
         <GraphicalElement ID="r_7" HEIGHT="13" WIDTH="470" VPOS="2360" HPOS="440"/>

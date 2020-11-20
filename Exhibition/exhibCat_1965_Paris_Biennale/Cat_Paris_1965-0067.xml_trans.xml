@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2303" WIDTH="1086" VPOS="70" HPOS="0">
         <TextBlock ID="region_1593681905871_2970" HEIGHT="53" WIDTH="142" VPOS="96" HPOS="39">
-          <TextLine ID="line_1593681905997_2973" BASELINE="149" HEIGHT="53" WIDTH="142" VPOS="96" HPOS="39">
-            <String HEIGHT="53" WIDTH="168" VPOS="96" HPOS="13" CONTENT="INDE" ID="line_1593681905997_2973_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_1_1" HEIGHT="87" WIDTH="732" VPOS="482" HPOS="188">
           <TextLine ID="tl_1" BASELINE="526" HEIGHT="49" WIDTH="671" VPOS="477" HPOS="187">
@@ -265,9 +263,7 @@
             <SP HEIGHT="46" WIDTH="16" VPOS="1048" HPOS="908"/>
             <String HEIGHT="46" WIDTH="95" VPOS="1048" HPOS="845" CONTENT="très" ID="tl_13_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_14" BASELINE="1135" HEIGHT="49" WIDTH="173" VPOS="1086" HPOS="85">
-            <String HEIGHT="49" WIDTH="208" VPOS="1086" HPOS="50" CONTENT="personnel." ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="158" WIDTH="848" VPOS="1141" HPOS="87">
           <TextLine ID="tl_15" BASELINE="1181" HEIGHT="43" WIDTH="809" VPOS="1138" HPOS="128">
@@ -391,7 +387,7 @@
             <SP HEIGHT="44" WIDTH="17" VPOS="1379" HPOS="341"/>
             <String HEIGHT="44" WIDTH="188" VPOS="1379" HPOS="290" CONTENT="Tagore," ID="tl_21_4" STYLEREFS="FONT0"/>
             <SP HEIGHT="44" WIDTH="17" VPOS="1379" HPOS="477"/>
-            <String HEIGHT="44" WIDTH="68" VPOS="1379" HPOS="426" CONTENT="" ID="tl_21_5" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="44" WIDTH="17" VPOS="1379" HPOS="494"/>
             <String HEIGHT="44" WIDTH="222" VPOS="1379" HPOS="443" CONTENT="Sacrifice" ID="tl_21_6" STYLEREFS="FONT0"/>
             <SP HEIGHT="44" WIDTH="17" VPOS="1379" HPOS="665"/>

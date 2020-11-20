@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2373" WIDTH="1013" VPOS="0" HPOS="0">
         <TextBlock ID="r_2_1" HEIGHT="51" WIDTH="208" VPOS="53" HPOS="692">
-          <TextLine ID="tl_1" BASELINE="116" HEIGHT="73" WIDTH="217" VPOS="43" HPOS="686">
-            <String HEIGHT="73" WIDTH="253" VPOS="43" HPOS="650" CONTENT="PÉROU" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="107" WIDTH="616" VPOS="495" HPOS="118">
           <TextLine ID="tl_2" BASELINE="564" HEIGHT="75" WIDTH="623" VPOS="489" HPOS="112">

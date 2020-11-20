@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2304" WIDTH="1094" VPOS="69" HPOS="-9">
         <TextBlock ID="region_1593683333168_3231" HEIGHT="62" WIDTH="300" VPOS="93" HPOS="61">
-          <TextLine ID="line_1593683333364_3234" BASELINE="155" HEIGHT="62" WIDTH="300" VPOS="93" HPOS="61">
-            <String HEIGHT="62" WIDTH="343" VPOS="93" HPOS="18" CONTENT="NORVEGE" ID="line_1593683333364_3234_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="706" VPOS="547" HPOS="220">
           <TextLine ID="tl_1" BASELINE="604" HEIGHT="64" WIDTH="715" VPOS="540" HPOS="216">
@@ -256,9 +254,7 @@
             <SP HEIGHT="57" WIDTH="18" VPOS="1154" HPOS="884"/>
             <String HEIGHT="57" WIDTH="159" VPOS="1154" HPOS="813" CONTENT="qualité" ID="tl_13_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_14" BASELINE="1237" HEIGHT="50" WIDTH="187" VPOS="1187" HPOS="106">
-            <String HEIGHT="50" WIDTH="218" VPOS="1187" HPOS="75" CONTENT="artistiques." ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="387" WIDTH="858" VPOS="1243" HPOS="108">
           <TextLine ID="tl_15" BASELINE="1291" HEIGHT="55" WIDTH="820" VPOS="1236" HPOS="151">

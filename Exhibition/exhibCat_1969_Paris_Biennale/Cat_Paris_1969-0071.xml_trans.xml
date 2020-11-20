@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2329" WIDTH="964" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="136" VPOS="94" HPOS="30">
-          <TextLine ID="tl_1" BASELINE="149" HEIGHT="64" WIDTH="144" VPOS="85" HPOS="26">
-            <String HEIGHT="64" WIDTH="170" VPOS="85" HPOS="-0" CONTENT="INDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="95" WIDTH="752" VPOS="469" HPOS="194">
           <TextLine ID="tl_2" BASELINE="518" HEIGHT="54" WIDTH="737" VPOS="464" HPOS="191">
@@ -246,9 +244,7 @@
             <SP HEIGHT="51" WIDTH="19" VPOS="1072" HPOS="914"/>
             <String HEIGHT="51" WIDTH="112" VPOS="1072" HPOS="839" CONTENT="sui" ID="tl_14_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_15" BASELINE="1159" HEIGHT="47" WIDTH="128" VPOS="1112" HPOS="92">
-            <String HEIGHT="47" WIDTH="165" VPOS="1112" HPOS="55" CONTENT="vantes." ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="594" WIDTH="860" VPOS="1160" HPOS="89">
           <TextLine ID="tl_16" BASELINE="1205" HEIGHT="48" WIDTH="807" VPOS="1157" HPOS="147">
@@ -473,9 +469,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="30" VPOS="2293" HPOS="83">
-          <TextLine ID="tl_30" BASELINE="2327" HEIGHT="41" WIDTH="40" VPOS="2286" HPOS="78">
-            <String HEIGHT="41" WIDTH="80" VPOS="2286" HPOS="38" CONTENT="70" ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="44" WIDTH="263" VPOS="2168" HPOS="686">
           <TextLine ID="tl_31" BASELINE="2216" HEIGHT="55" WIDTH="271" VPOS="2161" HPOS="682">

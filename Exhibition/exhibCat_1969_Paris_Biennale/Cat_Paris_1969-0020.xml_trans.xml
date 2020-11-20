@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2385" WIDTH="1030">
       <PrintSpace HEIGHT="2385" WIDTH="1030" VPOS="0" HPOS="0">
         <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="31" VPOS="2295" HPOS="930">
-          <TextLine ID="tl_1" BASELINE="2330" HEIGHT="44" WIDTH="41" VPOS="2286" HPOS="926">
-            <String HEIGHT="44" WIDTH="82" VPOS="2286" HPOS="885" CONTENT="19" ID="tl_1_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_3" HEIGHT="31" WIDTH="1030" VPOS="2354" HPOS="0"/>
         <GraphicalElement ID="r_4" HEIGHT="2320" WIDTH="2" VPOS="34" HPOS="1028"/>

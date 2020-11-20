@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="600" VPOS="87" HPOS="35">
-          <TextLine ID="tl_1" BASELINE="151" HEIGHT="73" WIDTH="611" VPOS="78" HPOS="29">
-            <String HEIGHT="73" WIDTH="667" VPOS="78" HPOS="-27" CONTENT="GRANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="91" WIDTH="858" VPOS="469" HPOS="205">
           <TextLine ID="tl_7" BASELINE="525" HEIGHT="69" WIDTH="867" VPOS="456" HPOS="201">
@@ -52,7 +50,7 @@
             <SP HEIGHT="55" WIDTH="21" VPOS="516" HPOS="879"/>
             <String HEIGHT="55" WIDTH="296" VPOS="516" HPOS="816" CONTENT="Beaux-Arts" ID="tl_8_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="55" WIDTH="21" VPOS="516" HPOS="1111"/>
-            <String HEIGHT="55" WIDTH="42" VPOS="516" HPOS="1027" CONTENT="" ID="tl_8_6" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="36" WIDTH="856" VPOS="555" HPOS="207">
@@ -67,7 +65,7 @@
             <SP HEIGHT="51" WIDTH="29" VPOS="559" HPOS="866"/>
             <String HEIGHT="51" WIDTH="347" VPOS="559" HPOS="779" CONTENT="Londres." ID="tl_9_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="29" VPOS="559" HPOS="1126"/>
-            <String HEIGHT="51" WIDTH="58" VPOS="559" HPOS="1010" CONTENT="" ID="tl_9_6" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="251" WIDTH="957" VPOS="687" HPOS="106">
@@ -86,7 +84,7 @@
             <SP HEIGHT="51" WIDTH="20" VPOS="681" HPOS="1047"/>
             <String HEIGHT="51" WIDTH="118" VPOS="681" HPOS="988" CONTENT="la" ID="tl_12_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="20" VPOS="681" HPOS="1106"/>
-            <String HEIGHT="51" WIDTH="39" VPOS="681" HPOS="1028" CONTENT="" ID="tl_12_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_13" BASELINE="770" HEIGHT="47" WIDTH="967" VPOS="723" HPOS="101">
             <String HEIGHT="47" WIDTH="391" VPOS="723" HPOS="80" CONTENT="Grande-Bretagne" ID="tl_13_1" STYLEREFS="FONT0"/>
@@ -103,7 +101,7 @@
             <SP HEIGHT="47" WIDTH="21" VPOS="723" HPOS="986"/>
             <String HEIGHT="47" WIDTH="185" VPOS="723" HPOS="924" CONTENT="Paris" ID="tl_13_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="47" WIDTH="21" VPOS="723" HPOS="1109"/>
-            <String HEIGHT="47" WIDTH="41" VPOS="723" HPOS="1027" CONTENT="" ID="tl_13_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_14" BASELINE="817" HEIGHT="46" WIDTH="965" VPOS="771" HPOS="103">
             <String HEIGHT="46" WIDTH="193" VPOS="771" HPOS="84" CONTENT="désire" ID="tl_14_1" STYLEREFS="FONT0"/>
@@ -122,7 +120,7 @@
             <SP HEIGHT="46" WIDTH="19" VPOS="771" HPOS="1029"/>
             <String HEIGHT="46" WIDTH="135" VPOS="771" HPOS="971" CONTENT="des" ID="tl_14_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="19" VPOS="771" HPOS="1107"/>
-            <String HEIGHT="46" WIDTH="39" VPOS="771" HPOS="1029" CONTENT="" ID="tl_14_9" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_15" BASELINE="854" HEIGHT="43" WIDTH="966" VPOS="811" HPOS="102">
             <String HEIGHT="43" WIDTH="276" VPOS="811" HPOS="79" CONTENT="éléments" ID="tl_15_1" STYLEREFS="FONT0"/>
@@ -176,7 +174,7 @@
             <SP HEIGHT="41" WIDTH="21" VPOS="892" HPOS="965"/>
             <String HEIGHT="41" WIDTH="205" VPOS="892" HPOS="904" CONTENT="lignes" ID="tl_17_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="41" WIDTH="21" VPOS="892" HPOS="1109"/>
-            <String HEIGHT="41" WIDTH="41" VPOS="892" HPOS="1027" CONTENT="" ID="tl_17_9" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_11" HEIGHT="41" WIDTH="955" VPOS="939" HPOS="108">
@@ -195,7 +193,7 @@
             <SP HEIGHT="51" WIDTH="23" VPOS="932" HPOS="1045"/>
             <String HEIGHT="51" WIDTH="138" VPOS="932" HPOS="976" CONTENT="ou" ID="tl_18_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="23" VPOS="932" HPOS="1114"/>
-            <String HEIGHT="51" WIDTH="46" VPOS="932" HPOS="1022" CONTENT="" ID="tl_18_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_12" HEIGHT="32" WIDTH="953" VPOS="983" HPOS="110">
@@ -204,7 +202,7 @@
             <SP HEIGHT="44" WIDTH="80" VPOS="977" HPOS="506"/>
             <String HEIGHT="44" WIDTH="963" VPOS="977" HPOS="266" CONTENT="surface." ID="tl_19_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="44" WIDTH="80" VPOS="977" HPOS="1229"/>
-            <String HEIGHT="44" WIDTH="161" VPOS="977" HPOS="908" CONTENT="" ID="tl_19_3" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_13" HEIGHT="1177" WIDTH="957" VPOS="1023" HPOS="106">
@@ -223,7 +221,7 @@
             <SP HEIGHT="53" WIDTH="20" VPOS="1015" HPOS="947"/>
             <String HEIGHT="53" WIDTH="222" VPOS="1015" HPOS="886" CONTENT="échelle" ID="tl_20_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="53" WIDTH="20" VPOS="1015" HPOS="1108"/>
-            <String HEIGHT="53" WIDTH="40" VPOS="1015" HPOS="1028" CONTENT="" ID="tl_20_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_21" BASELINE="1110" HEIGHT="49" WIDTH="965" VPOS="1061" HPOS="103">
             <String HEIGHT="49" WIDTH="129" VPOS="1061" HPOS="82" CONTENT="et" ID="tl_21_1" STYLEREFS="FONT0"/>
@@ -240,7 +238,7 @@
             <SP HEIGHT="49" WIDTH="21" VPOS="1061" HPOS="832"/>
             <String HEIGHT="49" WIDTH="343" VPOS="1061" HPOS="768" CONTENT="expérimentée" ID="tl_21_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="49" WIDTH="21" VPOS="1061" HPOS="1111"/>
-            <String HEIGHT="49" WIDTH="43" VPOS="1061" HPOS="1025" CONTENT="" ID="tl_21_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_22" BASELINE="1152" HEIGHT="51" WIDTH="866" VPOS="1101" HPOS="102">
             <String HEIGHT="51" WIDTH="124" VPOS="1101" HPOS="81" CONTENT="en" ID="tl_22_1" STYLEREFS="FONT0"/>
@@ -646,9 +644,7 @@
             <SP HEIGHT="51" WIDTH="20" VPOS="2114" HPOS="983"/>
             <String HEIGHT="51" WIDTH="78" VPOS="2114" HPOS="905" CONTENT="de" ID="tl_46_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_47" BASELINE="2210" HEIGHT="56" WIDTH="143" VPOS="2154" HPOS="99">
-            <String HEIGHT="56" WIDTH="179" VPOS="2154" HPOS="63" CONTENT="gravité." ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="50" WIDTH="810" VPOS="2198" HPOS="168">
           <TextLine ID="tl_48" BASELINE="2258" HEIGHT="73" WIDTH="820" VPOS="2185" HPOS="163">
@@ -670,9 +666,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="32" VPOS="2301" HPOS="108">
-          <TextLine ID="tl_49" BASELINE="2342" HEIGHT="49" WIDTH="44" VPOS="2293" HPOS="102">
-            <String HEIGHT="49" WIDTH="88" VPOS="2293" HPOS="58" CONTENT="62" ID="tl_49_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="4" WIDTH="1062" VPOS="2357" HPOS="0"/>
         <GraphicalElement ID="r_5" HEIGHT="65" WIDTH="1062" VPOS="0" HPOS="0"/>

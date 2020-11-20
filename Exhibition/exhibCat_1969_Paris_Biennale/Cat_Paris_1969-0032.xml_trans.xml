@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2325" WIDTH="1072">
       <PrintSpace HEIGHT="2290" WIDTH="1070" VPOS="0" HPOS="1">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="178" VPOS="67" HPOS="829">
-          <TextLine ID="tl_1" BASELINE="118" HEIGHT="65" WIDTH="188" VPOS="53" HPOS="824">
-            <String HEIGHT="65" WIDTH="217" VPOS="53" HPOS="795" CONTENT="BRESIL" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="51" WIDTH="739" VPOS="446" HPOS="180">
           <TextLine ID="tl_2" BASELINE="495" HEIGHT="56" WIDTH="749" VPOS="439" HPOS="175">
@@ -60,9 +58,7 @@
             <SP HEIGHT="50" WIDTH="19" VPOS="498" HPOS="983"/>
             <String HEIGHT="50" WIDTH="77" VPOS="498" HPOS="906" CONTENT="de" ID="tl_3_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_4" BASELINE="585" HEIGHT="47" WIDTH="127" VPOS="538" HPOS="177">
-            <String HEIGHT="47" WIDTH="159" VPOS="538" HPOS="145" CONTENT="Janeiro." ID="tl_4_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="464" WIDTH="898" VPOS="663" HPOS="85">
           <TextLine ID="tl_5" BASELINE="718" HEIGHT="54" WIDTH="846" VPOS="664" HPOS="137">
@@ -216,9 +212,7 @@
             <SP HEIGHT="51" WIDTH="19" VPOS="1034" HPOS="988"/>
             <String HEIGHT="51" WIDTH="77" VPOS="1034" HPOS="911" CONTENT="la" ID="tl_14_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_15" BASELINE="1135" HEIGHT="50" WIDTH="205" VPOS="1085" HPOS="86">
-            <String HEIGHT="50" WIDTH="242" VPOS="1085" HPOS="49" CONTENT="Fédération." ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="472" WIDTH="899" VPOS="1124" HPOS="90">
           <TextLine ID="tl_16" BASELINE="1177" HEIGHT="58" WIDTH="851" VPOS="1119" HPOS="141">
@@ -484,9 +478,7 @@
             <SP HEIGHT="52" WIDTH="20" VPOS="1830" HPOS="896"/>
             <String HEIGHT="52" WIDTH="181" VPOS="1830" HPOS="816" CONTENT="techno" ID="tl_33_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_34" BASELINE="1937" HEIGHT="55" WIDTH="145" VPOS="1882" HPOS="95">
-            <String HEIGHT="55" WIDTH="181" VPOS="1882" HPOS="59" CONTENT="logique." ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="308" WIDTH="900" VPOS="1914" HPOS="97">
           <TextLine ID="tl_35" BASELINE="1969" HEIGHT="64" WIDTH="844" VPOS="1905" HPOS="153">
@@ -601,9 +593,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="32" VPOS="2256" HPOS="968">
-          <TextLine ID="tl_42" BASELINE="2291" HEIGHT="42" WIDTH="43" VPOS="2249" HPOS="962">
-            <String HEIGHT="42" WIDTH="86" VPOS="2249" HPOS="919" CONTENT="31" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="32" WIDTH="1070" VPOS="0" HPOS="1"/>
       </PrintSpace>

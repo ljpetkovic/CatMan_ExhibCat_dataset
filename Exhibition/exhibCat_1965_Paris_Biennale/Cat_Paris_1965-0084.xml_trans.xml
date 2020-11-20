@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="1040" WIDTH="850" VPOS="73" HPOS="72">
         <TextBlock ID="r_1_1" HEIGHT="58" WIDTH="408" VPOS="77" HPOS="505">
-          <TextLine ID="tl_1" BASELINE="157" HEIGHT="84" WIDTH="418" VPOS="73" HPOS="499">
-            <String HEIGHT="84" WIDTH="470" VPOS="73" HPOS="447" CONTENT="MADAGASCA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="145" WIDTH="760" VPOS="468" HPOS="139">
           <TextLine ID="tl_2" BASELINE="535" HEIGHT="78" WIDTH="714" VPOS="457" HPOS="135">
@@ -89,9 +87,7 @@
             <SP HEIGHT="61" WIDTH="15" VPOS="870" HPOS="854"/>
             <String HEIGHT="61" WIDTH="120" VPOS="870" HPOS="794" CONTENT="(Mada" ID="tl_6_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="970" HEIGHT="42" WIDTH="108" VPOS="928" HPOS="106">
-            <String HEIGHT="42" WIDTH="135" VPOS="928" HPOS="79" CONTENT="gascar)." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="95" WIDTH="830" VPOS="939" HPOS="83">
           <TextLine ID="tl_8" BASELINE="1000" HEIGHT="63" WIDTH="840" VPOS="937" HPOS="78">

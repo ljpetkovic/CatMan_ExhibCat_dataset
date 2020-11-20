@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1101">
       <PrintSpace HEIGHT="2287" WIDTH="1087" VPOS="74" HPOS="13">
         <TextBlock ID="r_1_1" HEIGHT="46" WIDTH="229" VPOS="79" HPOS="862">
-          <TextLine ID="tl_1" BASELINE="135" HEIGHT="72" WIDTH="239" VPOS="63" HPOS="856">
-            <String HEIGHT="72" WIDTH="276" VPOS="63" HPOS="819" CONTENT="FRANCE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="39" WIDTH="197" VPOS="233" HPOS="183">
-          <TextLine ID="tl_2" BASELINE="280" HEIGHT="59" WIDTH="207" VPOS="221" HPOS="176">
-            <String HEIGHT="59" WIDTH="242" VPOS="221" HPOS="141" CONTENT="Responsable:" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="205" WIDTH="845" VPOS="254" HPOS="183">
           <TextLine ID="tl_3" BASELINE="316" HEIGHT="69" WIDTH="850" VPOS="247" HPOS="178">
@@ -84,9 +80,7 @@
             <SP HEIGHT="71" WIDTH="16" VPOS="357" HPOS="842"/>
             <String HEIGHT="71" WIDTH="252" VPOS="357" HPOS="779" CONTENT="Cagnes" ID="tl_5_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_6" BASELINE="467" HEIGHT="48" WIDTH="137" VPOS="419" HPOS="181">
-            <String HEIGHT="48" WIDTH="167" VPOS="419" HPOS="151" CONTENT="(France)." ID="tl_6_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="49" WIDTH="682" VPOS="491" HPOS="141">
           <TextLine ID="tl_7" BASELINE="546" HEIGHT="63" WIDTH="692" VPOS="483" HPOS="136">
@@ -287,9 +281,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="37" WIDTH="199" VPOS="953" HPOS="200">
-          <TextLine ID="tl_19" BASELINE="998" HEIGHT="55" WIDTH="210" VPOS="943" HPOS="194">
-            <String HEIGHT="55" WIDTH="245" VPOS="943" HPOS="159" CONTENT="Responsable:" ID="tl_19_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="87" WIDTH="845" VPOS="981" HPOS="201">
           <TextLine ID="tl_20" BASELINE="1035" HEIGHT="65" WIDTH="854" VPOS="970" HPOS="196">
@@ -309,9 +301,7 @@
             <SP HEIGHT="65" WIDTH="15" VPOS="970" HPOS="945"/>
             <String HEIGHT="65" WIDTH="165" VPOS="970" HPOS="885" CONTENT="(France)." ID="tl_20_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_21" BASELINE="1076" HEIGHT="46" WIDTH="115" VPOS="1030" HPOS="198">
-            <String HEIGHT="46" WIDTH="148" VPOS="1030" HPOS="165" CONTENT="Design." ID="tl_21_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="83" WIDTH="846" VPOS="1073" HPOS="203">
           <TextLine ID="tl_22" BASELINE="1123" HEIGHT="58" WIDTH="854" VPOS="1065" HPOS="198">
@@ -331,9 +321,7 @@
             <SP HEIGHT="58" WIDTH="14" VPOS="1065" HPOS="951"/>
             <String HEIGHT="58" WIDTH="159" VPOS="1065" HPOS="893" CONTENT="(France)." ID="tl_22_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_23" BASELINE="1167" HEIGHT="42" WIDTH="127" VPOS="1125" HPOS="199">
-            <String HEIGHT="42" WIDTH="159" VPOS="1125" HPOS="167" CONTENT="Gravure." ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_11" HEIGHT="87" WIDTH="846" VPOS="1165" HPOS="205">
           <TextLine ID="tl_24" BASELINE="1217" HEIGHT="65" WIDTH="854" VPOS="1152" HPOS="201">
@@ -353,9 +341,7 @@
             <SP HEIGHT="65" WIDTH="15" VPOS="1152" HPOS="952"/>
             <String HEIGHT="65" WIDTH="162" VPOS="1152" HPOS="893" CONTENT="(France)." ID="tl_24_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_25" BASELINE="1259" HEIGHT="50" WIDTH="209" VPOS="1209" HPOS="202">
-            <String HEIGHT="50" WIDTH="241" VPOS="1209" HPOS="170" CONTENT="Photographie." ID="tl_25_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_12" HEIGHT="84" WIDTH="844" VPOS="1258" HPOS="210">
           <TextLine ID="tl_26" BASELINE="1306" HEIGHT="47" WIDTH="853" VPOS="1259" HPOS="205">
@@ -426,9 +412,7 @@
             <SP HEIGHT="49" WIDTH="16" VPOS="1469" HPOS="1017"/>
             <String HEIGHT="49" WIDTH="115" VPOS="1469" HPOS="951" CONTENT="gran" ID="tl_30_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_31" BASELINE="1564" HEIGHT="51" WIDTH="91" VPOS="1513" HPOS="208">
-            <String HEIGHT="51" WIDTH="121" VPOS="1513" HPOS="178" CONTENT="deur)." ID="tl_31_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_15" HEIGHT="474" WIDTH="856" VPOS="1562" HPOS="215">
           <TextLine ID="tl_32" BASELINE="1604" HEIGHT="40" WIDTH="855" VPOS="1564" HPOS="210">
@@ -691,9 +675,7 @@
             <SP HEIGHT="55" WIDTH="16" VPOS="2084" HPOS="981"/>
             <String HEIGHT="55" WIDTH="159" VPOS="2084" HPOS="917" CONTENT="(Pérou)." ID="tl_47_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_48" BASELINE="2188" HEIGHT="53" WIDTH="275" VPOS="2135" HPOS="221">
-            <String HEIGHT="53" WIDTH="306" VPOS="2135" HPOS="190" CONTENT="Sculpteur" ID="tl_48_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_18" HEIGHT="46" WIDTH="846" VPOS="2185" HPOS="228">
           <TextLine ID="tl_49" BASELINE="2231" HEIGHT="44" WIDTH="856" VPOS="2187" HPOS="223">
@@ -717,9 +699,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="30" WIDTH="46" VPOS="2272" HPOS="1030">
-          <TextLine ID="tl_50" BASELINE="2308" HEIGHT="47" WIDTH="55" VPOS="2261" HPOS="1026">
-            <String HEIGHT="47" WIDTH="92" VPOS="2261" HPOS="989" CONTENT="147" ID="tl_50_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="11" WIDTH="1087" VPOS="2350" HPOS="13"/>
       </PrintSpace>

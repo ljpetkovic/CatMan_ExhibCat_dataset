@@ -30,9 +30,7 @@
             <SP HEIGHT="79" WIDTH="29" VPOS="76" HPOS="725"/>
             <String HEIGHT="79" WIDTH="411" VPOS="76" HPOS="608" CONTENT="FEDERALE" ID="tl_1_2" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_2" BASELINE="210" HEIGHT="81" WIDTH="435" VPOS="129" HPOS="585">
-            <String HEIGHT="81" WIDTH="483" VPOS="129" HPOS="537" CONTENT="D'ALLEMAGNE" ID="tl_2_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="133" WIDTH="802" VPOS="494" HPOS="144">
           <TextLine ID="tl_3" BASELINE="560" HEIGHT="86" WIDTH="812" VPOS="474" HPOS="138">
@@ -621,9 +619,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="31" VPOS="2295" HPOS="948">
-          <TextLine ID="tl_42" BASELINE="2339" HEIGHT="60" WIDTH="40" VPOS="2279" HPOS="943">
-            <String HEIGHT="60" WIDTH="80" VPOS="2279" HPOS="903" CONTENT="21" ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="24" WIDTH="1029" VPOS="2361" HPOS="1"/>
       </PrintSpace>

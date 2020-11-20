@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2261" WIDTH="1086" VPOS="112" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="53" WIDTH="419" VPOS="112" HPOS="92">
-          <TextLine ID="tl_1" BASELINE="170" HEIGHT="64" WIDTH="430" VPOS="106" HPOS="86">
-            <String HEIGHT="64" WIDTH="481" VPOS="106" HPOS="35" CONTENT="LUXEMBOURG" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="113" WIDTH="742" VPOS="416" HPOS="235">
           <TextLine ID="tl_2" BASELINE="461" HEIGHT="48" WIDTH="648" VPOS="413" HPOS="231">
@@ -56,9 +54,7 @@
             <SP HEIGHT="53" WIDTH="15" VPOS="465" HPOS="982"/>
             <String HEIGHT="53" WIDTH="59" VPOS="465" HPOS="923" CONTENT="et" ID="tl_3_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_4" BASELINE="541" HEIGHT="47" WIDTH="140" VPOS="494" HPOS="230">
-            <String HEIGHT="47" WIDTH="171" VPOS="494" HPOS="199" CONTENT="Sciences." ID="tl_4_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="490" WIDTH="949" VPOS="607" HPOS="133">
           <TextLine ID="tl_5" BASELINE="661" HEIGHT="59" WIDTH="802" VPOS="602" HPOS="177">
@@ -252,7 +248,7 @@
             <SP HEIGHT="47" WIDTH="17" VPOS="954" HPOS="1045"/>
             <String HEIGHT="47" WIDTH="121" VPOS="954" HPOS="994" CONTENT="dé¬" ID="tl_14_11" STYLEREFS="FONT0"/>
             <SP HEIGHT="47" WIDTH="17" VPOS="954" HPOS="1115"/>
-            <String HEIGHT="47" WIDTH="35" VPOS="954" HPOS="1045" CONTENT="" ID="tl_14_12" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_15" BASELINE="1030" HEIGHT="43" WIDTH="852" VPOS="987" HPOS="129">
             <String HEIGHT="43" WIDTH="145" VPOS="987" HPOS="113" CONTENT="crié:" ID="tl_15_1" STYLEREFS="FONT0"/>
@@ -288,7 +284,7 @@
             <SP HEIGHT="50" WIDTH="19" VPOS="1023" HPOS="974"/>
             <String HEIGHT="50" WIDTH="206" VPOS="1023" HPOS="917" CONTENT="jusqu’à" ID="tl_16_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="50" WIDTH="19" VPOS="1023" HPOS="1123"/>
-            <String HEIGHT="50" WIDTH="37" VPOS="1023" HPOS="1049" CONTENT="" ID="tl_16_9" STYLEREFS="FONT0"/>
+            
           </TextLine>
           <TextLine ID="tl_17" BASELINE="1104" HEIGHT="41" WIDTH="959" VPOS="1063" HPOS="128">
             <String HEIGHT="41" WIDTH="353" VPOS="1063" HPOS="78" CONTENT="une" ID="tl_17_1" STYLEREFS="FONT0"/>
@@ -297,7 +293,7 @@
             <SP HEIGHT="41" WIDTH="50" VPOS="1063" HPOS="734"/>
             <String HEIGHT="41" WIDTH="606" VPOS="1063" HPOS="582" CONTENT="matière." ID="tl_17_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="41" WIDTH="50" VPOS="1063" HPOS="1188"/>
-            <String HEIGHT="41" WIDTH="101" VPOS="1063" HPOS="986" CONTENT="" ID="tl_17_4" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="267" WIDTH="843" VPOS="1111" HPOS="131">
@@ -645,9 +641,7 @@
             <SP HEIGHT="48" WIDTH="17" VPOS="1929" HPOS="861"/>
             <String HEIGHT="48" WIDTH="182" VPOS="1929" HPOS="795" CONTENT="Luxembour" ID="tl_36_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_37" BASELINE="2011" HEIGHT="45" WIDTH="219" VPOS="1966" HPOS="181">
-            <String HEIGHT="45" WIDTH="253" VPOS="1966" HPOS="147" CONTENT="(Luxembourg)." ID="tl_37_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="39" WIDTH="611" VPOS="2005" HPOS="149">
           <TextLine ID="tl_38" BASELINE="2044" HEIGHT="46" WIDTH="621" VPOS="1998" HPOS="144">
@@ -724,9 +718,7 @@
             <SP HEIGHT="41" WIDTH="15" VPOS="2116" HPOS="903"/>
             <String HEIGHT="41" WIDTH="133" VPOS="2116" HPOS="845" CONTENT="(Luxen" ID="tl_41_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_42" BASELINE="2195" HEIGHT="39" WIDTH="111" VPOS="2156" HPOS="180">
-            <String HEIGHT="39" WIDTH="143" VPOS="2156" HPOS="148" CONTENT="bourg)." ID="tl_42_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_7" HEIGHT="44" WIDTH="823" VPOS="2189" HPOS="150">
           <TextLine ID="tl_43" BASELINE="2242" HEIGHT="61" WIDTH="833" VPOS="2181" HPOS="145">
@@ -773,9 +765,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="23" WIDTH="25" VPOS="2287" HPOS="136">
-          <TextLine ID="tl_45" BASELINE="2314" HEIGHT="38" WIDTH="37" VPOS="2276" HPOS="131">
-            <String HEIGHT="38" WIDTH="74" VPOS="2276" HPOS="94" CONTENT="82" ID="tl_45_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="934" VPOS="2370" HPOS="152"/>
         <GraphicalElement ID="r_7" HEIGHT="1648" WIDTH="4" VPOS="345" HPOS="0"/>

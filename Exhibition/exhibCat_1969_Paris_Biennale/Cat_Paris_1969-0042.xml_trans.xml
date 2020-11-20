@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2361" WIDTH="946" VPOS="0" HPOS="94">
         <TextBlock ID="r_1_1" HEIGHT="43" WIDTH="101" VPOS="47" HPOS="853">
-          <TextLine ID="tl_1" BASELINE="102" HEIGHT="64" WIDTH="112" VPOS="38" HPOS="846">
-            <String HEIGHT="64" WIDTH="131" VPOS="38" HPOS="827" CONTENT="CHILI" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="42" WIDTH="188" VPOS="193" HPOS="416">
-          <TextLine ID="tl_2" BASELINE="250" HEIGHT="70" WIDTH="199" VPOS="180" HPOS="410">
-            <String HEIGHT="70" WIDTH="249" VPOS="180" HPOS="360" CONTENT="PEINTURE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="70" WIDTH="707" VPOS="259" HPOS="134">
           <TextLine ID="tl_3" BASELINE="338" HEIGHT="88" WIDTH="715" VPOS="250" HPOS="130">
@@ -113,9 +109,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="43" WIDTH="177" VPOS="516" HPOS="428">
-          <TextLine ID="tl_7" BASELINE="566" HEIGHT="59" WIDTH="187" VPOS="507" HPOS="422">
-            <String HEIGHT="59" WIDTH="240" VPOS="507" HPOS="369" CONTENT="GRAVURE" ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="74" WIDTH="773" VPOS="581" HPOS="140">
           <TextLine ID="tl_8" BASELINE="658" HEIGHT="81" WIDTH="782" VPOS="577" HPOS="135">
@@ -196,9 +190,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="32" VPOS="2285" HPOS="969">
-          <TextLine ID="tl_12" BASELINE="2323" HEIGHT="47" WIDTH="43" VPOS="2276" HPOS="962">
-            <String HEIGHT="47" WIDTH="86" VPOS="2276" HPOS="919" CONTENT="41" ID="tl_12_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="10" WIDTH="142" VPOS="0" HPOS="556"/>
         <GraphicalElement ID="r_6" HEIGHT="12" WIDTH="367" VPOS="2349" HPOS="348"/>

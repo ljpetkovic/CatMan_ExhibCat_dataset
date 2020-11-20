@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2325" WIDTH="958" VPOS="48" HPOS="55">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="222" VPOS="54" HPOS="626">
-          <TextLine ID="tl_1" BASELINE="119" HEIGHT="70" WIDTH="233" VPOS="49" HPOS="620">
-            <String HEIGHT="70" WIDTH="266" VPOS="49" HPOS="587" CONTENT="URUGUAY" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="138" WIDTH="762" VPOS="439" HPOS="119">
           <TextLine ID="tl_2" BASELINE="513" HEIGHT="91" WIDTH="754" VPOS="422" HPOS="115">
@@ -119,9 +117,7 @@
             <SP HEIGHT="62" WIDTH="14" VPOS="774" HPOS="830"/>
             <String HEIGHT="62" WIDTH="124" VPOS="774" HPOS="775" CONTENT="(huile," ID="tl_6_11" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="868" HEIGHT="47" WIDTH="155" VPOS="821" HPOS="86">
-            <String HEIGHT="47" WIDTH="189" VPOS="821" HPOS="52" CONTENT="162x130)." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="51" WIDTH="466" VPOS="848" HPOS="65">
           <TextLine ID="tl_8" BASELINE="900" HEIGHT="62" WIDTH="477" VPOS="838" HPOS="59">
@@ -204,9 +200,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="32" WIDTH="152" VPOS="1021" HPOS="403">
-          <TextLine ID="tl_22" BASELINE="1064" HEIGHT="58" WIDTH="162" VPOS="1006" HPOS="398">
-            <String HEIGHT="58" WIDTH="208" VPOS="1006" HPOS="352" CONTENT="GRAVURE" ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="98" WIDTH="811" VPOS="1064" HPOS="95">
           <TextLine ID="tl_12" BASELINE="1134" HEIGHT="87" WIDTH="819" VPOS="1047" HPOS="90">
@@ -226,9 +220,7 @@
             <SP HEIGHT="87" WIDTH="15" VPOS="1047" HPOS="864"/>
             <String HEIGHT="87" WIDTH="106" VPOS="1047" HPOS="803" CONTENT="(Uru" ID="tl_12_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="1166" HEIGHT="45" WIDTH="88" VPOS="1121" HPOS="91">
-            <String HEIGHT="45" WIDTH="117" VPOS="1121" HPOS="62" CONTENT="guay)." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="67" WIDTH="793" VPOS="1133" HPOS="71">
           <TextLine ID="tl_14" BASELINE="1196" HEIGHT="68" WIDTH="800" VPOS="1128" HPOS="66">
@@ -294,9 +286,7 @@
             <SP HEIGHT="63" WIDTH="15" VPOS="1217" HPOS="871"/>
             <String HEIGHT="63" WIDTH="107" VPOS="1217" HPOS="810" CONTENT="(Uru" ID="tl_16_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_17" BASELINE="1318" HEIGHT="39" WIDTH="91" VPOS="1279" HPOS="93">
-            <String HEIGHT="39" WIDTH="121" VPOS="1279" HPOS="63" CONTENT="guay)." ID="tl_17_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_5" HEIGHT="61" WIDTH="600" VPOS="1295" HPOS="74">
           <TextLine ID="tl_18" BASELINE="1348" HEIGHT="55" WIDTH="609" VPOS="1293" HPOS="69">

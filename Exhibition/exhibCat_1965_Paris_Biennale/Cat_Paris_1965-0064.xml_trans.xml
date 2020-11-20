@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2292" WIDTH="933" VPOS="81" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="44" WIDTH="327" VPOS="85" HPOS="597">
-          <TextLine ID="tl_1" BASELINE="144" HEIGHT="84" WIDTH="335" VPOS="60" HPOS="591">
-            <String HEIGHT="84" WIDTH="380" VPOS="60" HPOS="546" CONTENT="GUATEMAL" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="41" WIDTH="315" VPOS="192" HPOS="320">
           <TextLine ID="tl_2" BASELINE="237" HEIGHT="56" WIDTH="323" VPOS="181" HPOS="314">
@@ -63,11 +61,11 @@
           <TextLine ID="tl_4" BASELINE="344" HEIGHT="46" WIDTH="548" VPOS="298" HPOS="97">
             <String HEIGHT="46" WIDTH="391" VPOS="298" HPOS="71" CONTENT="Guatemala)." ID="tl_4_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="26" VPOS="298" HPOS="462"/>
-            <String HEIGHT="46" WIDTH="104" VPOS="298" HPOS="384" CONTENT="" ID="tl_4_2" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="46" WIDTH="26" VPOS="298" HPOS="488"/>
             <String HEIGHT="46" WIDTH="130" VPOS="298" HPOS="410" CONTENT="1" ID="tl_4_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="26" VPOS="298" HPOS="541"/>
-            <String HEIGHT="46" WIDTH="104" VPOS="298" HPOS="462" CONTENT="" ID="tl_4_4" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="46" WIDTH="26" VPOS="298" HPOS="567"/>
             <String HEIGHT="46" WIDTH="183" VPOS="298" HPOS="488" CONTENT="or¬" ID="tl_4_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="26" VPOS="298" HPOS="671"/>
@@ -162,9 +160,7 @@
             <SP HEIGHT="61" WIDTH="16" VPOS="488" HPOS="896"/>
             <String HEIGHT="61" WIDTH="64" VPOS="488" HPOS="832" CONTENT="du" ID="tl_9_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="584" HEIGHT="40" WIDTH="163" VPOS="544" HPOS="93">
-            <String HEIGHT="40" WIDTH="193" VPOS="544" HPOS="63" CONTENT="Guatémala)." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="48" WIDTH="627" VPOS="567" HPOS="70">
           <TextLine ID="tl_11" BASELINE="620" HEIGHT="61" WIDTH="636" VPOS="559" HPOS="64">
@@ -205,9 +201,7 @@
             <SP HEIGHT="64" WIDTH="14" VPOS="611" HPOS="843"/>
             <String HEIGHT="64" WIDTH="111" VPOS="611" HPOS="787" CONTENT="Guate" ID="tl_12_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="709" HEIGHT="41" WIDTH="86" VPOS="668" HPOS="95">
-            <String HEIGHT="41" WIDTH="115" VPOS="668" HPOS="66" CONTENT="mala)." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_10" HEIGHT="52" WIDTH="681" VPOS="688" HPOS="69">
           <TextLine ID="tl_14" BASELINE="736" HEIGHT="58" WIDTH="689" VPOS="678" HPOS="65">
@@ -233,9 +227,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_11" HEIGHT="31" WIDTH="150" VPOS="766" HPOS="404">
-          <TextLine ID="tl_15" BASELINE="811" HEIGHT="63" WIDTH="160" VPOS="748" HPOS="399">
-            <String HEIGHT="63" WIDTH="206" VPOS="748" HPOS="353" CONTENT="GRAVURE" ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_12" HEIGHT="87" WIDTH="798" VPOS="815" HPOS="99">
           <TextLine ID="tl_16" BASELINE="882" HEIGHT="69" WIDTH="804" VPOS="813" HPOS="96">
@@ -257,9 +249,7 @@
             <SP HEIGHT="69" WIDTH="15" VPOS="813" HPOS="900"/>
             <String HEIGHT="69" WIDTH="58" VPOS="813" HPOS="842" CONTENT="du" ID="tl_16_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_17" BASELINE="904" HEIGHT="42" WIDTH="162" VPOS="862" HPOS="94">
-            <String HEIGHT="42" WIDTH="191" VPOS="862" HPOS="65" CONTENT="Guatemala)." ID="tl_17_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_13" HEIGHT="87" WIDTH="829" VPOS="882" HPOS="69">
           <TextLine ID="tl_18" BASELINE="938" HEIGHT="52" WIDTH="838" VPOS="886" HPOS="64">
@@ -364,9 +354,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="23" WIDTH="29" VPOS="2272" HPOS="899">
-          <TextLine ID="tl_24" BASELINE="2310" HEIGHT="48" WIDTH="39" VPOS="2262" HPOS="894">
-            <String HEIGHT="48" WIDTH="78" VPOS="2262" HPOS="855" CONTENT="63" ID="tl_24_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="6" WIDTH="224" VPOS="2367" HPOS="0"/>
         <GraphicalElement ID="r_5" HEIGHT="4" WIDTH="223" VPOS="2369" HPOS="224"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2385" WIDTH="1132">
       <PrintSpace HEIGHT="2385" WIDTH="1132" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="325" VPOS="72" HPOS="731">
-          <TextLine ID="tl_1" BASELINE="133" HEIGHT="72" WIDTH="336" VPOS="61" HPOS="725">
-            <String HEIGHT="72" WIDTH="381" VPOS="61" HPOS="680" CONTENT="SOMMAIRE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="59" WIDTH="899" VPOS="453" HPOS="89">
           <TextLine ID="tl_2" BASELINE="528" HEIGHT="96" WIDTH="911" VPOS="432" HPOS="83">
@@ -39,9 +37,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="34" WIDTH="182" VPOS="586" HPOS="91">
-          <TextLine ID="tl_3" BASELINE="631" HEIGHT="54" WIDTH="193" VPOS="577" HPOS="85">
-            <String HEIGHT="54" WIDTH="236" VPOS="577" HPOS="42" CONTENT="CATALOGUE" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="53" WIDTH="839" VPOS="648" HPOS="152">
           <TextLine ID="tl_4" BASELINE="705" HEIGHT="65" WIDTH="849" VPOS="640" HPOS="146">
@@ -129,9 +125,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="28" WIDTH="16" VPOS="2291" HPOS="1016">
-          <TextLine ID="tl_13" BASELINE="2324" HEIGHT="55" WIDTH="25" VPOS="2269" HPOS="1011">
-            <String HEIGHT="55" WIDTH="75" VPOS="2269" HPOS="961" CONTENT="5" ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="32" WIDTH="457" VPOS="0" HPOS="410"/>
         <GraphicalElement ID="r_5" HEIGHT="18" WIDTH="221" VPOS="0" HPOS="867"/>

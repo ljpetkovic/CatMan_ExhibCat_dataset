@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2373" WIDTH="944" VPOS="0" HPOS="68">
         <TextBlock ID="r_1_1" HEIGHT="49" WIDTH="269" VPOS="63" HPOS="664">
-          <TextLine ID="tl_1" BASELINE="123" HEIGHT="65" WIDTH="279" VPOS="58" HPOS="658">
-            <String HEIGHT="65" WIDTH="322" VPOS="58" HPOS="615" CONTENT="PANAMA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="105" WIDTH="738" VPOS="454" HPOS="137">
           <TextLine ID="tl_2" BASELINE="527" HEIGHT="84" WIDTH="748" VPOS="443" HPOS="131">
@@ -41,9 +39,7 @@
             <SP HEIGHT="84" WIDTH="17" VPOS="443" HPOS="828"/>
             <String HEIGHT="84" WIDTH="119" VPOS="443" HPOS="760" CONTENT="Arbo" ID="tl_2_5" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="569" HEIGHT="49" WIDTH="67" VPOS="520" HPOS="131">
-            <String HEIGHT="49" WIDTH="101" VPOS="520" HPOS="98" CONTENT="leda" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="55" WIDTH="644" VPOS="546" HPOS="140">
           <TextLine ID="tl_4" BASELINE="609" HEIGHT="76" WIDTH="655" VPOS="533" HPOS="134">
@@ -246,9 +242,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_10" HEIGHT="33" WIDTH="184" VPOS="1270" HPOS="398">
-          <TextLine ID="tl_16" BASELINE="1314" HEIGHT="53" WIDTH="193" VPOS="1261" HPOS="394">
-            <String HEIGHT="53" WIDTH="236" VPOS="1261" HPOS="351" CONTENT="SCULPTURE" ID="tl_16_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_11" HEIGHT="65" WIDTH="792" VPOS="1314" HPOS="117">
           <TextLine ID="tl_17" BASELINE="1369" HEIGHT="52" WIDTH="801" VPOS="1317" HPOS="112">
@@ -297,9 +291,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="25" WIDTH="30" VPOS="2262" HPOS="926">
-          <TextLine ID="tl_19" BASELINE="2293" HEIGHT="42" WIDTH="42" VPOS="2251" HPOS="919">
-            <String HEIGHT="42" WIDTH="84" VPOS="2251" HPOS="877" CONTENT="93" ID="tl_19_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="20" WIDTH="221" VPOS="0" HPOS="791"/>
         <GraphicalElement ID="r_6" HEIGHT="4" WIDTH="197" VPOS="2369" HPOS="124"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1086">
       <PrintSpace HEIGHT="2112" WIDTH="957" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="28" WIDTH="158" VPOS="614" HPOS="507">
-          <TextLine ID="tl_1" BASELINE="654" HEIGHT="49" WIDTH="167" VPOS="605" HPOS="502">
-            <String HEIGHT="49" WIDTH="215" VPOS="605" HPOS="454" CONTENT="GRAVURE" ID="tl_1_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="45" WIDTH="753" VPOS="670" HPOS="159">
           <TextLine ID="tl_2" BASELINE="714" HEIGHT="51" WIDTH="762" VPOS="663" HPOS="154">
@@ -352,7 +350,7 @@
           <TextLine ID="tl_17" BASELINE="1270" HEIGHT="54" WIDTH="706" VPOS="1216" HPOS="104">
             <String HEIGHT="54" WIDTH="177" VPOS="1216" HPOS="90" CONTENT="33" ID="tl_17_1" STYLEREFS="FONT1"/>
             <SP HEIGHT="54" WIDTH="14" VPOS="1216" HPOS="267"/>
-            <String HEIGHT="54" WIDTH="54" VPOS="1216" HPOS="226" CONTENT="" ID="tl_17_2" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="54" WIDTH="14" VPOS="1216" HPOS="281"/>
             <String HEIGHT="54" WIDTH="81" VPOS="1216" HPOS="240" CONTENT="En" ID="tl_17_3" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="14" VPOS="1216" HPOS="321"/>

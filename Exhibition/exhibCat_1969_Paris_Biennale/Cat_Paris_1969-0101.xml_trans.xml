@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="194" VPOS="90" HPOS="41">
-          <TextLine ID="tl_1" BASELINE="149" HEIGHT="74" WIDTH="203" VPOS="75" HPOS="37">
-            <String HEIGHT="74" WIDTH="244" VPOS="75" HPOS="-4" CONTENT="PEROU" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="183" VPOS="218" HPOS="474">
-          <TextLine ID="tl_3" BASELINE="265" HEIGHT="66" WIDTH="192" VPOS="199" HPOS="470">
-            <String HEIGHT="66" WIDTH="247" VPOS="199" HPOS="415" CONTENT="GRAVURE" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="37" WIDTH="624" VPOS="296" HPOS="161">
           <TextLine ID="tl_4" BASELINE="337" HEIGHT="49" WIDTH="633" VPOS="288" HPOS="156">
@@ -133,9 +129,7 @@
             <SP HEIGHT="67" WIDTH="16" VPOS="588" HPOS="884"/>
             <String HEIGHT="67" WIDTH="156" VPOS="588" HPOS="822" CONTENT="Moquegua" ID="tl_9_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="671" HEIGHT="46" WIDTH="124" VPOS="625" HPOS="152">
-            <String HEIGHT="46" WIDTH="155" VPOS="625" HPOS="121" CONTENT="(Pérou)." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="69" WIDTH="863" VPOS="671" HPOS="111">
           <TextLine ID="tl_11" BASELINE="715" HEIGHT="61" WIDTH="872" VPOS="654" HPOS="107">
@@ -202,9 +196,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="29" WIDTH="46" VPOS="2291" HPOS="94">
-          <TextLine ID="tl_15" BASELINE="2336" HEIGHT="55" WIDTH="57" VPOS="2281" HPOS="89">
-            <String HEIGHT="55" WIDTH="95" VPOS="2281" HPOS="51" CONTENT="100" ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="34" WIDTH="536" VPOS="0" HPOS="365"/>
         <GraphicalElement ID="r_8" HEIGHT="12" WIDTH="192" VPOS="21" HPOS="364"/>

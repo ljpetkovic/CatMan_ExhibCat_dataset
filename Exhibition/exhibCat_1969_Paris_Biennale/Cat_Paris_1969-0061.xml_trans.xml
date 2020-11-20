@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2248" WIDTH="973" VPOS="71" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="361" VPOS="104" HPOS="49">
-          <TextLine ID="tl_1" BASELINE="163" HEIGHT="67" WIDTH="370" VPOS="96" HPOS="45">
-            <String HEIGHT="67" WIDTH="414" VPOS="96" HPOS="1" CONTENT="ETATS" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="33" WIDTH="117" VPOS="239" HPOS="512">
-          <TextLine ID="tl_2" BASELINE="280" HEIGHT="53" WIDTH="125" VPOS="227" HPOS="508">
-            <String HEIGHT="53" WIDTH="175" VPOS="227" HPOS="458" CONTENT="FILMS" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="44" WIDTH="663" VPOS="300" HPOS="163">
           <TextLine ID="tl_3" BASELINE="350" HEIGHT="58" WIDTH="671" VPOS="292" HPOS="159">
@@ -146,9 +142,7 @@
             <SP HEIGHT="62" WIDTH="13" VPOS="571" HPOS="883"/>
             <String HEIGHT="62" WIDTH="131" VPOS="571" HPOS="831" CONTENT="Southem," ID="tl_9_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="649" HEIGHT="47" WIDTH="163" VPOS="602" HPOS="154">
-            <String HEIGHT="47" WIDTH="193" VPOS="602" HPOS="124" CONTENT="Californie." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="45" WIDTH="562" VPOS="655" HPOS="157">
           <TextLine ID="tl_11" BASELINE="693" HEIGHT="41" WIDTH="570" VPOS="652" HPOS="153">

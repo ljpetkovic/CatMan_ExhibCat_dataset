@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1066">
       <PrintSpace HEIGHT="2361" WIDTH="1039" VPOS="0" HPOS="27">
         <TextBlock ID="r_1_1" HEIGHT="47" WIDTH="271" VPOS="66" HPOS="701">
-          <TextLine ID="tl_1" BASELINE="122" HEIGHT="70" WIDTH="282" VPOS="52" HPOS="695">
-            <String HEIGHT="70" WIDTH="320" VPOS="52" HPOS="657" CONTENT="BULGARIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="40" WIDTH="193" VPOS="207" HPOS="397">
-          <TextLine ID="tl_2" BASELINE="253" HEIGHT="66" WIDTH="204" VPOS="187" HPOS="391">
-            <String HEIGHT="66" WIDTH="255" VPOS="187" HPOS="340" CONTENT="PEINTURE" ID="tl_2_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="58" WIDTH="758" VPOS="277" HPOS="101">
           <TextLine ID="tl_3" BASELINE="340" HEIGHT="71" WIDTH="768" VPOS="269" HPOS="96">
@@ -104,9 +100,7 @@
             <SP HEIGHT="71" WIDTH="15" VPOS="392" HPOS="834"/>
             <String HEIGHT="71" WIDTH="177" VPOS="392" HPOS="775" CONTENT="Nationale," ID="tl_6_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="498" HEIGHT="44" WIDTH="89" VPOS="454" HPOS="97">
-            <String HEIGHT="44" WIDTH="119" VPOS="454" HPOS="67" CONTENT="Sofia." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_5" HEIGHT="55" WIDTH="588" VPOS="480" HPOS="75">
           <TextLine ID="tl_8" BASELINE="541" HEIGHT="78" WIDTH="599" VPOS="463" HPOS="69">
@@ -126,9 +120,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="38" WIDTH="228" VPOS="592" HPOS="386">
-          <TextLine ID="tl_9" BASELINE="642" HEIGHT="64" WIDTH="239" VPOS="578" HPOS="380">
-            <String HEIGHT="64" WIDTH="292" VPOS="578" HPOS="327" CONTENT="SCULPTURE" ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="57" WIDTH="841" VPOS="660" HPOS="112">
           <TextLine ID="tl_10" BASELINE="724" HEIGHT="77" WIDTH="849" VPOS="647" HPOS="107">
@@ -230,9 +222,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="39" WIDTH="181" VPOS="944" HPOS="418">
-          <TextLine ID="tl_15" BASELINE="993" HEIGHT="61" WIDTH="192" VPOS="932" HPOS="412">
-            <String HEIGHT="61" WIDTH="247" VPOS="932" HPOS="357" CONTENT="GRAVURE" ID="tl_15_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="56" WIDTH="847" VPOS="1014" HPOS="116">
           <TextLine ID="tl_16" BASELINE="1070" HEIGHT="69" WIDTH="858" VPOS="1001" HPOS="110">
@@ -396,9 +386,7 @@
             <SP HEIGHT="74" WIDTH="15" VPOS="1420" HPOS="934"/>
             <String HEIGHT="74" WIDTH="105" VPOS="1420" HPOS="874" CONTENT="(Bul" ID="tl_24_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_25" BASELINE="1527" HEIGHT="45" WIDTH="102" VPOS="1482" HPOS="122">
-            <String HEIGHT="45" WIDTH="131" VPOS="1482" HPOS="93" CONTENT="garie)." ID="tl_25_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_3" HEIGHT="105" WIDTH="890" VPOS="1508" HPOS="87">
           <TextLine ID="tl_26" BASELINE="1571" HEIGHT="78" WIDTH="899" VPOS="1493" HPOS="82">
@@ -452,9 +440,7 @@
             <SP HEIGHT="55" WIDTH="14" VPOS="1600" HPOS="900"/>
             <String HEIGHT="55" WIDTH="138" VPOS="1600" HPOS="845" CONTENT="Bulgare," ID="tl_28_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_29" BASELINE="1689" HEIGHT="41" WIDTH="88" VPOS="1648" HPOS="129">
-            <String HEIGHT="41" WIDTH="117" VPOS="1648" HPOS="100" CONTENT="Sofia." ID="tl_29_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_5" HEIGHT="55" WIDTH="798" VPOS="1684" HPOS="135">
           <TextLine ID="tl_30" BASELINE="1732" HEIGHT="52" WIDTH="807" VPOS="1680" HPOS="130">
@@ -493,14 +479,10 @@
             <SP HEIGHT="55" WIDTH="14" VPOS="1724" HPOS="904"/>
             <String HEIGHT="55" WIDTH="138" VPOS="1724" HPOS="849" CONTENT="Bulgare," ID="tl_31_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_32" BASELINE="1817" HEIGHT="45" WIDTH="89" VPOS="1772" HPOS="131">
-            <String HEIGHT="45" WIDTH="119" VPOS="1772" HPOS="101" CONTENT="Sofia." ID="tl_32_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="29" WIDTH="33" VPOS="2274" HPOS="964">
-          <TextLine ID="tl_33" BASELINE="2311" HEIGHT="49" WIDTH="45" VPOS="2262" HPOS="957">
-            <String HEIGHT="49" WIDTH="90" VPOS="2262" HPOS="912" CONTENT="35" ID="tl_33_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="30" WIDTH="493" VPOS="0" HPOS="278"/>
         <GraphicalElement ID="r_8" HEIGHT="8" WIDTH="294" VPOS="0" HPOS="771"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="239" VPOS="97" HPOS="40">
-          <TextLine ID="tl_1" BASELINE="152" HEIGHT="67" WIDTH="249" VPOS="85" HPOS="35">
-            <String HEIGHT="67" WIDTH="287" VPOS="85" HPOS="-3" CONTENT="PANAMA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="87" WIDTH="767" VPOS="476" HPOS="207">
           <TextLine ID="tl_2" BASELINE="522" HEIGHT="53" WIDTH="716" VPOS="469" HPOS="202">
@@ -213,9 +211,7 @@
             <SP HEIGHT="39" WIDTH="19" VPOS="1040" HPOS="945"/>
             <String HEIGHT="39" WIDTH="112" VPOS="1040" HPOS="870" CONTENT="sub" ID="tl_13_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_14" BASELINE="1136" HEIGHT="62" WIDTH="137" VPOS="1074" HPOS="102">
-            <String HEIGHT="62" WIDTH="171" VPOS="1074" HPOS="68" CONTENT="jective." ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="334" WIDTH="869" VPOS="1126" HPOS="111">
           <TextLine ID="tl_15" BASELINE="1163" HEIGHT="49" WIDTH="816" VPOS="1114" HPOS="166">
@@ -347,9 +343,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="33" WIDTH="194" VPOS="1709" HPOS="463">
-          <TextLine ID="tl_23" BASELINE="1751" HEIGHT="53" WIDTH="203" VPOS="1698" HPOS="458">
-            <String HEIGHT="53" WIDTH="254" VPOS="1698" HPOS="407" CONTENT="PEINTURE" ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="69" WIDTH="828" VPOS="1779" HPOS="157">
           <TextLine ID="tl_24" BASELINE="1812" HEIGHT="48" WIDTH="836" VPOS="1764" HPOS="154">
@@ -371,9 +365,7 @@
             <SP HEIGHT="48" WIDTH="16" VPOS="1764" HPOS="924"/>
             <String HEIGHT="48" WIDTH="131" VPOS="1764" HPOS="859" CONTENT="Carlos" ID="tl_24_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_25" BASELINE="1856" HEIGHT="45" WIDTH="155" VPOS="1811" HPOS="152">
-            <String HEIGHT="45" WIDTH="189" VPOS="1811" HPOS="118" CONTENT="(Panama)." ID="tl_25_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="36" WIDTH="531" VPOS="1857" HPOS="127">
           <TextLine ID="tl_26" BASELINE="1899" HEIGHT="56" WIDTH="540" VPOS="1843" HPOS="123">
@@ -437,9 +429,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="33" WIDTH="230" VPOS="2034" HPOS="444">
-          <TextLine ID="tl_29" BASELINE="2086" HEIGHT="68" WIDTH="238" VPOS="2018" HPOS="440">
-            <String HEIGHT="68" WIDTH="291" VPOS="2018" HPOS="387" CONTENT="SCULPTURE" ID="tl_29_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_2" HEIGHT="39" WIDTH="791" VPOS="2103" HPOS="157">
           <TextLine ID="tl_30" BASELINE="2144" HEIGHT="49" WIDTH="800" VPOS="2095" HPOS="153">
@@ -528,9 +518,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="27" WIDTH="32" VPOS="2300" HPOS="109">
-          <TextLine ID="tl_34" BASELINE="2334" HEIGHT="46" WIDTH="41" VPOS="2288" HPOS="104">
-            <String HEIGHT="46" WIDTH="82" VPOS="2288" HPOS="63" CONTENT="96" ID="tl_34_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="3" WIDTH="1062" VPOS="2358" HPOS="0"/>
         <GraphicalElement ID="r_8" HEIGHT="64" WIDTH="1062" VPOS="0" HPOS="0"/>

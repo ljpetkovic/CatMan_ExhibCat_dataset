@@ -565,9 +565,7 @@
             <SP HEIGHT="50" WIDTH="15" VPOS="1492" HPOS="873"/>
             <String HEIGHT="50" WIDTH="166" VPOS="1492" HPOS="813" CONTENT="Quatrième" ID="tl_32_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_33" BASELINE="1565" HEIGHT="46" WIDTH="149" VPOS="1519" HPOS="86">
-            <String HEIGHT="46" WIDTH="182" VPOS="1519" HPOS="53" CONTENT="Biennale." ID="tl_33_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="671" WIDTH="894" VPOS="1556" HPOS="79">
           <TextLine ID="tl_34" BASELINE="1599" HEIGHT="45" WIDTH="892" VPOS="1554" HPOS="86">
@@ -929,9 +927,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="29" WIDTH="48" VPOS="2271" HPOS="77">
-          <TextLine ID="tl_54" BASELINE="2308" HEIGHT="42" WIDTH="59" VPOS="2266" HPOS="72">
-            <String HEIGHT="42" WIDTH="98" VPOS="2266" HPOS="33" CONTENT="184" ID="tl_54_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="25" WIDTH="553" VPOS="0" HPOS="1"/>
         <GraphicalElement ID="r_6" HEIGHT="627" WIDTH="10" VPOS="1" HPOS="0"/>

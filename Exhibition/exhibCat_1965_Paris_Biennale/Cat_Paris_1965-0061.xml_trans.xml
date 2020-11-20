@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2291" WIDTH="1086" VPOS="82" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="144" VPOS="95" HPOS="31">
-          <TextLine ID="tl_1" BASELINE="144" HEIGHT="60" WIDTH="155" VPOS="84" HPOS="25">
-            <String HEIGHT="60" WIDTH="181" VPOS="84" HPOS="-1" CONTENT="GRÈCE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="112" WIDTH="759" VPOS="576" HPOS="157">
           <TextLine ID="tl_2" BASELINE="618" HEIGHT="52" WIDTH="767" VPOS="566" HPOS="153">
@@ -328,7 +326,7 @@
             <SP HEIGHT="54" WIDTH="18" VPOS="1350" HPOS="397"/>
             <String HEIGHT="54" WIDTH="126" VPOS="1350" HPOS="343" CONTENT="soi" ID="tl_19_5" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="18" VPOS="1350" HPOS="469"/>
-            <String HEIGHT="54" WIDTH="72" VPOS="1350" HPOS="415" CONTENT="" ID="tl_19_6" STYLEREFS="FONT0"/>
+            
             <SP HEIGHT="54" WIDTH="18" VPOS="1350" HPOS="487"/>
             <String HEIGHT="54" WIDTH="126" VPOS="1350" HPOS="433" CONTENT="est" ID="tl_19_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="18" VPOS="1350" HPOS="558"/>

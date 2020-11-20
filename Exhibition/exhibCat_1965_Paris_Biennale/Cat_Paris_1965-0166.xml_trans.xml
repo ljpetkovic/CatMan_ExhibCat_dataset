@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1132">
       <PrintSpace HEIGHT="2373" WIDTH="1132" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="53" WIDTH="268" VPOS="48" HPOS="755">
-          <TextLine ID="tl_1" BASELINE="105" HEIGHT="64" WIDTH="280" VPOS="41" HPOS="748">
-            <String HEIGHT="64" WIDTH="320" VPOS="41" HPOS="708" CONTENT="THÉATRE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_7_1" HEIGHT="26" WIDTH="39" VPOS="2210" HPOS="1014">
-          <TextLine ID="tl_14" BASELINE="2253" HEIGHT="47" WIDTH="52" VPOS="2206" HPOS="1007">
-            <String HEIGHT="47" WIDTH="87" VPOS="2206" HPOS="972" CONTENT="165" ID="tl_14_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_8" HEIGHT="13" WIDTH="168" VPOS="0" HPOS="964"/>
         <GraphicalElement ID="r_9" HEIGHT="6" WIDTH="565" VPOS="2367" HPOS="0"/>

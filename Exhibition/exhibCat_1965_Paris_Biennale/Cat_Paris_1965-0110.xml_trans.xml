@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2321" WIDTH="929" VPOS="52" HPOS="44">
         <TextBlock ID="r_1_1" HEIGHT="45" WIDTH="156" VPOS="57" HPOS="767">
-          <TextLine ID="tl_1" BASELINE="113" HEIGHT="60" WIDTH="168" VPOS="53" HPOS="760">
-            <String HEIGHT="60" WIDTH="196" VPOS="53" HPOS="732" CONTENT="SUEDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="118" WIDTH="820" VPOS="193" HPOS="70">
           <TextLine ID="tl_2" BASELINE="284" HEIGHT="98" WIDTH="830" VPOS="186" HPOS="64">
@@ -49,9 +47,7 @@
             <SP HEIGHT="98" WIDTH="15" VPOS="186" HPOS="802"/>
             <String HEIGHT="98" WIDTH="154" VPOS="186" HPOS="740" CONTENT="s’expri" ID="tl_2_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="315" HEIGHT="41" WIDTH="63" VPOS="274" HPOS="64">
-            <String HEIGHT="41" WIDTH="95" VPOS="274" HPOS="33" CONTENT="mer." ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_2" HEIGHT="299" WIDTH="830" VPOS="284" HPOS="72">
           <TextLine ID="tl_4" BASELINE="359" HEIGHT="85" WIDTH="802" VPOS="274" HPOS="97">
@@ -164,9 +160,7 @@
             <SP HEIGHT="84" WIDTH="16" VPOS="471" HPOS="825"/>
             <String HEIGHT="84" WIDTH="145" VPOS="471" HPOS="761" CONTENT="décora" ID="tl_9_6" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_10" BASELINE="596" HEIGHT="50" WIDTH="73" VPOS="546" HPOS="68">
-            <String HEIGHT="50" WIDTH="97" VPOS="546" HPOS="44" CONTENT="tives." ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="409" WIDTH="840" VPOS="564" HPOS="76">
           <TextLine ID="tl_11" BASELINE="637" HEIGHT="72" WIDTH="813" VPOS="565" HPOS="98">
@@ -596,9 +590,7 @@
             <SP HEIGHT="55" WIDTH="13" VPOS="1865" HPOS="921"/>
             <String HEIGHT="55" WIDTH="93" VPOS="1865" HPOS="868" CONTENT="Ralph" ID="tl_36_12" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_37" BASELINE="1963" HEIGHT="43" WIDTH="169" VPOS="1920" HPOS="125">
-            <String HEIGHT="43" WIDTH="200" VPOS="1920" HPOS="94" CONTENT="Herrmanns.»" ID="tl_37_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_5" HEIGHT="92" WIDTH="860" VPOS="1932" HPOS="100">
           <TextLine ID="tl_38" BASELINE="1996" HEIGHT="63" WIDTH="869" VPOS="1933" HPOS="95">
@@ -626,9 +618,7 @@
             <SP HEIGHT="63" WIDTH="13" VPOS="1933" HPOS="888"/>
             <String HEIGHT="63" WIDTH="126" VPOS="1933" HPOS="838" CONTENT="Jeanette" ID="tl_38_12" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_39" BASELINE="2026" HEIGHT="39" WIDTH="113" VPOS="1987" HPOS="127">
-            <String HEIGHT="39" WIDTH="141" VPOS="1987" HPOS="99" CONTENT="Bonnier." ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="101" WIDTH="823" VPOS="2012" HPOS="102">
           <TextLine ID="tl_40" BASELINE="2062" HEIGHT="42" WIDTH="719" VPOS="2020" HPOS="127">
@@ -745,9 +735,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="24" WIDTH="41" VPOS="2240" HPOS="926">
-          <TextLine ID="tl_46" BASELINE="2269" HEIGHT="46" WIDTH="53" VPOS="2223" HPOS="919">
-            <String HEIGHT="46" WIDTH="88" VPOS="2223" HPOS="884" CONTENT="109" ID="tl_46_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="19" WIDTH="233" VPOS="2354" HPOS="573"/>
         <GraphicalElement ID="r_6" HEIGHT="8" WIDTH="252" VPOS="2365" HPOS="321"/>

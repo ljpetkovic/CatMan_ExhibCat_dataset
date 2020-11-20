@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="160" VPOS="99" HPOS="60">
-          <TextLine ID="tl_1" BASELINE="150" HEIGHT="62" WIDTH="171" VPOS="88" HPOS="54">
-            <String HEIGHT="62" WIDTH="202" VPOS="88" HPOS="23" CONTENT="CUBA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="36" WIDTH="365" VPOS="224" HPOS="400">
           <TextLine ID="tl_2" BASELINE="274" HEIGHT="65" WIDTH="376" VPOS="209" HPOS="395">
@@ -101,9 +99,7 @@
             <SP HEIGHT="71" WIDTH="15" VPOS="411" HPOS="957"/>
             <String HEIGHT="71" WIDTH="73" VPOS="411" HPOS="899" CONTENT="Ple" ID="tl_6_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="507" HEIGHT="44" WIDTH="147" VPOS="463" HPOS="170">
-            <String HEIGHT="44" WIDTH="180" VPOS="463" HPOS="137" CONTENT="tographe." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_5" HEIGHT="69" WIDTH="787" VPOS="506" HPOS="177">
           <TextLine ID="tl_8" BASELINE="519" HEIGHT="59" WIDTH="839" VPOS="460" HPOS="121">
@@ -127,9 +123,7 @@
             <SP HEIGHT="59" WIDTH="15" VPOS="460" HPOS="899"/>
             <String HEIGHT="59" WIDTH="122" VPOS="460" HPOS="838" CONTENT="(Cubal" ID="tl_8_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_9" BASELINE="582" HEIGHT="43" WIDTH="202" VPOS="539" HPOS="172">
-            <String HEIGHT="43" WIDTH="236" VPOS="539" HPOS="138" CONTENT="Photographe." ID="tl_9_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="70" WIDTH="791" VPOS="582" HPOS="176">
           <TextLine ID="tl_10" BASELINE="634" HEIGHT="55" WIDTH="802" VPOS="579" HPOS="171">
@@ -179,9 +173,7 @@
             <SP HEIGHT="51" WIDTH="15" VPOS="653" HPOS="972"/>
             <String HEIGHT="51" WIDTH="59" VPOS="653" HPOS="913" CONTENT="Cr" ID="tl_12_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_13" BASELINE="730" HEIGHT="42" WIDTH="111" VPOS="688" HPOS="169">
-            <String HEIGHT="42" WIDTH="143" VPOS="688" HPOS="137" CONTENT="phiste." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="73" WIDTH="886" VPOS="734" HPOS="177">
           <TextLine ID="tl_14" BASELINE="788" HEIGHT="62" WIDTH="894" VPOS="726" HPOS="174">
@@ -240,7 +232,7 @@
             <SP HEIGHT="66" WIDTH="17" VPOS="989" HPOS="965"/>
             <String HEIGHT="66" WIDTH="190" VPOS="989" HPOS="913" CONTENT="(Cuba)." ID="tl_20_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="66" WIDTH="17" VPOS="989" HPOS="1102"/>
-            <String HEIGHT="66" WIDTH="34" VPOS="989" HPOS="1034" CONTENT="" ID="tl_20_10" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="35" WIDTH="320" VPOS="1040" HPOS="146">
@@ -272,7 +264,7 @@
             <SP HEIGHT="67" WIDTH="18" VPOS="1079" HPOS="963"/>
             <String HEIGHT="67" WIDTH="193" VPOS="1079" HPOS="910" CONTENT="(Cuba)." ID="tl_22_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="67" WIDTH="18" VPOS="1079" HPOS="1103"/>
-            <String HEIGHT="67" WIDTH="35" VPOS="1079" HPOS="1033" CONTENT="" ID="tl_22_10" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_16" HEIGHT="48" WIDTH="917" VPOS="1133" HPOS="146">
@@ -316,7 +308,7 @@
             <SP HEIGHT="55" WIDTH="16" VPOS="1172" HPOS="969"/>
             <String HEIGHT="55" WIDTH="179" VPOS="1172" HPOS="921" CONTENT="(Cuba)." ID="tl_24_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="55" WIDTH="16" VPOS="1172" HPOS="1100"/>
-            <String HEIGHT="55" WIDTH="33" VPOS="1172" HPOS="1034" CONTENT="" ID="tl_24_10" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_18" HEIGHT="39" WIDTH="932" VPOS="1226" HPOS="130">
@@ -335,7 +327,7 @@
             <SP HEIGHT="53" WIDTH="18" VPOS="1220" HPOS="960"/>
             <String HEIGHT="53" WIDTH="196" VPOS="1220" HPOS="907" CONTENT="Havane." ID="tl_25_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="53" WIDTH="18" VPOS="1220" HPOS="1103"/>
-            <String HEIGHT="53" WIDTH="36" VPOS="1220" HPOS="1031" CONTENT="" ID="tl_25_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_19" HEIGHT="38" WIDTH="887" VPOS="1276" HPOS="176">
@@ -358,7 +350,7 @@
             <SP HEIGHT="46" WIDTH="16" VPOS="1267" HPOS="972"/>
             <String HEIGHT="46" WIDTH="176" VPOS="1267" HPOS="924" CONTENT="(Cuba)." ID="tl_26_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="16" VPOS="1267" HPOS="1100"/>
-            <String HEIGHT="46" WIDTH="32" VPOS="1267" HPOS="1036" CONTENT="" ID="tl_26_10" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_20" HEIGHT="39" WIDTH="932" VPOS="1318" HPOS="131">
@@ -381,7 +373,7 @@
             <SP HEIGHT="46" WIDTH="17" VPOS="1313" HPOS="962"/>
             <String HEIGHT="46" WIDTH="192" VPOS="1313" HPOS="910" CONTENT="Havane." ID="tl_27_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="46" WIDTH="17" VPOS="1313" HPOS="1102"/>
-            <String HEIGHT="46" WIDTH="35" VPOS="1313" HPOS="1032" CONTENT="" ID="tl_27_10" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_21" HEIGHT="40" WIDTH="800" VPOS="1367" HPOS="177">
@@ -421,9 +413,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="33" WIDTH="116" VPOS="1550" HPOS="518">
-          <TextLine ID="tl_30" BASELINE="1594" HEIGHT="62" WIDTH="126" VPOS="1532" HPOS="514">
-            <String HEIGHT="62" WIDTH="176" VPOS="1532" HPOS="464" CONTENT="FILMS" ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="44" WIDTH="806" VPOS="1634" HPOS="175">
           <TextLine ID="tl_31" BASELINE="1675" HEIGHT="45" WIDTH="814" VPOS="1630" HPOS="171">
@@ -466,9 +456,7 @@
             <SP HEIGHT="63" WIDTH="13" VPOS="1674" HPOS="985"/>
             <String HEIGHT="63" WIDTH="54" VPOS="1674" HPOS="931" CONTENT="de" ID="tl_32_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_33" BASELINE="1759" HEIGHT="42" WIDTH="233" VPOS="1717" HPOS="170">
-            <String HEIGHT="42" WIDTH="264" VPOS="1717" HPOS="139" CONTENT="Radiodiffusion." ID="tl_33_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="105" WIDTH="808" VPOS="1764" HPOS="174">
           <TextLine ID="tl_34" BASELINE="1805" HEIGHT="45" WIDTH="815" VPOS="1760" HPOS="171">
@@ -511,9 +499,7 @@
             <SP HEIGHT="39" WIDTH="16" VPOS="1799" HPOS="940"/>
             <String HEIGHT="39" WIDTH="110" VPOS="1799" HPOS="877" CONTENT="Reyes" ID="tl_35_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_36" BASELINE="1880" HEIGHT="50" WIDTH="113" VPOS="1830" HPOS="169">
-            <String HEIGHT="50" WIDTH="145" VPOS="1830" HPOS="137" CONTENT="(Cuba)." ID="tl_36_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_4" HEIGHT="69" WIDTH="858" VPOS="1873" HPOS="126">
           <TextLine ID="tl_37" BASELINE="1912" HEIGHT="45" WIDTH="865" VPOS="1867" HPOS="122">
@@ -539,9 +525,7 @@
             <SP HEIGHT="45" WIDTH="13" VPOS="1867" HPOS="987"/>
             <String HEIGHT="45" WIDTH="52" VPOS="1867" HPOS="935" CONTENT="de" ID="tl_37_11" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_38" BASELINE="1952" HEIGHT="46" WIDTH="237" VPOS="1906" HPOS="167">
-            <String HEIGHT="46" WIDTH="269" VPOS="1906" HPOS="135" CONTENT="Radiodiffusion." ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_5" HEIGHT="72" WIDTH="859" VPOS="1948" HPOS="126">
           <TextLine ID="tl_39" BASELINE="1994" HEIGHT="54" WIDTH="869" VPOS="1940" HPOS="121">
@@ -667,14 +651,10 @@
             <SP HEIGHT="57" WIDTH="14" VPOS="2178" HPOS="991"/>
             <String HEIGHT="57" WIDTH="55" VPOS="2178" HPOS="936" CONTENT="La" ID="tl_45_11" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_46" BASELINE="2264" HEIGHT="46" WIDTH="125" VPOS="2218" HPOS="165">
-            <String HEIGHT="46" WIDTH="161" VPOS="2218" HPOS="129" CONTENT="Havane." ID="tl_46_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="28" WIDTH="32" VPOS="2307" HPOS="120">
-          <TextLine ID="tl_47" BASELINE="2343" HEIGHT="46" WIDTH="43" VPOS="2297" HPOS="114">
-            <String HEIGHT="46" WIDTH="86" VPOS="2297" HPOS="71" CONTENT="48" ID="tl_47_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="43" WIDTH="870" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_7" HEIGHT="11" WIDTH="511" VPOS="31" HPOS="32"/>

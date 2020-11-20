@@ -392,7 +392,7 @@
             <SP HEIGHT="51" WIDTH="17" VPOS="988" HPOS="801"/>
             <String HEIGHT="51" WIDTH="183" VPOS="988" HPOS="751" CONTENT="l’huile" ID="tl_24_8" STYLEREFS="FONT0"/>
             <SP HEIGHT="51" WIDTH="17" VPOS="988" HPOS="934"/>
-            <String HEIGHT="51" WIDTH="50" VPOS="988" HPOS="867" CONTENT="" SUBS_TYPE="HypPart1" SUBS_CONTENT="n’impliquent" ID="tl_24_9" STYLEREFS="FONT0"/>
+            
             <HYP CONTENT="-"/>
           </TextLine>
           <TextLine ID="tl_25" BASELINE="1071" HEIGHT="56" WIDTH="880" VPOS="1015" HPOS="39">
@@ -887,9 +887,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_8_1" HEIGHT="24" WIDTH="28" VPOS="2234" HPOS="890">
-          <TextLine ID="tl_54" BASELINE="2266" HEIGHT="47" WIDTH="37" VPOS="2219" HPOS="886">
-            <String HEIGHT="47" WIDTH="74" VPOS="2219" HPOS="849" CONTENT="23" ID="tl_54_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_9" HEIGHT="28" WIDTH="492" VPOS="0" HPOS="1"/>
         <GraphicalElement ID="r_10" HEIGHT="13" WIDTH="572" VPOS="0" HPOS="493"/>

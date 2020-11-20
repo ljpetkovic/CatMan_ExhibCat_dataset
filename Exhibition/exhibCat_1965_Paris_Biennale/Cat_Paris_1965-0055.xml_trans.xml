@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2266" WIDTH="1086" VPOS="107" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="42" WIDTH="267" VPOS="111" HPOS="37">
-          <TextLine ID="tl_1" BASELINE="162" HEIGHT="62" WIDTH="276" VPOS="100" HPOS="32">
-            <String HEIGHT="62" WIDTH="313" VPOS="100" HPOS="-5" CONTENT="FINLANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="331" VPOS="279" HPOS="383">
           <TextLine ID="tl_2" BASELINE="322" HEIGHT="56" WIDTH="339" VPOS="266" HPOS="379">
@@ -94,9 +92,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_5" HEIGHT="26" WIDTH="190" VPOS="478" HPOS="452">
-          <TextLine ID="tl_6" BASELINE="519" HEIGHT="49" WIDTH="199" VPOS="470" HPOS="447">
-            <String HEIGHT="49" WIDTH="243" VPOS="470" HPOS="403" CONTENT="SCULPTURE" ID="tl_6_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="40" WIDTH="746" VPOS="536" HPOS="141">
           <TextLine ID="tl_7" BASELINE="577" HEIGHT="45" WIDTH="753" VPOS="532" HPOS="137">
@@ -158,9 +154,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="26" WIDTH="155" VPOS="676" HPOS="469">
-          <TextLine ID="tl_10" BASELINE="713" HEIGHT="47" WIDTH="164" VPOS="666" HPOS="464">
-            <String HEIGHT="47" WIDTH="211" VPOS="666" HPOS="417" CONTENT="GRAVURE" ID="tl_10_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="42" WIDTH="794" VPOS="733" HPOS="138">
           <TextLine ID="tl_11" BASELINE="783" HEIGHT="59" WIDTH="802" VPOS="724" HPOS="134">

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2331" WIDTH="1181">
       <PrintSpace HEIGHT="2331" WIDTH="1137" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="354" VPOS="40" HPOS="729">
-          <TextLine ID="tl_1" BASELINE="98" HEIGHT="66" WIDTH="363" VPOS="32" HPOS="725">
-            <String HEIGHT="66" WIDTH="406" VPOS="32" HPOS="682" CONTENT="TÉLÉVISION" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="42" WIDTH="740" VPOS="233" HPOS="238">
           <TextLine ID="tl_2" BASELINE="283" HEIGHT="65" WIDTH="749" VPOS="218" HPOS="233">
@@ -150,9 +148,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_8" HEIGHT="37" WIDTH="153" VPOS="624" HPOS="184">
-          <TextLine ID="tl_10" BASELINE="669" HEIGHT="54" WIDTH="164" VPOS="615" HPOS="178">
-            <String HEIGHT="54" WIDTH="187" VPOS="615" HPOS="155" CONTENT="HONGRIE" ID="tl_10_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_9" HEIGHT="41" WIDTH="733" VPOS="677" HPOS="246">
           <TextLine ID="tl_11" BASELINE="717" HEIGHT="53" WIDTH="743" VPOS="664" HPOS="241">
@@ -183,9 +179,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_11" HEIGHT="34" WIDTH="124" VPOS="834" HPOS="188">
-          <TextLine ID="tl_13" BASELINE="877" HEIGHT="58" WIDTH="133" VPOS="819" HPOS="183">
-            <String HEIGHT="58" WIDTH="155" VPOS="819" HPOS="161" CONTENT="MAROC" ID="tl_13_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_12" HEIGHT="40" WIDTH="672" VPOS="887" HPOS="251">
           <TextLine ID="tl_14" BASELINE="931" HEIGHT="51" WIDTH="681" VPOS="880" HPOS="246">
@@ -224,9 +218,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="34" WIDTH="163" VPOS="1042" HPOS="190">
-          <TextLine ID="tl_16" BASELINE="1085" HEIGHT="63" WIDTH="173" VPOS="1022" HPOS="184">
-            <String HEIGHT="63" WIDTH="198" VPOS="1022" HPOS="159" CONTENT="POLOGNE" ID="tl_16_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_15" HEIGHT="41" WIDTH="764" VPOS="1095" HPOS="253">
           <TextLine ID="tl_17" BASELINE="1138" HEIGHT="52" WIDTH="773" VPOS="1086" HPOS="248">

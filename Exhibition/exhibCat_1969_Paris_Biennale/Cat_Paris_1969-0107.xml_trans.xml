@@ -25,14 +25,10 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2338" WIDTH="976" VPOS="23" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="43" WIDTH="160" VPOS="94" HPOS="149">
-          <TextLine ID="tl_1" BASELINE="143" HEIGHT="60" WIDTH="169" VPOS="83" HPOS="145">
-            <String HEIGHT="60" WIDTH="193" VPOS="83" HPOS="121" CONTENT="POLOGNE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="116" VPOS="223" HPOS="489">
-          <TextLine ID="tl_3" BASELINE="267" HEIGHT="55" WIDTH="126" VPOS="212" HPOS="484">
-            <String HEIGHT="55" WIDTH="176" VPOS="212" HPOS="434" CONTENT="FILMS" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="75" WIDTH="820" VPOS="283" HPOS="142">
           <TextLine ID="tl_4" BASELINE="332" HEIGHT="46" WIDTH="828" VPOS="286" HPOS="138">
@@ -52,9 +48,7 @@
             <SP HEIGHT="46" WIDTH="15" VPOS="286" HPOS="906"/>
             <String HEIGHT="46" WIDTH="120" VPOS="286" HPOS="846" CONTENT="(Polo" ID="tl_4_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_5" BASELINE="363" HEIGHT="42" WIDTH="82" VPOS="321" HPOS="136">
-            <String HEIGHT="42" WIDTH="115" VPOS="321" HPOS="103" CONTENT="gne)." ID="tl_5_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_3" HEIGHT="126" WIDTH="867" VPOS="358" HPOS="95">
           <TextLine ID="tl_6" BASELINE="410" HEIGHT="54" WIDTH="877" VPOS="356" HPOS="90">
@@ -93,9 +87,7 @@
             <SP HEIGHT="43" WIDTH="15" VPOS="412" HPOS="907"/>
             <String HEIGHT="43" WIDTH="121" VPOS="412" HPOS="846" CONTENT="(Polo" ID="tl_7_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_8" BASELINE="491" HEIGHT="44" WIDTH="84" VPOS="447" HPOS="134">
-            <String HEIGHT="44" WIDTH="118" VPOS="447" HPOS="100" CONTENT="gne)." ID="tl_8_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="51" WIDTH="746" VPOS="493" HPOS="142">
           <TextLine ID="tl_9" BASELINE="542" HEIGHT="50" WIDTH="755" VPOS="492" HPOS="138">
@@ -136,9 +128,7 @@
             <SP HEIGHT="50" WIDTH="13" VPOS="538" HPOS="899"/>
             <String HEIGHT="50" WIDTH="121" VPOS="538" HPOS="845" CONTENT="Polski," ID="tl_10_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_11" BASELINE="617" HEIGHT="46" WIDTH="140" VPOS="571" HPOS="136">
-            <String HEIGHT="46" WIDTH="171" VPOS="571" HPOS="105" CONTENT="Varsovie." ID="tl_11_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="81" WIDTH="822" VPOS="618" HPOS="140">
           <TextLine ID="tl_12" BASELINE="666" HEIGHT="49" WIDTH="830" VPOS="617" HPOS="136">
@@ -232,9 +222,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="28" WIDTH="47" VPOS="2300" HPOS="83">
-          <TextLine ID="tl_17" BASELINE="2340" HEIGHT="48" WIDTH="58" VPOS="2292" HPOS="78">
-            <String HEIGHT="48" WIDTH="97" VPOS="2292" HPOS="39" CONTENT="106" ID="tl_17_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="16" WIDTH="785" VPOS="23" HPOS="1"/>
         <GraphicalElement ID="r_6" HEIGHT="9" WIDTH="173" VPOS="36" HPOS="621"/>

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1086">
       <PrintSpace HEIGHT="2280" WIDTH="1075" VPOS="93" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="48" WIDTH="335" VPOS="99" HPOS="72">
-          <TextLine ID="tl_1" BASELINE="161" HEIGHT="74" WIDTH="345" VPOS="87" HPOS="67">
-            <String HEIGHT="74" WIDTH="391" VPOS="87" HPOS="21" CONTENT="PARAGUAY" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="55" WIDTH="736" VPOS="492" HPOS="224">
           <TextLine ID="tl_2" BASELINE="554" HEIGHT="73" WIDTH="745" VPOS="481" HPOS="219">
@@ -112,9 +110,7 @@
             <SP HEIGHT="48" WIDTH="17" VPOS="762" HPOS="869"/>
             <String HEIGHT="48" WIDTH="172" VPOS="762" HPOS="800" CONTENT="peinture" ID="tl_6_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="851" HEIGHT="53" WIDTH="254" VPOS="798" HPOS="115">
-            <String HEIGHT="53" WIDTH="293" VPOS="798" HPOS="76" CONTENT="paraguayenne." ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="227" WIDTH="850" VPOS="850" HPOS="117">
           <TextLine ID="tl_8" BASELINE="901" HEIGHT="54" WIDTH="812" VPOS="847" HPOS="160">
@@ -714,9 +710,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="23" WIDTH="26" VPOS="2269" HPOS="127">
-          <TextLine ID="tl_44" BASELINE="2300" HEIGHT="37" WIDTH="35" VPOS="2263" HPOS="123">
-            <String HEIGHT="37" WIDTH="70" VPOS="2263" HPOS="88" CONTENT="94" ID="tl_44_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="10" WIDTH="156" VPOS="2363" HPOS="919"/>
         <GraphicalElement ID="r_5" HEIGHT="4" WIDTH="796" VPOS="2369" HPOS="123"/>

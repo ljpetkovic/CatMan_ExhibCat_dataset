@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2373" WIDTH="1013" VPOS="0" HPOS="0">
         <TextBlock ID="r_2_1" HEIGHT="67" WIDTH="634" VPOS="61" HPOS="316">
-          <TextLine ID="tl_1" BASELINE="149" HEIGHT="98" WIDTH="643" VPOS="51" HPOS="311">
-            <String HEIGHT="98" WIDTH="701" VPOS="51" HPOS="253" CONTENT="TCHÉCOSLOVAQUIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="106" WIDTH="706" VPOS="443" HPOS="134">
           <TextLine ID="tl_2" BASELINE="520" HEIGHT="89" WIDTH="624" VPOS="431" HPOS="128">
@@ -672,9 +670,7 @@
             <SP HEIGHT="63" WIDTH="17" VPOS="1933" HPOS="926"/>
             <String HEIGHT="63" WIDTH="87" VPOS="1933" HPOS="856" CONTENT="ces" ID="tl_38_10" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_39" BASELINE="2035" HEIGHT="54" WIDTH="82" VPOS="1981" HPOS="74">
-            <String HEIGHT="54" WIDTH="109" VPOS="1981" HPOS="47" CONTENT="idées." ID="tl_39_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="43" WIDTH="284" VPOS="2058" HPOS="659">
           <TextLine ID="tl_40" BASELINE="2109" HEIGHT="55" WIDTH="296" VPOS="2054" HPOS="652">

@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="986" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="40" WIDTH="212" VPOS="87" HPOS="53">
-          <TextLine ID="tl_1" BASELINE="144" HEIGHT="74" WIDTH="222" VPOS="70" HPOS="48">
-            <String HEIGHT="74" WIDTH="256" VPOS="70" HPOS="14" CONTENT="ISRAEL" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="300" WIDTH="852" VPOS="212" HPOS="120">
           <TextLine ID="tl_2" BASELINE="268" HEIGHT="63" WIDTH="854" VPOS="205" HPOS="120">
@@ -325,9 +323,7 @@
             <SP HEIGHT="51" WIDTH="18" VPOS="1007" HPOS="815"/>
             <String HEIGHT="51" WIDTH="233" VPOS="1007" HPOS="743" CONTENT="occidentale" ID="tl_21_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1102" HEIGHT="53" WIDTH="279" VPOS="1049" HPOS="113">
-            <String HEIGHT="53" WIDTH="319" VPOS="1049" HPOS="73" CONTENT="contemporaine." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_4" HEIGHT="34" WIDTH="255" VPOS="1114" HPOS="717">
           <TextLine ID="tl_23" BASELINE="1160" HEIGHT="58" WIDTH="265" VPOS="1102" HPOS="712">
@@ -337,9 +333,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="194" VPOS="1307" HPOS="467">
-          <TextLine ID="tl_24" BASELINE="1353" HEIGHT="62" WIDTH="202" VPOS="1291" HPOS="463">
-            <String HEIGHT="62" WIDTH="253" VPOS="1291" HPOS="413" CONTENT="PEINTURE" ID="tl_24_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="40" WIDTH="662" VPOS="1369" HPOS="163">
           <TextLine ID="tl_25" BASELINE="1414" HEIGHT="50" WIDTH="672" VPOS="1364" HPOS="158">
@@ -445,9 +439,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="34" WIDTH="230" VPOS="1671" HPOS="445">
-          <TextLine ID="tl_32" BASELINE="1716" HEIGHT="55" WIDTH="239" VPOS="1661" HPOS="440">
-            <String HEIGHT="55" WIDTH="292" VPOS="1661" HPOS="387" CONTENT="SCULPTURE" ID="tl_32_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="43" WIDTH="720" VPOS="1732" HPOS="157">
           <TextLine ID="tl_33" BASELINE="1775" HEIGHT="52" WIDTH="728" VPOS="1723" HPOS="153">
@@ -536,9 +528,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="35" WIDTH="183" VPOS="1937" HPOS="466">
-          <TextLine ID="tl_37" BASELINE="1991" HEIGHT="68" WIDTH="192" VPOS="1923" HPOS="462">
-            <String HEIGHT="68" WIDTH="247" VPOS="1923" HPOS="407" CONTENT="GRAVURE" ID="tl_37_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_5_2" HEIGHT="44" WIDTH="746" VPOS="1996" HPOS="154">
           <TextLine ID="tl_38" BASELINE="2034" HEIGHT="55" WIDTH="754" VPOS="1979" HPOS="150">
@@ -655,9 +645,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="28" WIDTH="32" VPOS="2292" HPOS="103">
-          <TextLine ID="tl_45" BASELINE="2329" HEIGHT="46" WIDTH="41" VPOS="2283" HPOS="98">
-            <String HEIGHT="46" WIDTH="82" VPOS="2283" HPOS="57" CONTENT="78" ID="tl_45_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="34" WIDTH="711" VPOS="0" HPOS="1"/>
         <GraphicalElement ID="r_8" HEIGHT="949" WIDTH="10" VPOS="1" HPOS="0"/>

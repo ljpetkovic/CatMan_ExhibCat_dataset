@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1062" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="233" VPOS="64" HPOS="37">
-          <TextLine ID="tl_1" BASELINE="125" HEIGHT="73" WIDTH="243" VPOS="52" HPOS="32">
-            <String HEIGHT="73" WIDTH="284" VPOS="52" HPOS="-8" CONTENT="CANADA" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="38" WIDTH="411" VPOS="194" HPOS="353">
           <TextLine ID="tl_2" BASELINE="243" HEIGHT="63" WIDTH="422" VPOS="180" HPOS="348">
@@ -93,9 +91,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_6" HEIGHT="30" WIDTH="221" VPOS="459" HPOS="153">
-          <TextLine ID="tl_7" BASELINE="500" HEIGHT="47" WIDTH="231" VPOS="453" HPOS="148">
-            <String HEIGHT="47" WIDTH="260" VPOS="453" HPOS="119" CONTENT="Pratt" ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_7" HEIGHT="38" WIDTH="585" VPOS="505" HPOS="150">
           <TextLine ID="tl_8" BASELINE="544" HEIGHT="47" WIDTH="595" VPOS="497" HPOS="145">
@@ -163,9 +159,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_12" HEIGHT="29" WIDTH="149" VPOS="699" HPOS="147">
-          <TextLine ID="tl_13" BASELINE="739" HEIGHT="45" WIDTH="158" VPOS="694" HPOS="142">
-            <String HEIGHT="45" WIDTH="193" VPOS="694" HPOS="107" CONTENT="Theremin." ID="tl_13_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_13" HEIGHT="41" WIDTH="914" VPOS="745" HPOS="148">
           <TextLine ID="tl_14" BASELINE="794" HEIGHT="56" WIDTH="924" VPOS="738" HPOS="143">
@@ -183,14 +177,14 @@
             <SP HEIGHT="56" WIDTH="21" VPOS="738" HPOS="895"/>
             <String HEIGHT="56" WIDTH="279" VPOS="738" HPOS="831" CONTENT="(Canada)." ID="tl_14_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="56" WIDTH="21" VPOS="738" HPOS="1110"/>
-            <String HEIGHT="56" WIDTH="43" VPOS="738" HPOS="1024" CONTENT="" ID="tl_14_8" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_14" HEIGHT="37" WIDTH="914" VPOS="780" HPOS="149">
           <TextLine ID="tl_15" BASELINE="820" HEIGHT="43" WIDTH="923" VPOS="777" HPOS="145">
             <String HEIGHT="43" WIDTH="1319" VPOS="777" HPOS="13" CONTENT="Kazoo." ID="tl_15_1" STYLEREFS="FONT0"/>
             <SP HEIGHT="43" WIDTH="132" VPOS="777" HPOS="1332"/>
-            <String HEIGHT="43" WIDTH="264" VPOS="777" HPOS="804" CONTENT="" ID="tl_15_2" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_2_15" HEIGHT="43" WIDTH="898" VPOS="823" HPOS="148">
@@ -218,9 +212,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="31" VPOS="2276" HPOS="81">
-          <TextLine ID="tl_18" BASELINE="2316" HEIGHT="55" WIDTH="43" VPOS="2261" HPOS="76">
-            <String HEIGHT="55" WIDTH="86" VPOS="2261" HPOS="33" CONTENT="38" ID="tl_18_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="17" WIDTH="813" VPOS="0" HPOS="1"/>
         <GraphicalElement ID="r_5" HEIGHT="18" WIDTH="376" VPOS="2343" HPOS="0"/>

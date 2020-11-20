@@ -348,9 +348,7 @@
             <SP HEIGHT="78" WIDTH="20" VPOS="1074" HPOS="964"/>
             <String HEIGHT="78" WIDTH="80" VPOS="1074" HPOS="884" CONTENT="de" ID="tl_21_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1201" HEIGHT="56" WIDTH="131" VPOS="1145" HPOS="70">
-            <String HEIGHT="56" WIDTH="175" VPOS="1145" HPOS="26" CONTENT="l’ARC." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_1_4" HEIGHT="275" WIDTH="891" VPOS="1178" HPOS="77">
           <TextLine ID="tl_23" BASELINE="1245" HEIGHT="90" WIDTH="841" VPOS="1155" HPOS="123">
@@ -442,9 +440,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="28" WIDTH="30" VPOS="2271" HPOS="976">
-          <TextLine ID="tl_30" BASELINE="2305" HEIGHT="40" WIDTH="40" VPOS="2265" HPOS="970">
-            <String HEIGHT="40" WIDTH="80" VPOS="2265" HPOS="930" CONTENT="13" ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_4" HEIGHT="24" WIDTH="450" VPOS="2361" HPOS="159"/>
       </PrintSpace>

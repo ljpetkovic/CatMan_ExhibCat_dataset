@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2276" WIDTH="1061">
       <PrintSpace HEIGHT="2276" WIDTH="1061" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="37" WIDTH="253" VPOS="58" HPOS="727">
-          <TextLine ID="tl_1" BASELINE="106" HEIGHT="58" WIDTH="263" VPOS="48" HPOS="722">
-            <String HEIGHT="58" WIDTH="303" VPOS="48" HPOS="682" CONTENT="&lt;CCEVLAN" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="38" WIDTH="372" VPOS="455" HPOS="116">
           <TextLine ID="tl_2" BASELINE="494" HEIGHT="44" WIDTH="382" VPOS="450" HPOS="111">
@@ -374,9 +372,7 @@
             <SP HEIGHT="49" WIDTH="16" VPOS="1263" HPOS="829"/>
             <String HEIGHT="49" WIDTH="156" VPOS="1263" HPOS="766" CONTENT="création" ID="tl_21_11" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_22" BASELINE="1349" HEIGHT="48" WIDTH="169" VPOS="1301" HPOS="20">
-            <String HEIGHT="48" WIDTH="200" VPOS="1301" HPOS="-11" CONTENT="artistique." ID="tl_22_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_2" HEIGHT="188" WIDTH="894" VPOS="1355" HPOS="24">
           <TextLine ID="tl_23" BASELINE="1396" HEIGHT="58" WIDTH="858" VPOS="1338" HPOS="64">
@@ -731,9 +727,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_5_1" HEIGHT="22" WIDTH="28" VPOS="2196" HPOS="883">
-          <TextLine ID="tl_44" BASELINE="2233" HEIGHT="45" WIDTH="37" VPOS="2188" HPOS="878">
-            <String HEIGHT="45" WIDTH="74" VPOS="2188" HPOS="841" CONTENT="39" ID="tl_44_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_6" HEIGHT="32" WIDTH="1061" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_7" HEIGHT="1" WIDTH="979" VPOS="2275" HPOS="0"/>

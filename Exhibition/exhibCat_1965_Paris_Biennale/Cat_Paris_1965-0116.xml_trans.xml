@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2373" WIDTH="1013" VPOS="0" HPOS="0">
         <TextBlock ID="r_2_1" HEIGHT="49" WIDTH="276" VPOS="59" HPOS="667">
-          <TextLine ID="tl_1" BASELINE="112" HEIGHT="60" WIDTH="287" VPOS="52" HPOS="661">
-            <String HEIGHT="60" WIDTH="328" VPOS="52" HPOS="620" CONTENT="TUNISIE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="63" WIDTH="592" VPOS="454" HPOS="130">
           <TextLine ID="tl_2" BASELINE="523" HEIGHT="76" WIDTH="602" VPOS="447" HPOS="125">
@@ -398,9 +396,7 @@
             <SP HEIGHT="67" WIDTH="16" VPOS="1322" HPOS="844"/>
             <String HEIGHT="67" WIDTH="146" VPOS="1322" HPOS="779" CONTENT="Chebil," ID="tl_22_9" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_23" BASELINE="1432" HEIGHT="51" WIDTH="71" VPOS="1381" HPOS="69">
-            <String HEIGHT="51" WIDTH="95" VPOS="1381" HPOS="45" CONTENT="etc.)." ID="tl_23_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_3" HEIGHT="140" WIDTH="852" VPOS="1413" HPOS="75">
           <TextLine ID="tl_24" BASELINE="1471" HEIGHT="58" WIDTH="829" VPOS="1413" HPOS="100">

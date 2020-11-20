@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2361" WIDTH="1062">
       <PrintSpace HEIGHT="2361" WIDTH="1001" VPOS="0" HPOS="0">
         <TextBlock ID="r_1_1" HEIGHT="41" WIDTH="162" VPOS="70" HPOS="39">
-          <TextLine ID="tl_1" BASELINE="121" HEIGHT="67" WIDTH="171" VPOS="54" HPOS="35">
-            <String HEIGHT="67" WIDTH="200" VPOS="54" HPOS="7" CONTENT="CHILI" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="80" WIDTH="722" VPOS="450" HPOS="209">
           <TextLine ID="tl_2" BASELINE="505" HEIGHT="64" WIDTH="731" VPOS="441" HPOS="205">
@@ -41,9 +39,7 @@
             <SP HEIGHT="64" WIDTH="17" VPOS="441" HPOS="770"/>
             <String HEIGHT="64" WIDTH="233" VPOS="441" HPOS="703" CONTENT="Carvacho" ID="tl_2_5" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="543" HEIGHT="54" WIDTH="140" VPOS="489" HPOS="208">
-            <String HEIGHT="54" WIDTH="180" VPOS="489" HPOS="168" CONTENT="Herrera" ID="tl_3_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_1" HEIGHT="844" WIDTH="874" VPOS="638" HPOS="104">
           <TextLine ID="tl_4" BASELINE="688" HEIGHT="59" WIDTH="816" VPOS="629" HPOS="163">
@@ -533,9 +529,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="32" VPOS="2283" HPOS="100">
-          <TextLine ID="tl_36" BASELINE="2320" HEIGHT="56" WIDTH="41" VPOS="2264" HPOS="95">
-            <String HEIGHT="56" WIDTH="82" VPOS="2264" HPOS="54" CONTENT="40" ID="tl_36_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_5" HEIGHT="20" WIDTH="303" VPOS="0" HPOS="0"/>
         <GraphicalElement ID="r_6" HEIGHT="7" WIDTH="380" VPOS="2354" HPOS="1"/>

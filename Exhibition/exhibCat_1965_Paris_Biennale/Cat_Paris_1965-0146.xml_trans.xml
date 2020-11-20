@@ -30,9 +30,7 @@
             <SP HEIGHT="79" WIDTH="19" VPOS="70" HPOS="770"/>
             <String HEIGHT="79" WIDTH="304" VPOS="70" HPOS="694" CONTENT="RÉGIONALES" ID="tl_2_2" STYLEREFS="FONT1"/>
           </TextLine>
-          <TextLine ID="tl_3" BASELINE="179" HEIGHT="61" WIDTH="305" VPOS="118" HPOS="693">
-            <String HEIGHT="61" WIDTH="343" VPOS="118" HPOS="655" CONTENT="(CASINOS)" ID="tl_3_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_1" HEIGHT="269" WIDTH="767" VPOS="384" HPOS="168">
           <TextLine ID="tl_21" BASELINE="459" HEIGHT="82" WIDTH="768" VPOS="377" HPOS="164">
@@ -147,9 +145,7 @@
             <SP HEIGHT="72" WIDTH="13" VPOS="556" HPOS="912"/>
             <String HEIGHT="72" WIDTH="80" VPOS="556" HPOS="859" CONTENT="Nie" ID="tl_26_7" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_27" BASELINE="661" HEIGHT="44" WIDTH="119" VPOS="617" HPOS="163">
-            <String HEIGHT="44" WIDTH="145" VPOS="617" HPOS="137" CONTENT="derbronn." ID="tl_27_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_2" HEIGHT="330" WIDTH="781" VPOS="634" HPOS="169">
           <TextLine ID="tl_28" BASELINE="704" HEIGHT="65" WIDTH="777" VPOS="639" HPOS="165">
@@ -886,9 +882,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="25" WIDTH="40" VPOS="2254" HPOS="962">
-          <TextLine ID="tl_69" BASELINE="2290" HEIGHT="42" WIDTH="50" VPOS="2248" HPOS="957">
-            <String HEIGHT="42" WIDTH="83" VPOS="2248" HPOS="924" CONTENT="145" ID="tl_69_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="4" WIDTH="188" VPOS="2369" HPOS="137"/>
         <GraphicalElement ID="r_8" HEIGHT="9" WIDTH="193" VPOS="2364" HPOS="616"/>

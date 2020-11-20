@@ -25,9 +25,7 @@
     <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1013">
       <PrintSpace HEIGHT="2323" WIDTH="937" VPOS="50" HPOS="17">
         <TextBlock ID="r_1_1" HEIGHT="64" WIDTH="589" VPOS="56" HPOS="355">
-          <TextLine ID="tl_1" BASELINE="132" HEIGHT="89" WIDTH="596" VPOS="43" HPOS="350">
-            <String HEIGHT="89" WIDTH="650" VPOS="43" HPOS="296" CONTENT="GRANDE" ID="tl_1_1" STYLEREFS="FONT1"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_2_1" HEIGHT="52" WIDTH="440" VPOS="194" HPOS="242">
           <TextLine ID="tl_2" BASELINE="251" HEIGHT="66" WIDTH="451" VPOS="185" HPOS="235">
@@ -103,9 +101,7 @@
             <SP HEIGHT="74" WIDTH="14" VPOS="367" HPOS="657"/>
             <String HEIGHT="74" WIDTH="282" VPOS="367" HPOS="601" CONTENT="(Grande" ID="tl_6_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_7" BASELINE="481" HEIGHT="53" WIDTH="239" VPOS="428" HPOS="75">
-            <String HEIGHT="53" WIDTH="266" VPOS="428" HPOS="48" CONTENT="Sculpteur" ID="tl_7_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_4" HEIGHT="103" WIDTH="799" VPOS="446" HPOS="81">
           <TextLine ID="tl_8" BASELINE="516" HEIGHT="77" WIDTH="807" VPOS="439" HPOS="77">
@@ -150,9 +146,7 @@
             <SP HEIGHT="77" WIDTH="14" VPOS="514" HPOS="664"/>
             <String HEIGHT="77" WIDTH="279" VPOS="514" HPOS="608" CONTENT="(Grande" ID="tl_10_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_11" BASELINE="626" HEIGHT="51" WIDTH="267" VPOS="575" HPOS="80">
-            <String HEIGHT="51" WIDTH="292" VPOS="575" HPOS="55" CONTENT="Peintre" ID="tl_11_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_3_6" HEIGHT="60" WIDTH="800" VPOS="601" HPOS="86">
           <TextLine ID="tl_12" BASELINE="665" HEIGHT="70" WIDTH="811" VPOS="595" HPOS="80">
@@ -406,9 +400,7 @@
             <SP HEIGHT="55" WIDTH="14" VPOS="1311" HPOS="682"/>
             <String HEIGHT="55" WIDTH="287" VPOS="1311" HPOS="625" CONTENT="(Grande" ID="tl_29_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_30" BASELINE="1403" HEIGHT="45" WIDTH="137" VPOS="1358" HPOS="93">
-            <String HEIGHT="45" WIDTH="164" VPOS="1358" HPOS="66" CONTENT="Graphiste." ID="tl_30_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_10" HEIGHT="80" WIDTH="814" VPOS="1391" HPOS="98">
           <TextLine ID="tl_31" BASELINE="1440" HEIGHT="54" WIDTH="821" VPOS="1386" HPOS="95">
@@ -428,9 +420,7 @@
             <SP HEIGHT="54" WIDTH="15" VPOS="1386" HPOS="681"/>
             <String HEIGHT="54" WIDTH="293" VPOS="1386" HPOS="623" CONTENT="(Grande" ID="tl_31_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_32" BASELINE="1479" HEIGHT="42" WIDTH="147" VPOS="1437" HPOS="93">
-            <String HEIGHT="42" WIDTH="174" VPOS="1437" HPOS="66" CONTENT="Architecte." ID="tl_32_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_11" HEIGHT="86" WIDTH="813" VPOS="1466" HPOS="101">
           <TextLine ID="tl_33" BASELINE="1519" HEIGHT="60" WIDTH="822" VPOS="1459" HPOS="97">
@@ -500,9 +490,7 @@
             <SP HEIGHT="54" WIDTH="14" VPOS="1613" HPOS="698"/>
             <String HEIGHT="54" WIDTH="285" VPOS="1613" HPOS="641" CONTENT="(Grande" ID="tl_37_8" STYLEREFS="FONT0"/>
           </TextLine>
-          <TextLine ID="tl_38" BASELINE="1708" HEIGHT="47" WIDTH="138" VPOS="1661" HPOS="99">
-            <String HEIGHT="47" WIDTH="166" VPOS="1661" HPOS="71" CONTENT="Graphiste." ID="tl_38_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <TextBlock ID="r_4_14" HEIGHT="87" WIDTH="817" VPOS="1692" HPOS="107">
           <TextLine ID="tl_39" BASELINE="1740" HEIGHT="54" WIDTH="826" VPOS="1686" HPOS="102">
@@ -668,9 +656,7 @@
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_1" HEIGHT="23" WIDTH="29" VPOS="2255" HPOS="920">
-          <TextLine ID="tl_50" BASELINE="2297" HEIGHT="52" WIDTH="38" VPOS="2245" HPOS="916">
-            <String HEIGHT="52" WIDTH="76" VPOS="2245" HPOS="878" CONTENT="55" ID="tl_50_1" STYLEREFS="FONT0"/>
-          </TextLine>
+          
         </TextBlock>
         <GraphicalElement ID="r_7" HEIGHT="3" WIDTH="330" VPOS="2370" HPOS="67"/>
         <GraphicalElement ID="r_8" HEIGHT="3" WIDTH="329" VPOS="2370" HPOS="397"/>
