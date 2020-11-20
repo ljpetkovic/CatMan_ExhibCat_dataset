@@ -743,7 +743,7 @@
             <SP HEIGHT="54" WIDTH="62" VPOS="1357" HPOS="728"/>
             <String HEIGHT="54" WIDTH="801" VPOS="1357" HPOS="543" CONTENT="Vignette." ID="tl_33_2" STYLEREFS="FONT0"/>
             <SP HEIGHT="54" WIDTH="62" VPOS="1357" HPOS="1344"/>
-            <String HEIGHT="54" WIDTH="123" VPOS="1357" HPOS="1098" CONTENT="" ID="tl_33_3" STYLEREFS="FONT0"/>
+            
           </TextLine>
         </TextBlock>
         <TextBlock ID="r_6_17" HEIGHT="42" WIDTH="1132" VPOS="1408" HPOS="82">
@@ -766,8 +766,8 @@
             <SP HEIGHT="57" WIDTH="29" VPOS="1389" HPOS="1048"/>
             <String HEIGHT="57" WIDTH="258" VPOS="1389" HPOS="962" CONTENT="in-4." ID="tl_34_9" STYLEREFS="FONT0"/>
             <SP HEIGHT="57" WIDTH="29" VPOS="1389" HPOS="1220"/>
-            <String HEIGHT="57" WIDTH="115" VPOS="1389" HPOS="1134" CONTENT="" ID="tl_34_10" STYLEREFS="FONT0"/>
-            <SP HEIGHT="57" WIDTH="29" VPOS="1389" HPOS="1249"/>
+            
+<!--            <SP HEIGHT="57" WIDTH="29" VPOS="1389" HPOS="1249"/>-->
             <String HEIGHT="57" WIDTH="86" VPOS="1389" HPOS="1134" CONTENT="." ID="tl_34_11" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>
@@ -1074,8 +1074,8 @@
             <SP HEIGHT="50" WIDTH="28" VPOS="1984" HPOS="868"/>
             <String HEIGHT="50" WIDTH="255" VPOS="1984" HPOS="783" CONTENT="in-4." ID="tl_48_7" STYLEREFS="FONT0"/>
             <SP HEIGHT="50" WIDTH="28" VPOS="1984" HPOS="1038"/>
-            <String HEIGHT="50" WIDTH="113" VPOS="1984" HPOS="953" CONTENT="" ID="tl_48_8" STYLEREFS="FONT0"/>
-            <SP HEIGHT="50" WIDTH="28" VPOS="1984" HPOS="1066"/>
+            
+<!--            <SP HEIGHT="50" WIDTH="28" VPOS="1984" HPOS="1066"/>-->
             <String HEIGHT="50" WIDTH="85" VPOS="1984" HPOS="953" CONTENT="." ID="tl_48_9" STYLEREFS="FONT0"/>
           </TextLine>
         </TextBlock>

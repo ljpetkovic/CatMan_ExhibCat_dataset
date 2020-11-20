@@ -131,8 +131,8 @@
         </TextBlock>
         <TextBlock ID="r_2_3" HEIGHT="39" WIDTH="674" VPOS="1044" HPOS="344">
           <TextLine ID="tl_11" BASELINE="1088" HEIGHT="46" WIDTH="691" VPOS="1042" HPOS="335">
-            <String HEIGHT="46" WIDTH="115" VPOS="1042" HPOS="306" CONTENT="" ID="tl_11_1" STYLEREFS="FONT0"/>
-            <SP HEIGHT="46" WIDTH="29" VPOS="1042" HPOS="421"/>
+            
+<!--            <SP HEIGHT="46" WIDTH="29" VPOS="1042" HPOS="421"/>-->
             <String HEIGHT="46" WIDTH="461" VPOS="1042" HPOS="335" CONTENT="Manuscrits," ID="tl_11_2" STYLEREFS="FONT1"/>
             <SP HEIGHT="46" WIDTH="29" VPOS="1042" HPOS="796"/>
             <String HEIGHT="46" WIDTH="259" VPOS="1042" HPOS="709" CONTENT="etc.," ID="tl_11_3" STYLEREFS="FONT1"/>
