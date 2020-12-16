@@ -12,7 +12,7 @@ The ALTO training set contains typographical information marked by the attribute
 
 ## Cite this dataset
 
-Caroline Corbières, Ljudmila Petkovic, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition and manuscript sales catalogues (ALTO and JPEG)_, 2020, https://github.com/ljpetkovic/CatMan_ExhibCat_dataset.
+Ljudmila Petkovic, Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition and manuscript sales catalogues (ALTO and JPEG)_, 2020, https://github.com/ljpetkovic/CatMan_ExhibCat_dataset.
 
 ## Licence
 
