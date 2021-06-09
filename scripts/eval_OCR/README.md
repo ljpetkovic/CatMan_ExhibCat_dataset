@@ -232,6 +232,11 @@ Also:
 * `<b> < > < > </b>` --------------> `<b> < > <b> </b>` : corrected, but the original example is ambiguous (could be either `<b> </b> <b> </b>` or `<b> <i> </i> </b>`);
 * `<b> < > </ > </b>` -------------> `<b> <> </> </b>`.  
 
+
+### The OCR evaluation scores for the _LAC_ and _LAV_ catalogues.
+<p align="center"><img src="ocr_eval.png" width="100%"></p>
+
+
 ### Related tasks
 
 * Automatic correction of the malformed tags in the ALTO-XML files, using the `corr_ALTO.{py,sh}` script (cf. [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval/ALTO_XML_trans/scripts));
